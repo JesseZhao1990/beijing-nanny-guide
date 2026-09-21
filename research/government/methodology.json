@@ -1,0 +1,108 @@
+{
+  "checkedAt": "2026-09-21",
+  "scope": "北京政府家政正式推选、员工制入选及有关标准；重点检索2025/2026，核对2023/2024历史正式名单。未登录任何申报系统，不代表内部全库查询。",
+  "channels": [
+    {
+      "channel": "agent-reach / Exa",
+      "status": "未重复调用",
+      "reason": "本会话此前已实测免费额度429耗尽，按父任务指示使用原生web替代"
+    },
+    {
+      "channel": "Jina Reader",
+      "status": "failed",
+      "reason": "对官方名录及标准共5个正文URL回读均遇No route to host；未用失败页面当全文。另公告索引尝试亦未得到可用正文。"
+    },
+    {
+      "channel": "原生web搜索与open",
+      "status": "ok",
+      "reason": "政府域定向搜索、官方原文打开；北京2025目录第一页/第二页各15家均回读，2023/2024最终名单和标准、基地名单均回读。"
+    }
+  ],
+  "latestConclusion": "本轮公开索引及可读官网未取得2025或2026年度北京市员工制企业正式入选新名单，也未取得2025/2026北京市育儿嫂机构官方高低名次或质量星级榜。不能据此断言政府未开展任何更新。2026-09-04方案不是企业名单。",
+  "representativeActualQueries": [
+    "site.beijing.gov.cn 2025 2026 家政 30家 推选 企业",
+    "site.beijing.gov.cn 2025 员工制 家政 企业 名单",
+    "site.beijing.gov.cn 2026 员工制 家政 企业 公示",
+    "site.fgw.beijing.gov.cn \"员工制\" \"2025\" \"名单\"",
+    "site.sw.beijing.gov.cn \"员工制\" \"2026\" \"名单\"",
+    "\"北京市员工制家政服务企业（2025年度）\"",
+    "\"北京市员工制家政服务企业\" \"2026\"",
+    "北京 家政劳务品牌 2025 11 6 81 人社 信誉 素质",
+    "北京 2023 员工制 家政 企业 征集 名单 有效期 一年",
+    "site.beijing.gov.cn 家政 企业 星级 2025 2026 评定 名单",
+    "site.sw.beijing.gov.cn 家政 员工制 2025 2026 入选 公告",
+    "site.rsj.beijing.gov.cn 家政 员工制 2025 入选名单",
+    "site.fgw.beijing.gov.cn 家政 2026 入选名单"
+  ],
+  "exclusions": [
+    {
+      "url": "https://www.maigoo.com/best/47735.html",
+      "reason": "CNPP/买购商业榜单，非政府评选；未用作政府分。"
+    },
+    {
+      "url": "https://m.chinapp.com/best/jiazhengfuwu.html",
+      "reason": "品牌网商业榜单，非政府评选；未用作政府分。"
+    },
+    {
+      "url": "https://ybj.beijing.gov.cn/tzgg2022/202510/t20251015_4224616.html",
+      "reason": "政府站转载协会社会化职业技能等级认定工作通知，对象为个人职业技能，不是育儿嫂机构评选。"
+    },
+    {
+      "url": "https://mzj.beijing.gov.cn/art/2026/2/10/art_413_691010.html",
+      "reason": "养老机构/养老驿站星级名单，对象和服务不同；不转为育儿嫂机构等级。"
+    },
+    {
+      "url": "https://www.shanghai.gov.cn/cmsres/93/9386f3f8dfc74e04a75c4b94d4e2ec6e/6cb00140f1d6667099aeda7495b6a103.pdf",
+      "reason": "上海2025员工制申报文件，非北京名录。"
+    },
+    {
+      "url": "https://fuwu.rsj.beijing.gov.cn/bjdkhy/ygzjzfw/",
+      "reason": "员工制征集/进度系统，原生web回读只返回JavaScript壳；搜索摘要未显示明确新年度，不能推出新名单。"
+    }
+  ],
+  "rankingReview": [
+    "可以按用户偏好优先展示2025正式政府品牌入选企业，但政府未提供企业名次或评分。",
+    "60/15/10等权重属于本报告自行设计的政府记录参考分，不是政府评分；不宜标作服务质量分。",
+    "2024/2023员工制需写历史年度，认定均有效一年。输入基地只说明劳务协作选取。",
+    "同类别正式入选企业应同政府基础值；年度重复、公告转载、拟公示不重复计分。",
+    "若同时先政府分组再加60分，会强化同一偏好，应显式说明排序先后并将保障资料40分用于组内比较。",
+    "政府入选先经过北京育儿业务和实际合同法人门槛；不同主体近名不自动合并。"
+  ],
+  "agentReachVersion": "1.5.0，check-update确认当前最新版本",
+  "implementation": {
+    "version": "2.0",
+    "groupCounts": [
+      {
+        "id": "official",
+        "label": "政府品牌推选优先组",
+        "count": 20
+      },
+      {
+        "id": "historical",
+        "label": "其他政府记录组",
+        "count": 3
+      },
+      {
+        "id": "supplement",
+        "label": "未匹配入选名单的补充组",
+        "count": 30
+      },
+      {
+        "id": "identity",
+        "label": "主体待核组",
+        "count": 37
+      },
+      {
+        "id": "business",
+        "label": "北京育儿业务待核组",
+        "count": 31
+      },
+      {
+        "id": "platform",
+        "label": "平台入口组",
+        "count": 4
+      }
+    ],
+    "preserved": "All preexisting item fields except scorecard and all top-level fields except scoring/items compared equal to baseline; officialSelection is additive."
+  }
+}

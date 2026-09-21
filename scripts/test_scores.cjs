@@ -1,37 +1,34 @@
-const assert=require('node:assert/strict');
-const fs=require('node:fs');
-const {calculate,rank}=require('../dist/scoring.js');
+'use strict';
+const assert=require('node:assert/strict'),fs=require('node:fs');
+const {score,eligible,compare,rank}=require('../dist/scoring.js');
 const data=JSON.parse(fs.readFileSync(__dirname+'/../dist/data.json','utf8'));
-const weights=data.scoring.presets[0].weights;
-assert.deepEqual(calculate([0,0,0,0,0,0],weights),{components:[0,0,0,0,0,0],total:0,covered:0});
-assert.equal(calculate([5,5,5,5,5,5],weights).total,100);
-assert.throws(()=>calculate([1,2],weights));
-assert.throws(()=>calculate([0,0,0,0,0,6],weights));
-assert.equal(data.items.filter(r=>r.scorecard).length,125);
-for(const preset of data.scoring.presets){
-  const ranks=rank(data.items,preset.weights);
-  assert.equal(Object.keys(ranks).length,91);
-  for(const item of data.items){
-    const score=calculate(item.scorecard.levels,preset.weights);
-    assert(score.total>=0&&score.total<=80);
-    assert.equal(item.scorecard.reasons.length,6);
-    if(preset.id==='balanced'){
-      assert.equal(score.total,item.scorecard.total,item.id);
-      assert.equal(ranks[item.id]?.position??null,item.scorecard.rank,item.id);
-      assert.equal(ranks[item.id]?.tied??false,item.scorecard.tied,item.id);
-    }
-    if(item.businessStatus!=='confirmed')assert.equal(ranks[item.id],undefined);
-  }
+assert.equal(data.scoring.version,'2.0');assert.equal(data.items.length,125);
+assert.deepEqual(data.scoring.presets.map(p=>p.weights),[[60,15,10,5,5,5]]);
+const ranks=rank(data.items),sources=data.scoring.officialSources;
+for(const r of data.items){
+ const s=score(r),g=r.officialSelection;
+ assert.equal(s.total,r.scorecard.total,r.id);assert.deepEqual(s.components,r.scorecard.components);
+ assert(s.total>=0&&s.total<=92,r.id);assert.equal(r.scorecard.reasons.length,6);
+ assert.equal(ranks[r.id]?.position??null,r.scorecard.rank,r.id);
+ assert.equal(ranks[r.id]?.tied??false,r.scorecard.tied,r.id);
+ assert.equal(g.points,Math.max(0,...g.matches.map(m=>m.points)),'recognitions must not stack');
+ for(const m of g.matches){
+  const source=sources.find(x=>x.sourceId===m.sourceId);assert(source,m.sourceId);
+  assert(source.companies.includes(m.listedCompany),r.id+' entity must exist in source');
+  if(m.recordType.startsWith('employee')){assert(m.points<=15);assert(/历史|已过/.test(m.validity));}
+ }
+ if(eligible(r)){assert.equal(g.points,60);assert.equal(g.identityGate,'pass');assert.equal(r.businessStatus,'confirmed');}
+ else assert.equal(ranks[r.id],undefined,r.id);
+ if(g.identityGate==='hold')assert.notEqual(g.group,'official');
 }
-const fixture=[
-  {id:'a',businessStatus:'confirmed',scorecard:{levels:[2,0,0,0,0,0]}},
-  {id:'b',businessStatus:'confirmed',scorecard:{levels:[2,0,0,0,0,0]}},
-  {id:'c',businessStatus:'confirmed',scorecard:{levels:[1,0,0,0,0,0]}},
-  {id:'p',businessStatus:'platform',scorecard:{levels:[4,4,4,4,4,4]}},
-];
-const ties=rank(fixture,weights);
-assert.deepEqual(ties,{a:{position:1,tied:true},b:{position:1,tied:true},c:{position:3,tied:false}});
-const before=calculate([4,1,1,1,1,1],weights).total;
-const emphasis=calculate([4,1,1,1,1,1],data.scoring.presets[1].weights).total;
-assert(emphasis>before);
-console.log('PASS: 125 scorecards; six components; all presets; 91 eligible ranks; ties; missing data; platform isolation.');
+const obscure=data.items.find(r=>r.name==='找个保姆');
+assert.equal(obscure.officialSelection.group,'identity');assert(!eligible(obscure));assert.equal(obscure.officialSelection.points,0);
+const jd=data.items.find(r=>r.name==='京东家政');assert.equal(jd.officialSelection.points,60);assert(!eligible(jd));
+assert.equal(data.items.find(r=>r.id==='new-gov-hemeijia').officialSelection.group,'business');
+const fixture=(id,group,points,levels=[0,0,0,0,0])=>({id,businessStatus:'confirmed',officialSelection:{group,points,identityGate:group==='identity'?'hold':'pass'},scorecard:{levels:[points/12,...levels]}});
+const a=fixture('a','official',60),b=fixture('b','official',60),c=fixture('c','official',60,[1,0,0,0,0]);
+assert.deepEqual(rank([a,b,c]),{c:{position:1,tied:false},a:{position:2,tied:true},b:{position:2,tied:true}});
+assert(compare(a,fixture('unknown','identity',0,[5,5,5,5,5]))<0);
+assert(compare(fixture('history','historical',10),fixture('supplement','supplement',0,[5,5,5,5,5]))<0);
+assert.equal(score(fixture('none','supplement',0)).total,0);
+console.log('PASS: 125 government comparisons; identity/business gates; source/entity matches; expired awards; no stacking; government-first order; ties; JD and obscure-brand isolation.');

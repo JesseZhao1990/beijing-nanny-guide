@@ -1,0 +1,2002 @@
+[
+  {
+    "id": "agency-01",
+    "name": "天鹅到家",
+    "identityLevel": 4,
+    "entityGate": "pass",
+    "reason": "既有档案有完整主体名称与可归属的北京服务线索，达到补充候选的主体门槛；未找到本次对照的政府入选记录，不包装为政府推荐。 档案依据：官网页脚运营信息为五八到家有限公司；北京育儿嫂订单实际签约、收款与责任主体仍须逐单确认。",
+    "governmentMatches": [],
+    "businessStatus": "confirmed",
+    "suggestedGroup": "supplementary",
+    "businessGate": "pass",
+    "businessReason": "北京育儿嫂专页面向满月至3岁家庭，列喂养、生活护理、辅食、护理记录及早教互动；官网城市覆盖含北京。"
+  },
+  {
+    "id": "agency-02",
+    "name": "阿姨来了",
+    "identityLevel": 4,
+    "entityGate": "pass",
+    "reason": "政府正式列名主体或有来源支持的品牌关联可对应，满足本次“有完整主体线索”门槛；这不等于实时工商、当前合同或逐人劳动关系已核实。 档案依据：中国就业网2025-12-15确认品牌属北京嘉乐会家政服务有限公司；官网用户协议同时列北京阿姨来了信息科技有限公司等关联主体，实际签约公司不能固定写成嘉乐会一家。",
+    "governmentMatches": [
+      {
+        "sourceUrl": "https://rsj.beijing.gov.cn/bm/ztzl/ssjzlwpp/202511/t20251103_4251020.html",
+        "listedCompany": "北京嘉乐会家政服务有限公司",
+        "matchBasis": "政府就业品牌介绍将阿姨来了对应北京嘉乐会家政服务有限公司；本人网站另列信息科技等关联公司，不自动等同每笔合同的签约收款主体。",
+        "matchStatus": "brand-linked",
+        "recordType": "labor-brand-2025"
+      },
+      {
+        "sourceUrl": "https://rsj.beijing.gov.cn/xxgk/tzgg/202302/t20230208_2913405.html",
+        "listedCompany": "北京嘉乐会家政服务有限公司",
+        "matchBasis": "政府就业品牌介绍将阿姨来了对应北京嘉乐会家政服务有限公司；本人网站另列信息科技等关联公司，不自动等同每笔合同的签约收款主体。2023年度员工制资格为历史记录，有效期已过，不表述为2026当前员工制认证。",
+        "matchStatus": "brand-linked",
+        "recordType": "employee-2023"
+      },
+      {
+        "sourceUrl": "https://rsj.beijing.gov.cn/xxgk/tzgg/202511/t20251103_4251298.html",
+        "listedCompany": "北京嘉乐会家政服务有限公司",
+        "matchBasis": "基地列名嘉乐会，既有中国就业网品牌介绍明确阿姨来了与嘉乐会关联；官网还列其他关联主体，不能覆盖每一笔阿姨来了订单。",
+        "matchStatus": "brand-linked",
+        "recordType": "input-base-2025"
+      }
+    ],
+    "businessStatus": "confirmed",
+    "suggestedGroup": "government-2025",
+    "businessGate": "pass",
+    "businessReason": "官网育儿嫂FAQ明确照看入园前婴幼儿，提供喂养、辅食、睡眠和早教；北京总部及覆盖城市由官网、政府品牌介绍交叉支持。"
+  },
+  {
+    "id": "agency-03",
+    "name": "爱侬家政",
+    "identityLevel": 4,
+    "entityGate": "pass",
+    "reason": "政府正式列名主体或有来源支持的品牌关联可对应，满足本次“有完整主体线索”门槛；这不等于实时工商、当前合同或逐人劳动关系已核实。 档案依据：北京市人社局名录列北京爱侬家政服务有限公司；当前官网版权为北京爱侬养老科技发展股份有限公司。品牌体系与具体签约公司应分开核验。",
+    "governmentMatches": [
+      {
+        "sourceUrl": "https://rsj.beijing.gov.cn/bm/ztzl/ssjzlwpp/202511/t20251103_4251018.html",
+        "listedCompany": "北京爱侬家政服务有限公司",
+        "matchBasis": "本档案分别记录北京爱侬家政服务有限公司与官网版权北京爱侬养老科技发展股份有限公司；仅按爱侬品牌体系关联，不将两个法人合并。",
+        "matchStatus": "brand-linked",
+        "recordType": "labor-brand-2025"
+      },
+      {
+        "sourceUrl": "https://sw.beijing.gov.cn/phone/zwxx/tzgg/202401/t20240131_3550205.html",
+        "listedCompany": "北京爱侬养老科技发展股份有限公司",
+        "matchBasis": "正式名单是北京爱侬养老科技发展股份有限公司，与官网版权主体一致；2025劳务品牌名单另列北京爱侬家政服务有限公司，两者不能互换成同一法人。2024年度员工制资格为历史记录，有效期已过，不表述为2026当前员工制认证。",
+        "matchStatus": "exact",
+        "recordType": "employee-2024"
+      },
+      {
+        "sourceUrl": "https://rsj.beijing.gov.cn/xxgk/tzgg/202302/t20230208_2913405.html",
+        "listedCompany": "北京爱侬养老科技发展股份有限公司",
+        "matchBasis": "正式名单是北京爱侬养老科技发展股份有限公司，与官网版权主体一致；2025劳务品牌名单另列北京爱侬家政服务有限公司，两者不能互换成同一法人。2023年度员工制资格为历史记录，有效期已过，不表述为2026当前员工制认证。",
+        "matchStatus": "exact",
+        "recordType": "employee-2023"
+      },
+      {
+        "sourceUrl": "https://rsj.beijing.gov.cn/xxgk/tzgg/202511/t20251103_4251298.html",
+        "listedCompany": "北京爱侬家政服务有限公司",
+        "matchBasis": "基地列名北京爱侬家政服务有限公司，与2025品牌名录相同；官网版权及2024员工制名单另为爱侬养老科技股份，仅品牌体系关联而非同一法人。",
+        "matchStatus": "brand-linked",
+        "recordType": "input-base-2025"
+      }
+    ],
+    "businessStatus": "confirmed",
+    "suggestedGroup": "government-2025",
+    "businessGate": "pass",
+    "businessReason": "官网育儿早教栏目明确精准匹配专业育儿嫂，列科学喂养、辅食、早教、成长测评；北京门店和总部可见。"
+  },
+  {
+    "id": "agency-04",
+    "name": "北京中青家政",
+    "identityLevel": 4,
+    "entityGate": "pass",
+    "reason": "政府正式列名主体或有来源支持的品牌关联可对应，满足本次“有完整主体线索”门槛；这不等于实时工商、当前合同或逐人劳动关系已核实。 档案依据：官网和2025北京市人社名录主体均为北京中青家政有限公司；与北京华夏中青家政服务有限公司分开计数。",
+    "governmentMatches": [
+      {
+        "sourceUrl": "https://rsj.beijing.gov.cn/bm/ztzl/ssjzlwpp/202511/t20251103_4251021.html",
+        "listedCompany": "北京中青家政有限公司",
+        "matchBasis": "2025北京市人社家政劳务品牌详情列出的完整公司名与既有档案主体一致；品牌简称未被当成另一法人，合同主体仍须逐单核对。",
+        "matchStatus": "exact",
+        "recordType": "labor-brand-2025"
+      },
+      {
+        "sourceUrl": "https://sw.beijing.gov.cn/phone/zwxx/tzgg/202401/t20240131_3550205.html",
+        "listedCompany": "北京中青家政有限公司",
+        "matchBasis": "正式入选公告的完整法人名与既有档案可对应；使用正式公告而非拟入选公示。2024年度员工制资格为历史记录，有效期已过，不表述为2026当前员工制认证。",
+        "matchStatus": "exact",
+        "recordType": "employee-2024"
+      },
+      {
+        "sourceUrl": "https://rsj.beijing.gov.cn/xxgk/tzgg/202302/t20230208_2913405.html",
+        "listedCompany": "北京中青家政有限公司",
+        "matchBasis": "正式入选公告的完整法人名与既有档案可对应；使用正式公告而非拟入选公示。2023年度员工制资格为历史记录，有效期已过，不表述为2026当前员工制认证。",
+        "matchStatus": "exact",
+        "recordType": "employee-2023"
+      },
+      {
+        "sourceUrl": "https://rsj.beijing.gov.cn/xxgk/tzgg/202511/t20251103_4251298.html",
+        "listedCompany": "北京中青家政有限公司",
+        "matchBasis": "2025河北福嫂来京就业输入基地正式公告的完整主体名与既有档案对应；输入基地资格不等于育儿业务、人员库存或免费换人保证。",
+        "matchStatus": "exact",
+        "recordType": "input-base-2025"
+      }
+    ],
+    "businessStatus": "confirmed",
+    "suggestedGroup": "government-2025",
+    "businessGate": "pass",
+    "businessReason": "官网公开婴幼儿照护、育婴早教和北京联系方式；提供员工制及中介制两套资费说明。"
+  },
+  {
+    "id": "agency-05",
+    "name": "无忧保姆／无忧家政",
+    "identityLevel": 4,
+    "entityGate": "pass",
+    "reason": "政府正式列名主体或有来源支持的品牌关联可对应，满足本次“有完整主体线索”门槛；这不等于实时工商、当前合同或逐人劳动关系已核实。 档案依据：官网页脚为北京家事无忧家政服务有限公司，2025北京市人社局名录可交叉对应；“无忧家政”泛称投诉需看具体门店和合同。",
+    "governmentMatches": [
+      {
+        "sourceUrl": "https://rsj.beijing.gov.cn/bm/ztzl/ssjzlwpp/202511/t20251103_4250976.html",
+        "listedCompany": "北京家事无忧家政服务有限公司",
+        "matchBasis": "2025北京市人社家政劳务品牌详情列出的完整公司名与既有档案主体一致；品牌简称未被当成另一法人，合同主体仍须逐单核对。",
+        "matchStatus": "exact",
+        "recordType": "labor-brand-2025"
+      }
+    ],
+    "businessStatus": "confirmed",
+    "suggestedGroup": "government-2025",
+    "businessGate": "pass",
+    "businessReason": "官网导航育儿嫂、北京门店及在线简历可见；自述网络匹配与门店服务，面试可以询问前雇主。"
+  },
+  {
+    "id": "agency-06",
+    "name": "十月阳光",
+    "identityLevel": 4,
+    "entityGate": "pass",
+    "reason": "既有档案有完整主体名称与可归属的北京服务线索，达到补充候选的主体门槛；未找到本次对照的政府入选记录，不包装为政府推荐。 档案依据：当前十月阳光官网明确商标所有者为北京维骐迅腾投资管理有限公司；全国加盟体系下，各北京订单的签约/收款主体和总部责任仍需核对。",
+    "governmentMatches": [],
+    "businessStatus": "confirmed",
+    "suggestedGroup": "supplementary",
+    "businessGate": "pass",
+    "businessReason": "官网“找育儿嫂”入口和2026-08-03北京育儿嫂文章持续可见；当前北京事业总部为大兴义和庄万科天地，不应沿用旧朝阳地址作唯一地址。"
+  },
+  {
+    "id": "agency-07",
+    "name": "我爱我妻",
+    "identityLevel": 3,
+    "entityGate": "pass",
+    "reason": "既有档案有完整主体名称与可归属的北京服务线索，达到补充候选的主体门槛；未找到本次对照的政府入选记录，不包装为政府推荐。 档案依据：北京市商务局历史公示及北京家协2024理事信息对应北京我爱我妻科技有限公司；官网是全国加盟网络，某分店或SEO页面使用其他名称时不能自动合并。",
+    "governmentMatches": [],
+    "businessStatus": "confirmed",
+    "suggestedGroup": "supplementary",
+    "businessGate": "pass",
+    "businessReason": "当前官网人员页有北京市、育儿嫂筛选和预约选项，北京总部、通州、海淀、房山等联系线索可见，能支持业务招揽存在。页面“月嫂总数”不能当育儿嫂待岗人数。"
+  },
+  {
+    "id": "agency-08",
+    "name": "亿婴宝",
+    "identityLevel": 4,
+    "entityGate": "pass",
+    "reason": "政府正式列名主体或有来源支持的品牌关联可对应，满足本次“有完整主体线索”门槛；这不等于实时工商、当前合同或逐人劳动关系已核实。 档案依据：当前官网页脚为北京亿婴宝教育科技有限公司，ICP备案号京ICP备19011098号-1；2023、2024员工制家政正式入选公告进一步交叉确认主体。旧商贸中心名称不能替代现在签约主体。",
+    "governmentMatches": [
+      {
+        "sourceUrl": "https://sw.beijing.gov.cn/phone/zwxx/tzgg/202401/t20240131_3550205.html",
+        "listedCompany": "北京亿婴宝教育科技有限公司",
+        "matchBasis": "正式入选公告的完整法人名与既有档案可对应；使用正式公告而非拟入选公示。2024年度员工制资格为历史记录，有效期已过，不表述为2026当前员工制认证。",
+        "matchStatus": "exact",
+        "recordType": "employee-2024"
+      },
+      {
+        "sourceUrl": "https://rsj.beijing.gov.cn/xxgk/tzgg/202302/t20230208_2913405.html",
+        "listedCompany": "北京亿婴宝教育科技有限公司",
+        "matchBasis": "正式入选公告的完整法人名与既有档案可对应；使用正式公告而非拟入选公示。2023年度员工制资格为历史记录，有效期已过，不表述为2026当前员工制认证。",
+        "matchStatus": "exact",
+        "recordType": "employee-2023"
+      }
+    ],
+    "businessStatus": "confirmed",
+    "suggestedGroup": "government-historical",
+    "businessGate": "pass",
+    "businessReason": "官网育儿嫂/育婴师页面有北京服务人员、婴幼儿喂养护理和早教分类，当前可公开咨询。"
+  },
+  {
+    "id": "agency-09",
+    "name": "万婴宝",
+    "identityLevel": 4,
+    "entityGate": "pass",
+    "reason": "既有档案有完整主体名称与可归属的北京服务线索，达到补充候选的主体门槛；未找到本次对照的政府入选记录，不包装为政府推荐。 档案依据：官网页脚为北京万婴宝家政服务有限公司；与亿婴宝名称接近，但不是同一公司，不互用两者评价。",
+    "governmentMatches": [],
+    "businessStatus": "confirmed",
+    "suggestedGroup": "supplementary",
+    "businessGate": "pass",
+    "businessReason": "官网明确北京育婴嫂、育儿嫂及家政员服务，并有人选展示；北京芍药居联系点可核。"
+  },
+  {
+    "id": "agency-10",
+    "name": "喜来盈",
+    "identityLevel": 3,
+    "entityGate": "hold",
+    "reason": "官网仅见喜来盈品牌，家政公司与母婴之家服务中心的关系未取得更名或权属证明，完整主体尚未闭环。 档案依据：官网使用喜来盈月嫂品牌；二级工商资料指向北京喜来盈家政服务有限公司（2007成立），原资料北京喜来盈母婴之家服务中心的关系未取得注册变更证明。应以合同法人确认。",
+    "governmentMatches": [],
+    "businessStatus": "confirmed",
+    "suggestedGroup": "entity-review",
+    "businessGate": "pass",
+    "businessReason": "官网明确月嫂、育婴师和育儿嫂，北京望京联系线索可见；服务对象不只月子期。"
+  },
+  {
+    "id": "agency-11",
+    "name": "柚妈柚子",
+    "identityLevel": 1,
+    "entityGate": "hold",
+    "reason": "既有身份档位不足3且本次对照的政府名单没有可明确归属的补充记录，保留主体线索待复核；并非断言公司不存在或一定不可靠。 档案依据：品牌早期集团资料及招聘平台指向北京家嘉华洋科技发展有限公司旗下；近期商业文章使用北京乐太母婴护理有限公司名称，尚未取得官方文件证明当前品牌运营及实际签约主体转换。",
+    "governmentMatches": [],
+    "businessStatus": "confirmed",
+    "suggestedGroup": "entity-review",
+    "businessGate": "pass",
+    "businessReason": "官网搜索正文明确北京、月嫂、育儿嫂及预约电话；本轮打开官网只提取到部分页脚，不能把完整页面视为已读。"
+  },
+  {
+    "id": "agency-12",
+    "name": "福月佳",
+    "identityLevel": 4,
+    "entityGate": "pass",
+    "reason": "既有档案有完整主体名称与可归属的北京服务线索，达到补充候选的主体门槛；未找到本次对照的政府入选记录，不包装为政府推荐。 档案依据：官网页脚明确北京福月佳家政服务有限公司，京ICP备18021915号-1；同名外地加盟门店评价不能合并进北京。",
+    "governmentMatches": [],
+    "businessStatus": "confirmed",
+    "suggestedGroup": "supplementary",
+    "businessGate": "pass",
+    "businessReason": "官网育婴育儿专页明确0—3岁婴幼儿生活护理、营养辅食、游戏活动和早教，当前可通过北京咨询电话联系。"
+  },
+  {
+    "id": "agency-13",
+    "name": "享月亲贝／享月月嫂",
+    "identityLevel": 4,
+    "entityGate": "pass",
+    "reason": "政府正式列名主体或有来源支持的品牌关联可对应，满足本次“有完整主体线索”门槛；这不等于实时工商、当前合同或逐人劳动关系已核实。 档案依据：官网页脚和2024中国妇女报采访均对应北京享月亲贝家政服务有限公司；享月月嫂是服务品牌表述，核单时仍须看法人。",
+    "governmentMatches": [
+      {
+        "sourceUrl": "https://sw.beijing.gov.cn/phone/zwxx/tzgg/202401/t20240131_3550205.html",
+        "listedCompany": "北京享月亲贝家政服务有限公司",
+        "matchBasis": "正式入选公告的完整法人名与既有档案可对应；使用正式公告而非拟入选公示。2024年度员工制资格为历史记录，有效期已过，不表述为2026当前员工制认证。",
+        "matchStatus": "exact",
+        "recordType": "employee-2024"
+      }
+    ],
+    "businessStatus": "confirmed",
+    "suggestedGroup": "government-historical",
+    "businessGate": "pass",
+    "businessReason": "官网有育儿嫂栏目和人员展示；本轮能确认其同时招揽月嫂与育儿嫂，但两类服务保障不能互套。"
+  },
+  {
+    "id": "agency-14",
+    "name": "妇贵宝",
+    "identityLevel": 3,
+    "entityGate": "pass",
+    "reason": "既有档案有完整主体名称与可归属的北京服务线索，达到补充候选的主体门槛；未找到本次对照的政府入选记录，不包装为政府推荐。 档案依据：官网关于我们明确妇贵宝贝（北京）科技有限公司及妇贵宝品牌；培训平台资料可交叉匹配，合同仍需核具体门店与收款公司。",
+    "governmentMatches": [],
+    "businessStatus": "confirmed",
+    "suggestedGroup": "supplementary",
+    "businessGate": "pass",
+    "businessReason": "官网列育婴嫂外派及母婴服务，2026活动线索存在；不能只将其视为培训招生机构。"
+  },
+  {
+    "id": "agency-15",
+    "name": "乐益佳",
+    "identityLevel": 2,
+    "entityGate": "hold",
+    "reason": "既有身份档位不足3且本次对照的政府名单没有可明确归属的补充记录，保留主体线索待复核；并非断言公司不存在或一定不可靠。 档案依据：官网使用北京乐益佳家政服务有限公司；平台另有北京乐益佳宝宝之星科技有限公司同址线索，未证实关系及合同承接，不合并为已核同一法人。",
+    "governmentMatches": [],
+    "businessStatus": "confirmed",
+    "suggestedGroup": "entity-review",
+    "businessGate": "pass",
+    "businessReason": "官网人员页标签含育儿嫂、白班、住家；可核北京丰台成寿寺服务联系点。"
+  },
+  {
+    "id": "agency-16",
+    "name": "大班家政",
+    "identityLevel": 4,
+    "entityGate": "pass",
+    "reason": "政府正式列名主体或有来源支持的品牌关联可对应，满足本次“有完整主体线索”门槛；这不等于实时工商、当前合同或逐人劳动关系已核实。 档案依据：官网及2025北京市人社品牌名录对应北京大班家政服务有限公司；不同门店的具体收款与责任仍逐单核。",
+    "governmentMatches": [
+      {
+        "sourceUrl": "https://rsj.beijing.gov.cn/bm/ztzl/ssjzlwpp/202511/t20251103_4251010.html",
+        "listedCompany": "北京大班家政服务有限公司",
+        "matchBasis": "2025北京市人社家政劳务品牌详情列出的完整公司名与既有档案主体一致；品牌简称未被当成另一法人，合同主体仍须逐单核对。",
+        "matchStatus": "exact",
+        "recordType": "labor-brand-2025"
+      }
+    ],
+    "businessStatus": "confirmed",
+    "suggestedGroup": "government-2025",
+    "businessGate": "pass",
+    "businessReason": "官网育儿服务覆盖0—3岁，通常服务满月/2个月后的长期育儿场景；北京政府名录和门店信息支持本地业务。"
+  },
+  {
+    "id": "agency-17",
+    "name": "好孕妈妈",
+    "identityLevel": 1,
+    "entityGate": "hold",
+    "reason": "既有身份档位不足3且本次对照的政府名单没有可明确归属的补充记录，保留主体线索待复核；并非断言公司不存在或一定不可靠。 档案依据：2022澎湃报道中品牌集团主体为北京象网科技有限公司；旧培训/目录又使用北京市好孕妈妈教育咨询等名称，现有签约及债务承接主体未取得证据。 当前长期北京育儿业务仍待确认，不因政府列名进入首页主比较。",
+    "governmentMatches": [],
+    "businessStatus": "pending",
+    "suggestedGroup": "business-review",
+    "businessGate": "hold",
+    "businessReason": "历史网站和目录显示曾提供北京育儿嫂业务；2022报道涉及业务收缩，未取得2026北京现行官方育儿嫂接单、候选列表与责任主体的可靠证据。 本次保留业务待核或平台单列，不以政府列名自动确认北京育儿供给。"
+  },
+  {
+    "id": "agency-18",
+    "name": "婴之宝／靓婴堂",
+    "identityLevel": 2,
+    "entityGate": "hold",
+    "reason": "既有身份档位不足3且本次对照的政府名单没有可明确归属的补充记录，保留主体线索待复核；并非断言公司不存在或一定不可靠。 档案依据：存在至少两套主体线索：旧目录婴之宝/靓婴堂对应北京靓婴堂咨询服务有限公司（1999起源自述）；当前另一官网为2017注册的北京婴之宝咨询服务有限公司。未取得二者同一品牌/股权/更名证据，应分别核实。",
+    "governmentMatches": [],
+    "businessStatus": "confirmed",
+    "suggestedGroup": "entity-review",
+    "businessGate": "pass",
+    "businessReason": "北京婴之宝咨询服务有限公司官网明确月嫂、育儿嫂、高端家政外派及培训，能确认公开北京育儿嫂业务线索；旧靓婴堂目录也写相关服务，但不混合当前供给。"
+  },
+  {
+    "id": "agency-19",
+    "name": "安恩贝",
+    "identityLevel": 1,
+    "entityGate": "hold",
+    "reason": "既有身份档位不足3且本次对照的政府名单没有可明确归属的补充记录，保留主体线索待复核；并非断言公司不存在或一定不可靠。 档案依据：品牌招商资料和悉尼加盟站均将Andbaby安恩贝归为北京予馨海韵教育咨询有限公司；未取得当前北京合同法人及品牌授权链的原件。",
+    "governmentMatches": [],
+    "businessStatus": "confirmed",
+    "suggestedGroup": "entity-review",
+    "businessGate": "pass",
+    "businessReason": "企业招商资料写母婴及育儿嫂外派，能够支持历史北京品牌服务线索；悉尼分店明确面向澳洲0—6岁家庭，不作为北京当期供给证明。"
+  },
+  {
+    "id": "agency-20",
+    "name": "阳光北亚家政",
+    "identityLevel": 2,
+    "entityGate": "pass",
+    "reason": "政府正式列名主体或有来源支持的品牌关联可对应，满足本次“有完整主体线索”门槛；这不等于实时工商、当前合同或逐人劳动关系已核实。 档案依据：北京阳光北亚家政服务有限公司；政府历史人物报道与品牌资料一致。CNPP 展示代码 91110101794094220W，属第三方工商转载，实际签约分公司仍要核执照。",
+    "governmentMatches": [
+      {
+        "sourceUrl": "https://rsj.beijing.gov.cn/bm/ztzl/ssjzlwpp/202511/t20251103_4251044.html",
+        "listedCompany": "北京阳光北亚家政服务有限公司",
+        "matchBasis": "2025北京市人社家政劳务品牌详情列出的完整公司名与既有档案主体一致；品牌简称未被当成另一法人，合同主体仍须逐单核对。",
+        "matchStatus": "exact",
+        "recordType": "labor-brand-2025"
+      },
+      {
+        "sourceUrl": "https://sw.beijing.gov.cn/phone/zwxx/tzgg/202401/t20240131_3550205.html",
+        "listedCompany": "北京阳光北亚家政服务有限公司",
+        "matchBasis": "正式入选公告的完整法人名与既有档案可对应；使用正式公告而非拟入选公示。2024年度员工制资格为历史记录，有效期已过，不表述为2026当前员工制认证。",
+        "matchStatus": "exact",
+        "recordType": "employee-2024"
+      },
+      {
+        "sourceUrl": "https://rsj.beijing.gov.cn/xxgk/tzgg/202511/t20251103_4251298.html",
+        "listedCompany": "北京阳光北亚家政服务有限公司",
+        "matchBasis": "2025河北福嫂来京就业输入基地正式公告的完整主体名与既有档案对应；输入基地资格不等于育儿业务、人员库存或免费换人保证。",
+        "matchStatus": "exact",
+        "recordType": "input-base-2025"
+      }
+    ],
+    "businessStatus": "confirmed",
+    "suggestedGroup": "government-2025",
+    "businessGate": "pass",
+    "businessReason": "官网既有北京育儿业务记录；本次政府人物报道及安定门商家原页再次明确家庭保姆、月嫂、育儿嫂。"
+  },
+  {
+    "id": "agency-21",
+    "name": "唐顿世家",
+    "identityLevel": 4,
+    "entityGate": "pass",
+    "reason": "政府正式列名主体或有来源支持的品牌关联可对应，满足本次“有完整主体线索”门槛；这不等于实时工商、当前合同或逐人劳动关系已核实。 档案依据：北京唐顿世家科技有限公司；官网品牌介绍与商家目录对应，北京总部及各城市具体签约主体仍应核合同。",
+    "governmentMatches": [
+      {
+        "sourceUrl": "https://rsj.beijing.gov.cn/bm/ztzl/ssjzlwpp/202511/t20251103_4251016.html",
+        "listedCompany": "北京唐顿世家科技有限公司",
+        "matchBasis": "2025北京市人社家政劳务品牌详情列出的完整公司名与既有档案主体一致；品牌简称未被当成另一法人，合同主体仍须逐单核对。",
+        "matchStatus": "exact",
+        "recordType": "labor-brand-2025"
+      },
+      {
+        "sourceUrl": "https://rsj.beijing.gov.cn/xxgk/tzgg/202511/t20251103_4251298.html",
+        "listedCompany": "北京唐顿世家科技有限公司",
+        "matchBasis": "2025河北福嫂来京就业输入基地正式公告的完整主体名与既有档案对应；输入基地资格不等于育儿业务、人员库存或免费换人保证。",
+        "matchStatus": "exact",
+        "recordType": "input-base-2025"
+      }
+    ],
+    "businessStatus": "confirmed",
+    "suggestedGroup": "government-2025",
+    "businessGate": "pass",
+    "businessReason": "官网明确北京总部及育儿嫂、月嫂、保姆等业务；有北京门店入口。"
+  },
+  {
+    "id": "agency-22",
+    "name": "艾禧悦",
+    "identityLevel": 1,
+    "entityGate": "hold",
+    "reason": "既有身份档位不足3且本次对照的政府名单没有可明确归属的补充记录，保留主体线索待复核；并非断言公司不存在或一定不可靠。 档案依据：官网移动版称创办人为陈哲；本次未取得能够闭环品牌、收款与签约主体的执照，不能因创办人同名就与唐顿世家合并。",
+    "governmentMatches": [],
+    "businessStatus": "confirmed",
+    "suggestedGroup": "entity-review",
+    "businessGate": "pass",
+    "businessReason": "既有官网列住家/白班育儿嫂及朝阳望京地址；2024 年品牌报道再次明确育儿嫂服务。"
+  },
+  {
+    "id": "agency-23",
+    "name": "阿华妈咪",
+    "identityLevel": 1,
+    "entityGate": "hold",
+    "reason": "既有身份档位不足3且本次对照的政府名单没有可明确归属的补充记录，保留主体线索待复核；并非断言公司不存在或一定不可靠。 档案依据：2019 年第三方备案历史写北京阿华妈咪家政服务有限责任公司；站长工具另一版本写北京阿华妈咪母婴护理有限责任公司。现行主体尚未闭环。 当前长期北京育儿业务仍待确认，不因政府列名进入首页主比较。",
+    "governmentMatches": [],
+    "businessStatus": "pending",
+    "suggestedGroup": "business-review",
+    "businessGate": "hold",
+    "businessReason": "域名历史标题和目录简介明确北京育儿嫂、育婴师；公司目录列昌平振兴路地址。 本次保留业务待核或平台单列，不以政府列名自动确认北京育儿供给。"
+  },
+  {
+    "id": "agency-24",
+    "name": "瑞多帮家政",
+    "identityLevel": 2,
+    "entityGate": "pass",
+    "reason": "政府正式列名主体或有来源支持的品牌关联可对应，满足本次“有完整主体线索”门槛；这不等于实时工商、当前合同或逐人劳动关系已核实。 档案依据：北京市人社局名录具名北京瑞多帮家政服务有限公司；实际订单主体仍需看合同。",
+    "governmentMatches": [
+      {
+        "sourceUrl": "https://rsj.beijing.gov.cn/bm/ztzl/ssjzlwpp/202511/t20251103_4250996.html",
+        "listedCompany": "北京瑞多帮家政服务有限公司",
+        "matchBasis": "2025北京市人社家政劳务品牌详情列出的完整公司名与既有档案主体一致；品牌简称未被当成另一法人，合同主体仍须逐单核对。",
+        "matchStatus": "exact",
+        "recordType": "labor-brand-2025"
+      },
+      {
+        "sourceUrl": "https://rsj.beijing.gov.cn/xxgk/tzgg/202511/t20251103_4251298.html",
+        "listedCompany": "北京瑞多帮家政服务有限公司",
+        "matchBasis": "2025河北福嫂来京就业输入基地正式公告的完整主体名与既有档案对应；输入基地资格不等于育儿业务、人员库存或免费换人保证。",
+        "matchStatus": "exact",
+        "recordType": "input-base-2025"
+      }
+    ],
+    "businessStatus": "confirmed",
+    "suggestedGroup": "government-2025",
+    "businessGate": "pass",
+    "businessReason": "2025-11-06 官方名录介绍已有育儿嫂、母婴护理；商家原帖明确白班和 24 小时育儿嫂服务 0–3 岁。"
+  },
+  {
+    "id": "agency-25",
+    "name": "京鋆管家",
+    "identityLevel": 4,
+    "entityGate": "pass",
+    "reason": "既有档案有完整主体名称与可归属的北京服务线索，达到补充候选的主体门槛；未找到本次对照的政府入选记录，不包装为政府推荐。 档案依据：本次官网首页明确京鋆管家属于北京京鋆管家科技服务有限公司；商家目录同名，已补齐品牌自述主体，执照和实际收款主体仍待合同核验。",
+    "governmentMatches": [],
+    "businessStatus": "confirmed",
+    "suggestedGroup": "supplementary",
+    "businessGate": "pass",
+    "businessReason": "官网有育婴服务并列北京育儿嫂，目录有北京海淀住家育儿嫂岗位线索。"
+  },
+  {
+    "id": "agency-26",
+    "name": "找个保姆",
+    "identityLevel": 2,
+    "entityGate": "hold",
+    "reason": "既有身份档位不足3且本次对照的政府名单没有可明确归属的补充记录，保留主体线索待复核；并非断言公司不存在或一定不可靠。 档案依据：网站以“找个保姆”为品牌，所读育儿嫂页没有披露完整法人名称。品牌词通用，不能将全网“找个保姆”的泛讨论归给该站。",
+    "governmentMatches": [],
+    "businessStatus": "confirmed",
+    "suggestedGroup": "entity-review",
+    "businessGate": "pass",
+    "businessReason": "专页写北京全区域、婴幼儿与学龄前照护，包括白班/住家和辅食、陪伴。"
+  },
+  {
+    "id": "agency-27",
+    "name": "国选到家（北京国选到家公司）",
+    "identityLevel": 3,
+    "entityGate": "pass",
+    "reason": "既有档案有完整主体名称与可归属的北京服务线索，达到补充候选的主体门槛；未找到本次对照的政府入选记录，不包装为政府推荐。 档案依据：新读目录明确“国选到家”隶属国选（北京）家庭服务有限公司，且两目录地址一致；仍属商家自述，未取得执照和实际收款主体。",
+    "governmentMatches": [],
+    "businessStatus": "confirmed",
+    "suggestedGroup": "supplementary",
+    "businessGate": "pass",
+    "businessReason": "商家原页列北京育儿嫂、育婴师，家政港有1岁/6个月/70天宝宝岗位线索；当前招聘不等同实时空闲人选。"
+  },
+  {
+    "id": "agency-28",
+    "name": "天使来了（北京妈妈乐科技有限公司）",
+    "identityLevel": 3,
+    "entityGate": "pass",
+    "reason": "既有档案有完整主体名称与可归属的北京服务线索，达到补充候选的主体门槛；未找到本次对照的政府入选记录，不包装为政府推荐。 档案依据：商家页面品牌写“天使来了（北京妈妈乐科技有限公司）”；未取得企业登记原件。不得与育天使、育婴天使或其他妈妈乐混同。",
+    "governmentMatches": [],
+    "businessStatus": "confirmed",
+    "suggestedGroup": "supplementary",
+    "businessGate": "pass",
+    "businessReason": "商家介绍称2016年成立、北京分公司经营月嫂育儿嫂育婴师等，山西分公司偏医院月嫂护工；两地业务须分开。"
+  },
+  {
+    "id": "agency-29",
+    "name": "北京贝亲贝乐家政有限公司",
+    "identityLevel": 3,
+    "entityGate": "hold",
+    "reason": "同简介对应家政有限公司和家政服务中心且地址不同，尚未证明实际展示商家的唯一主体，不能按旧3档直接放行。 档案依据：主目录称北京贝亲贝乐家政有限公司，另一同简介目录称北京贝亲贝乐家政服务中心；地址不同，不能未经核执照就认作同一签约主体。",
+    "governmentMatches": [],
+    "businessStatus": "confirmed",
+    "suggestedGroup": "entity-review",
+    "businessGate": "pass",
+    "businessReason": "2026-03-04 商家发布北京月嫂、育儿嫂服务，正文另列育儿嫂等级报价，支持业务线索。"
+  },
+  {
+    "id": "agency-30",
+    "name": "北京顺康家政服务有限公司",
+    "identityLevel": 3,
+    "entityGate": "hold",
+    "reason": "顺康家政、顺康家业服务中心和顺康家业有限公司名称关系未核，当前服务对应哪个完整主体尚无闭环。 档案依据：主页面名为北京顺康家政服务有限公司，标题/旧文又用北京顺康家业家政服务中心；家政港为北京顺康家业家政服务有限公司。没有执照证明这几种名称关系，须以合同法人为准。",
+    "governmentMatches": [],
+    "businessStatus": "confirmed",
+    "suggestedGroup": "entity-review",
+    "businessGate": "pass",
+    "businessReason": "本次商家页2026年8月列小月龄、1岁、13个月等北京育儿岗位，具体需求含白班及带睡。"
+  },
+  {
+    "id": "agency-31",
+    "name": "北京鑫悦家政服务有限公司",
+    "identityLevel": 4,
+    "entityGate": "pass",
+    "reason": "既有档案有完整主体名称与可归属的北京服务线索，达到补充候选的主体门槛；未找到本次对照的政府入选记录，不包装为政府推荐。 档案依据：商家目录自述北京鑫悦家政服务有限公司，成立2019-07-19；没有获得独立工商实时记录。不得归并其他城市或同音“新悦/心悦”的投诉。",
+    "governmentMatches": [],
+    "businessStatus": "confirmed",
+    "suggestedGroup": "supplementary",
+    "businessGate": "pass",
+    "businessReason": "2026年服务列表明确北京住家、不住家育儿嫂，显示多个月龄经验人员广告。"
+  },
+  {
+    "id": "agency-32",
+    "name": "北京金有鑫家政公司",
+    "identityLevel": 3,
+    "entityGate": "hold",
+    "reason": "金有鑫目录与公司介绍在有限公司/服务有限公司间不一致，完整准确名称未核清，不能自动消除一词差异。 档案依据：商家名北京金有鑫家政公司；职友集展示全称北京金有鑫家政有限公司、代码91110105696383627W，而介绍段写家政服务有限公司。以执照厘清准确名称和门店地址。",
+    "governmentMatches": [],
+    "businessStatus": "confirmed",
+    "suggestedGroup": "entity-review",
+    "businessGate": "pass",
+    "businessReason": "2026-09-10 商家文章列北京高端育儿嫂、高级育婴师及幼教陪伴；人员和服务明显偏高学历陪伴，不能全部视为小月龄育儿嫂。"
+  },
+  {
+    "id": "agency-33",
+    "name": "北京丽洁世纪家政服务有限公司",
+    "identityLevel": 3,
+    "entityGate": "pass",
+    "reason": "既有档案有完整主体名称与可归属的北京服务线索，达到补充候选的主体门槛；未找到本次对照的政府入选记录，不包装为政府推荐。 档案依据：商家页自称北京丽洁世纪家政服务有限公司，未取得官方工商记录。",
+    "governmentMatches": [],
+    "businessStatus": "confirmed",
+    "suggestedGroup": "supplementary",
+    "businessGate": "pass",
+    "businessReason": "2026-09商家原页有15个月带睡及2个月小宝、满月宝宝岗位，列北京育儿嫂业务。"
+  },
+  {
+    "id": "agency-34",
+    "name": "北京置业家政",
+    "identityLevel": 2,
+    "entityGate": "hold",
+    "reason": "既有身份档位不足3且本次对照的政府名单没有可明确归属的补充记录，保留主体线索待复核；并非断言公司不存在或一定不可靠。 档案依据：页面仅写北京置业家政，未给完整法人名称及统一社会信用代码；“置业”也常指地产，不能以同名地产结果推定主体。",
+    "governmentMatches": [],
+    "businessStatus": "confirmed",
+    "suggestedGroup": "entity-review",
+    "businessGate": "pass",
+    "businessReason": "公司简介明确北京育儿嫂、育婴师、白班/住家及顺义服务地址。"
+  },
+  {
+    "id": "agency-35",
+    "name": "北京新鑫家政服务有限公司",
+    "identityLevel": 3,
+    "entityGate": "pass",
+    "reason": "既有档案有完整主体名称与可归属的北京服务线索，达到补充候选的主体门槛；未找到本次对照的政府入选记录，不包装为政府推荐。 档案依据：目录自述北京新鑫家政服务有限公司，尚未取得官方工商实时核验。避免与鑫悦、新欣、欣馨语等近似名称混同。",
+    "governmentMatches": [],
+    "businessStatus": "confirmed",
+    "suggestedGroup": "supplementary",
+    "businessGate": "pass",
+    "businessReason": "2026-07-21 服务广告明确北京育儿嫂、育婴师；现有目录列海淀地址及多年龄宝宝岗位线索。"
+  },
+  {
+    "id": "agency-36",
+    "name": "北京华夏逢缘家政服务有限公司",
+    "identityLevel": 3,
+    "entityGate": "pass",
+    "reason": "既有档案有完整主体名称与可归属的北京服务线索，达到补充候选的主体门槛；未找到本次对照的政府入选记录，不包装为政府推荐。 档案依据：商家目录自述北京华夏逢缘家政服务有限公司；未取得官方工商信息，不与华夏中青混淆。",
+    "governmentMatches": [],
+    "businessStatus": "confirmed",
+    "suggestedGroup": "supplementary",
+    "businessGate": "pass",
+    "businessReason": "公司原页列北京育儿嫂、育婴师及朝阳武圣西里地址。"
+  },
+  {
+    "id": "agency-37",
+    "name": "北京运成家政服务有限公司",
+    "identityLevel": 4,
+    "entityGate": "pass",
+    "reason": "既有档案有完整主体名称与可归属的北京服务线索，达到补充候选的主体门槛；未找到本次对照的政府入选记录，不包装为政府推荐。 档案依据：商家目录自述北京运成家政服务有限公司、2014年1月成立；未取得登记机关实时核验。",
+    "governmentMatches": [],
+    "businessStatus": "confirmed",
+    "suggestedGroup": "supplementary",
+    "businessGate": "pass",
+    "businessReason": "2026-09-07 专页直接发布育儿嫂育婴师，朝阳望京经营地址；另具体岗位有1岁独立带睡。"
+  },
+  {
+    "id": "agency-38",
+    "name": "北京优贝优家政服务有限公司",
+    "identityLevel": 4,
+    "entityGate": "pass",
+    "reason": "既有档案有完整主体名称与可归属的北京服务线索，达到补充候选的主体门槛；未找到本次对照的政府入选记录，不包装为政府推荐。 档案依据：商家自述北京优贝优家政服务有限公司；与优贝优聪、优宝贝国际名称不同，未有法人关联证据，不合并其口碑或保障。",
+    "governmentMatches": [],
+    "businessStatus": "confirmed",
+    "suggestedGroup": "supplementary",
+    "businessGate": "pass",
+    "businessReason": "2026-06-11服务原页明确全北京、白班/住家育儿嫂等；主目录丰台方庄地址。"
+  },
+  {
+    "id": "agency-39",
+    "name": "北京齐家家政服务有限公司",
+    "identityLevel": 3,
+    "entityGate": "pass",
+    "reason": "既有档案有完整主体名称与可归属的北京服务线索，达到补充候选的主体门槛；未找到本次对照的政府入选记录，不包装为政府推荐。 档案依据：商家页自述为北京齐家家政服务有限公司，未取得政府登记页或执照校验。不要与齐家装修网、天伦齐家等近名品牌混并。",
+    "governmentMatches": [],
+    "businessStatus": "confirmed",
+    "suggestedGroup": "supplementary",
+    "businessGate": "pass",
+    "businessReason": "当前商家页列育婴师、育儿嫂，并列望京7个月宝宝、海淀满月宝宝等招聘，是北京育儿业务的直接商家线索。"
+  },
+  {
+    "id": "agency-40",
+    "name": "北京三晋之家家政服务有限公司",
+    "identityLevel": 3,
+    "entityGate": "pass",
+    "reason": "既有档案有完整主体名称与可归属的北京服务线索，达到补充候选的主体门槛；未找到本次对照的政府入选记录，不包装为政府推荐。 档案依据：商家用名北京三晋之家家政服务有限公司；2025-11-07署名商家文章称从北京齐心家政升级。鱼泡索引披露2019-01-30成立、法定代表人姚满香、朝阳立清路地址，但未政府登记核验。",
+    "governmentMatches": [],
+    "businessStatus": "confirmed",
+    "suggestedGroup": "supplementary",
+    "businessGate": "pass",
+    "businessReason": "商家页有高级育儿嫂及通州、密云、海淀小月龄招聘。京东索引也出现三晋之家服务商品，尚未确认其店铺营业执照与该公司一致。"
+  },
+  {
+    "id": "agency-41",
+    "name": "北京康佑佳家政",
+    "identityLevel": 4,
+    "entityGate": "pass",
+    "reason": "既有档案有完整主体名称与可归属的北京服务线索，达到补充候选的主体门槛；未找到本次对照的政府入选记录，不包装为政府推荐。 档案依据：商家简介明确全称北京康佑佳健康管理有限公司；未取得政府登记页。搜索中的烟台康佑佳医药、医疗器械等非该主体。",
+    "governmentMatches": [],
+    "businessStatus": "confirmed",
+    "suggestedGroup": "supplementary",
+    "businessGate": "pass",
+    "businessReason": "商家列育儿育婴及早教；有劲松4个月宝宝白班、朝阳石佛营9个月宝宝、满月宝宝带睡招聘。"
+  },
+  {
+    "id": "agency-42",
+    "name": "北京康贝乐家政服务有限公司",
+    "identityLevel": 4,
+    "entityGate": "pass",
+    "reason": "既有档案有完整主体名称与可归属的北京服务线索，达到补充候选的主体门槛；未找到本次对照的政府入选记录，不包装为政府推荐。 档案依据：北京康贝乐家政服务有限公司；商家自述家贝乐为旗下品牌。品牌关联尚未取得企业登记或商标权属核验。",
+    "governmentMatches": [],
+    "businessStatus": "confirmed",
+    "suggestedGroup": "supplementary",
+    "businessGate": "pass",
+    "businessReason": "主页明列育婴师，并有2026-09-17昌平40天宝宝及太阳宫育儿嫂、海淀5个月宝宝招聘。"
+  },
+  {
+    "id": "agency-43",
+    "name": "北京君诚安家家政服务有限公司",
+    "identityLevel": 3,
+    "entityGate": "pass",
+    "reason": "既有档案有完整主体名称与可归属的北京服务线索，达到补充候选的主体门槛；未找到本次对照的政府入选记录，不包装为政府推荐。 档案依据：主页自称北京君诚安家家政服务有限公司，未取得政府登记页、执照或可验证统一信用代码。",
+    "governmentMatches": [],
+    "businessStatus": "confirmed",
+    "suggestedGroup": "supplementary",
+    "businessGate": "pass",
+    "businessReason": "简介称服务覆盖全北京；2026-09-02发布月嫂育儿嫂招聘，职责涉及喂养、洗澡、夜醒照顾等。未见可选人员清单。"
+  },
+  {
+    "id": "agency-44",
+    "name": "北京俊誉家政公司",
+    "identityLevel": 3,
+    "entityGate": "pass",
+    "reason": "既有档案有完整主体名称与可归属的北京服务线索，达到补充候选的主体门槛；未找到本次对照的政府入选记录，不包装为政府推荐。 档案依据：北京保姆网简称俊誉家政公司，家政港与2025年谈单老师招聘自称北京俊誉家政服务有限公司；未政府登记核验。",
+    "governmentMatches": [],
+    "businessStatus": "confirmed",
+    "suggestedGroup": "supplementary",
+    "businessGate": "pass",
+    "businessReason": "2026年7—8月的商家招聘涉及丰台2个月宝宝、海淀2岁和1岁4个月宝宝；家政港另有丰台新宫及西局白班育儿招聘。"
+  },
+  {
+    "id": "agency-45",
+    "name": "北京昊煜坤城家政公司",
+    "identityLevel": 2,
+    "entityGate": "hold",
+    "reason": "既有身份档位不足3且本次对照的政府名单没有可明确归属的补充记录，保留主体线索待复核；并非断言公司不存在或一定不可靠。 档案依据：商家使用北京昊煜坤城家政公司。另搜到北京昊煜坤城企业管理咨询有限公司，2026-04-28成立且范围含家政；没有证据把两者确认为同一签约主体。",
+    "governmentMatches": [],
+    "businessStatus": "confirmed",
+    "suggestedGroup": "entity-review",
+    "businessGate": "pass",
+    "businessReason": "主页主要服务字段列育儿嫂、育婴师，简介偏住家保姆、月嫂和厨娘派单；当前页服务信息、招聘列表为空，未取得具体育儿人员或订单。"
+  },
+  {
+    "id": "agency-46",
+    "name": "北京春宇家政服务有限公司（简介写春雨，名称需核实）",
+    "identityLevel": 3,
+    "entityGate": "hold",
+    "reason": "本人页面标题春宇、正文春雨存在实质名称冲突，未取得能确定正确主体的执照或政府记录，先核主体。 档案依据：页面标题“北京春宇家政服务有限公司”，正文“北京春雨家政服务有限公司”，自述2021-04-12成立、200万资本。未找到可确认哪一名称正确的执照或政府登记。",
+    "governmentMatches": [],
+    "businessStatus": "confirmed",
+    "suggestedGroup": "entity-review",
+    "businessGate": "pass",
+    "businessReason": "2026-09-10望京15个月宝宝、不带睡的育儿家务招聘；2026-07-11有4个月宝宝育儿岗位。"
+  },
+  {
+    "id": "agency-47",
+    "name": "轻喜到家",
+    "identityLevel": 4,
+    "entityGate": "pass",
+    "reason": "既有档案有完整主体名称与可归属的北京服务线索，达到补充候选的主体门槛；未找到本次对照的政府入选记录，不包装为政府推荐。 档案依据：官网主体为深圳轻喜到家科技有限公司，列北京分公司；未核当前育儿嫂订单的签约法人及人员劳动关系。",
+    "governmentMatches": [],
+    "businessStatus": "confirmed",
+    "suggestedGroup": "supplementary",
+    "businessGate": "pass",
+    "businessReason": "现官网列育婴早教业务，并列北京朝阳远洋国际中心C座301分公司；可证品牌有北京机构和育儿品类，未取得当前北京可面试人员清单。"
+  },
+  {
+    "id": "agency-48",
+    "name": "爱贝佳",
+    "identityLevel": 3,
+    "entityGate": "hold",
+    "reason": "爱贝佳服务中心、医院管理与家庭服务多个主体的共同权属未证，当前品牌组不能当作已核单一派工法人。 档案依据：存在多个名称：商家页“北京爱贝佳母婴护理服务中心”；品牌目录“北京爱贝佳医院管理有限公司”；广告另有家庭服务有限公司。未取得共同品牌权属及具体签约主体关系，不能混为一家法人。",
+    "governmentMatches": [],
+    "businessStatus": "confirmed",
+    "suggestedGroup": "entity-review",
+    "businessGate": "pass",
+    "businessReason": "北京家政港商家页列月嫂、育儿嫂、育婴师和早教师，地址丰台方庄南路2号10层2单元1003；可证北京育儿服务宣传。"
+  },
+  {
+    "id": "agency-49",
+    "name": "华夏中青",
+    "identityLevel": 3,
+    "entityGate": "pass",
+    "reason": "既有档案有完整主体名称与可归属的北京服务线索，达到补充候选的主体门槛；未找到本次对照的政府入选记录，不包装为政府推荐。 档案依据：官网主体北京华夏中青家政服务有限公司，自述1998年成立、总部北京；与“北京中青”“管家帮”分开。",
+    "governmentMatches": [],
+    "businessStatus": "confirmed",
+    "suggestedGroup": "supplementary",
+    "businessGate": "pass",
+    "businessReason": "官网介绍与北京商家页显示育婴家政；代红分公司有历史育儿招聘与第三方企业信息。没有核当前人选池。"
+  },
+  {
+    "id": "agency-50",
+    "name": "管家帮",
+    "identityLevel": 1,
+    "entityGate": "hold",
+    "reason": "既有身份档位不足3且本次对照的政府名单没有可明确归属的补充记录，保留主体线索待复核；并非断言公司不存在或一定不可靠。 档案依据：历史运营主体为北京易盟天地信息技术股份有限公司；不能与2022年成立的“北京帮管家家庭服务有限公司”或小象管家混并。当前承接管家帮订单的法人未确认。 当前长期北京育儿业务仍待确认，不因政府列名进入首页主比较。",
+    "governmentMatches": [],
+    "businessStatus": "pending",
+    "suggestedGroup": "business-review",
+    "businessGate": "hold",
+    "businessReason": "历史官网、应用资料有北京育儿与家政业务；本轮2026年搜索未取得可信的当前北京育儿嫂接单、门店或人员池证据。 本次保留业务待核或平台单列，不以政府列名自动确认北京育儿供给。"
+  },
+  {
+    "id": "agency-51",
+    "name": "三替（北京）",
+    "identityLevel": 1,
+    "entityGate": "pass",
+    "reason": "政府正式列名主体或有来源支持的品牌关联可对应，满足本次“有完整主体线索”门槛；这不等于实时工商、当前合同或逐人劳动关系已核实。 档案依据：品牌集团总部杭州，北京公开资料为北京三替养老护理集团有限公司；育儿宣传须与其北京养老护理业务分开。 当前长期北京育儿业务仍待确认，不因政府列名进入首页主比较。",
+    "governmentMatches": [
+      {
+        "sourceUrl": "https://sw.beijing.gov.cn/phone/zwxx/tzgg/202401/t20240131_3550205.html",
+        "listedCompany": "北京三替养老护理集团有限公司",
+        "matchBasis": "正式名单列北京三替养老护理集团有限公司，与档案北京主体相同；不自动扩展到杭州三替集团或认定北京育儿业务。2024年度员工制资格为历史记录，有效期已过，不表述为2026当前员工制认证。",
+        "matchStatus": "exact",
+        "recordType": "employee-2024"
+      },
+      {
+        "sourceUrl": "https://rsj.beijing.gov.cn/xxgk/tzgg/202302/t20230208_2913405.html",
+        "listedCompany": "北京三替养老护理集团有限公司",
+        "matchBasis": "正式名单列北京三替养老护理集团有限公司，与档案北京主体相同；不自动扩展到杭州三替集团或认定北京育儿业务。2023年度员工制资格为历史记录，有效期已过，不表述为2026当前员工制认证。",
+        "matchStatus": "exact",
+        "recordType": "employee-2023"
+      }
+    ],
+    "businessStatus": "pending",
+    "suggestedGroup": "business-review",
+    "businessGate": "hold",
+    "businessReason": "北京家政港商家字段列育儿嫂、育婴师，但具体2025年服务内容主要是医院陪护和养老。杭州官网有住家、白班育儿嫂，不足证明北京当前接单。 本次保留业务待核或平台单列，不以政府列名自动确认北京育儿供给。"
+  },
+  {
+    "id": "agency-52",
+    "name": "育天使",
+    "identityLevel": 1,
+    "entityGate": "hold",
+    "reason": "既有身份档位不足3且本次对照的政府名单没有可明确归属的补充记录，保留主体线索待复核；并非断言公司不存在或一定不可靠。 档案依据：北京育天使家政服务有限公司；此前通州区政府名录列统一代码91110105MA020PXM7A及通州办公地址。当前品牌、官网和收款主体仍应对应核查。 当前长期北京育儿业务仍待确认，不因政府列名进入首页主比较。",
+    "governmentMatches": [],
+    "businessStatus": "pending",
+    "suggestedGroup": "business-review",
+    "businessGate": "hold",
+    "businessReason": "北京主体名录及招聘资料有月嫂、育儿和早教业务；公开消费者投诉也涉及该北京品牌。未取得当前可选人选和接单档期。 本次保留业务待核或平台单列，不以政府列名自动确认北京育儿供给。"
+  },
+  {
+    "id": "agency-53",
+    "name": "58到家（58同城运营的当前入口）",
+    "identityLevel": 1,
+    "entityGate": "hold",
+    "reason": "既有身份档位不足3且本次对照的政府名单没有可明确归属的补充记录，保留主体线索待复核；并非断言公司不存在或一定不可靠。 档案依据：当前入口官方自称58同城自营；与历史更名天鹅到家的原58到家分开。投诉分派记录不能替代签约法人核验。 平台入口保持单列，法人可对应也不等于已确认北京育儿下单。",
+    "governmentMatches": [],
+    "businessStatus": "platform",
+    "suggestedGroup": "platform",
+    "businessGate": "hold",
+    "businessReason": "当前58入口及北京2024年白班育儿嫂合同投诉可证明北京业务线索；当前可面试人员仍需平台确认。 本次保留业务待核或平台单列，不以政府列名自动确认北京育儿供给。"
+  },
+  {
+    "id": "agency-54",
+    "name": "京东家政",
+    "identityLevel": 1,
+    "entityGate": "pass",
+    "reason": "政府正式列名主体或有来源支持的品牌关联可对应，满足本次“有完整主体线索”门槛；这不等于实时工商、当前合同或逐人劳动关系已核实。 档案依据：北京亦庄官方发布2025年称成立北京京东家政服务有限公司。2026年又有北京京东厚行科技有限公司设立消息；不能自动推定后者为所有家政合同收款方。 平台入口保持单列，法人可对应也不等于已确认北京育儿下单。",
+    "governmentMatches": [
+      {
+        "sourceUrl": "https://rsj.beijing.gov.cn/bm/ztzl/ssjzlwpp/202510/t20251031_4249345.html",
+        "listedCompany": "北京京东家政服务有限公司",
+        "matchBasis": "2025北京市人社家政劳务品牌详情列出的完整公司名与既有档案主体一致；品牌简称未被当成另一法人，合同主体仍须逐单核对。",
+        "matchStatus": "exact",
+        "recordType": "labor-brand-2025"
+      },
+      {
+        "sourceUrl": "https://rsj.beijing.gov.cn/xxgk/tzgg/202511/t20251103_4251298.html",
+        "listedCompany": "北京京东家政服务有限公司",
+        "matchBasis": "2025河北福嫂来京就业输入基地正式公告的完整主体名与既有档案对应；输入基地资格不等于育儿业务、人员库存或免费换人保证。",
+        "matchStatus": "exact",
+        "recordType": "input-base-2025"
+      }
+    ],
+    "businessStatus": "platform",
+    "suggestedGroup": "platform",
+    "businessGate": "hold",
+    "businessReason": "2025官方发布称核心为保洁和家电清洗，并逐步尝试月嫂、育儿嫂、养老。2026年新增公司及家厨服务证明业务扩展，但尚未取得北京育儿嫂直接可下单或派人证据。 本次保留业务待核或平台单列，不以政府列名自动确认北京育儿供给。"
+  },
+  {
+    "id": "agency-55",
+    "name": "58同城北京育儿嫂商家频道",
+    "identityLevel": 0,
+    "entityGate": "hold",
+    "reason": "既有身份档位不足3且本次对照的政府名单没有可明确归属的补充记录，保留主体线索待复核；并非断言公司不存在或一定不可靠。 档案依据：58同城北京保姆月嫂商家列表是信息平台入口，列表含多家独立经营商户，不能当一家机构。 平台入口保持单列，法人可对应也不等于已确认北京育儿下单。",
+    "governmentMatches": [],
+    "businessStatus": "platform",
+    "suggestedGroup": "platform",
+    "businessGate": "hold",
+    "businessReason": "当前列表出现北京育儿嫂相关广告，发现京南领航、益友嘉、阿依妈妈、众合瑞家等可进一步归属的商家；需逐商家核法人和育儿品类。 本次保留业务待核或平台单列，不以政府列名自动确认北京育儿供给。"
+  },
+  {
+    "id": "agency-56",
+    "name": "京东商城育儿嫂第三方商家",
+    "identityLevel": 0,
+    "entityGate": "hold",
+    "reason": "既有身份档位不足3且本次对照的政府名单没有可明确归属的补充记录，保留主体线索待复核；并非断言公司不存在或一定不可靠。 档案依据：京东商城育儿嫂商品频道是多家第三方商户入口；晞悦嘉贝、沪上睿知等品牌各有独立签约主体，不等于京东家政直营。 平台入口保持单列，法人可对应也不等于已确认北京育儿下单。",
+    "governmentMatches": [],
+    "businessStatus": "platform",
+    "suggestedGroup": "platform",
+    "businessGate": "hold",
+    "businessReason": "当前公开京东商品频道原文可读“晞悦嘉贝月嫂育儿嫂陪伴师，北京门店可外派”；索引有沪上睿知北京育儿师服务，需核每店北京实际派单。 本次保留业务待核或平台单列，不以政府列名自动确认北京育儿供给。"
+  },
+  {
+    "id": "candidate-local-01",
+    "name": "利人家政",
+    "identityLevel": 2,
+    "entityGate": "hold",
+    "reason": "既有身份档位不足3且本次对照的政府名单没有可明确归属的补充记录，保留主体线索待复核；并非断言公司不存在或一定不可靠。 档案依据：中国家协2026-06介绍明确北京利人家政有限公司；商家自填登记资料列2023-03-01注册。协会文同时写公司2018成立、品牌2023独立，历史表述需核，不强行统一。",
+    "governmentMatches": [],
+    "businessStatus": "confirmed",
+    "suggestedGroup": "entity-review",
+    "businessGate": "pass",
+    "businessReason": "协会介绍主营育婴师、月嫂和保姆，总部朝阳高碑店东区，北京海淀/大兴/朝阳共4店为企业提交口径；2025北京生活节有利人负责人出席，支持本地经营活动。"
+  },
+  {
+    "id": "candidate-local-02",
+    "name": "陈诚家政",
+    "identityLevel": 2,
+    "entityGate": "hold",
+    "reason": "既有身份档位不足3且本次对照的政府名单没有可明确归属的补充记录，保留主体线索待复核；并非断言公司不存在或一定不可靠。 档案依据：中国家协介绍北京陈诚家政服务有限公司成立于2024-04-29，依托北京陈诚保洁有限公司；是不同法人，不将保洁历史直接算为育儿嫂历史。",
+    "governmentMatches": [],
+    "businessStatus": "confirmed",
+    "suggestedGroup": "entity-review",
+    "businessGate": "pass",
+    "businessReason": "2026协会正文明确保姆、月嫂、育儿嫂，北京服务点为昌平天通苑东一区68号楼8单元底商。"
+  },
+  {
+    "id": "candidate-local-03",
+    "name": "春和万家",
+    "identityLevel": 2,
+    "entityGate": "hold",
+    "reason": "既有身份档位不足3且本次对照的政府名单没有可明确归属的补充记录，保留主体线索待复核；并非断言公司不存在或一定不可靠。 档案依据：中国家协2025介绍明确北京春和万家家政服务有限公司，昌平发展路8号院中天创业园；与泛称“春和”“万家”公司分开。",
+    "governmentMatches": [],
+    "businessStatus": "confirmed",
+    "suggestedGroup": "entity-review",
+    "businessGate": "pass",
+    "businessReason": "协会服务列表写“有儿嫂”（原文笔误）、家庭保姆、月嫂及母婴护理，结合本地商家目录育儿陪伴可作北京育儿服务线索；需核实际承接0—3岁长期照护。"
+  },
+  {
+    "id": "candidate-local-04",
+    "name": "神灯阿姨",
+    "identityLevel": 2,
+    "entityGate": "hold",
+    "reason": "既有身份档位不足3且本次对照的政府名单没有可明确归属的补充记录，保留主体线索待复核；并非断言公司不存在或一定不可靠。 档案依据：中国家协2025会员介绍对应北京神灯阿姨科技有限公司、AUNTY DIVINE品牌，称品牌自2016设立；品牌年限不等同当前法人成立时间。",
+    "governmentMatches": [],
+    "businessStatus": "confirmed",
+    "suggestedGroup": "entity-review",
+    "businessGate": "pass",
+    "businessReason": "协会正文明确保姆、月嫂、育儿嫂、护老、管家等；招聘检索有北京西城天宁寺育婴师/育儿嫂岗位，可补本地供给线索。"
+  },
+  {
+    "id": "candidate-local-05",
+    "name": "正点家政",
+    "identityLevel": 2,
+    "entityGate": "pass",
+    "reason": "政府正式列名主体或有来源支持的品牌关联可对应，满足本次“有完整主体线索”门槛；这不等于实时工商、当前合同或逐人劳动关系已核实。 档案依据：北京正点家政集团有限公司，2023与2024北京市员工制家政正式入选名单可核。京嫂招聘企业介绍称其属正点旗下高端月嫂品牌，状元宝贝亦见集团业务资料；应关联品牌组避免重复计数。 京嫂为相关母婴品牌，有政府/就业材料指向正点集团；合并展示品牌关系，不另计一家独立机构。 业务抽查边界：长期育婴招聘对应正点，2025品牌推选对应相关京嫂法人且主要月嫂；政府关联展示不能替代正点育儿合同主体适用核验。",
+    "governmentMatches": [
+      {
+        "sourceUrl": "https://rsj.beijing.gov.cn/bm/ztzl/ssjzlwpp/202511/t20251103_4250992.html",
+        "listedCompany": "北京京嫂科技发展集团有限公司",
+        "matchBasis": "2025列名为北京京嫂科技发展集团有限公司，政府/就业资料及京嫂企业介绍指向正点相关母婴品牌；与2023/2024列名正点家政集团为不同法人，仅关联品牌组。",
+        "matchStatus": "brand-linked",
+        "recordType": "labor-brand-2025"
+      },
+      {
+        "sourceUrl": "https://sw.beijing.gov.cn/phone/zwxx/tzgg/202401/t20240131_3550205.html",
+        "listedCompany": "北京正点家政集团有限公司",
+        "matchBasis": "正式名单直接列北京正点家政集团有限公司；2025京嫂是相关品牌的另一法人，不把京嫂的条款与本公司长期育儿合同合并。2024年度员工制资格为历史记录，有效期已过，不表述为2026当前员工制认证。",
+        "matchStatus": "exact",
+        "recordType": "employee-2024"
+      },
+      {
+        "sourceUrl": "https://rsj.beijing.gov.cn/xxgk/tzgg/202302/t20230208_2913405.html",
+        "listedCompany": "北京正点家政集团有限公司",
+        "matchBasis": "正式名单直接列北京正点家政集团有限公司；2025京嫂是相关品牌的另一法人，不把京嫂的条款与本公司长期育儿合同合并。2023年度员工制资格为历史记录，有效期已过，不表述为2026当前员工制认证。",
+        "matchStatus": "exact",
+        "recordType": "employee-2023"
+      },
+      {
+        "sourceUrl": "https://rsj.beijing.gov.cn/xxgk/tzgg/202511/t20251103_4251298.html",
+        "listedCompany": "北京京嫂科技发展有限公司",
+        "matchBasis": "基地精确列名北京京嫂科技发展有限公司，2025品牌名录则为北京京嫂科技发展集团有限公司；既有招聘介绍有正点旗下京嫂线索，但未取得两京嫂名称的工商变更或权属链，不自动合并，不据这条待核匹配加政府依据。",
+        "matchStatus": "pending",
+        "recordType": "input-base-2025"
+      }
+    ],
+    "businessStatus": "confirmed",
+    "suggestedGroup": "government-2025",
+    "businessGate": "pass",
+    "businessReason": "大兴区人社就业平台列育婴师岗位，2025招聘7500—12000元/月；企业介绍北京海淀、丰台、朝阳、通州运营中心，能支持本地长期育儿业务。 京嫂目前明确的产品是月嫂，不能把其先服务后收费宣传直接当成正点长期育儿嫂条款。",
+    "shortCaution": "2025年京嫂为关联品牌的另一法人，主要经营月嫂；正点长期育儿合同主体与推选记录适用范围另核。"
+  },
+  {
+    "id": "candidate-local-06",
+    "name": "家家福宁",
+    "identityLevel": 2,
+    "entityGate": "pass",
+    "reason": "政府正式列名主体或有来源支持的品牌关联可对应，满足本次“有完整主体线索”门槛；这不等于实时工商、当前合同或逐人劳动关系已核实。 档案依据：2025北京市人社名录为北京家家福宁家政有限公司；部分推广稿加“服务”二字，不直接当精确法人。",
+    "governmentMatches": [
+      {
+        "sourceUrl": "https://rsj.beijing.gov.cn/bm/ztzl/ssjzlwpp/202511/t20251103_4251026.html",
+        "listedCompany": "北京家家福宁家政有限公司",
+        "matchBasis": "2025北京市人社家政劳务品牌详情列出的完整公司名与既有档案主体一致；品牌简称未被当成另一法人，合同主体仍须逐单核对。",
+        "matchStatus": "exact",
+        "recordType": "labor-brand-2025"
+      },
+      {
+        "sourceUrl": "https://rsj.beijing.gov.cn/xxgk/tzgg/202511/t20251103_4251298.html",
+        "listedCompany": "北京家家福宁家政有限公司",
+        "matchBasis": "2025河北福嫂来京就业输入基地正式公告的完整主体名与既有档案对应；输入基地资格不等于育儿业务、人员库存或免费换人保证。",
+        "matchStatus": "exact",
+        "recordType": "input-base-2025"
+      }
+    ],
+    "businessStatus": "confirmed",
+    "suggestedGroup": "government-2025",
+    "businessGate": "pass",
+    "businessReason": "2026-06保定就业发布京津冀招聘含北京家家福宁育儿嫂80人、月嫂及护理岗位；2025政府名录和河北福嫂输入基地支持北京家政业务。"
+  },
+  {
+    "id": "candidate-local-07",
+    "name": "妇婴乐",
+    "identityLevel": 1,
+    "entityGate": "pass",
+    "reason": "政府正式列名主体或有来源支持的品牌关联可对应，满足本次“有完整主体线索”门槛；这不等于实时工商、当前合同或逐人劳动关系已核实。 档案依据：北京市人社2025名录明确北京妇婴乐家政服务有限公司，历史商务局连锁资源库亦有同名主体；不与乌鲁木齐等地同名公司自动合并。 当前长期北京育儿业务仍待确认，不因政府列名进入首页主比较。",
+    "governmentMatches": [
+      {
+        "sourceUrl": "https://rsj.beijing.gov.cn/bm/ztzl/ssjzlwpp/202511/t20251103_4251001.html",
+        "listedCompany": "北京妇婴乐家政服务有限公司",
+        "matchBasis": "2025北京市人社家政劳务品牌详情列出的完整公司名与既有档案主体一致；品牌简称未被当成另一法人，合同主体仍须逐单核对。",
+        "matchStatus": "exact",
+        "recordType": "labor-brand-2025"
+      }
+    ],
+    "businessStatus": "pending",
+    "suggestedGroup": "business-review",
+    "businessGate": "hold",
+    "businessReason": "第三方企业培训介绍称提供北京月嫂、催乳、育婴师及家庭服务；2026-08政府报道负责人招募人员服务北京家庭。长期育儿嫂专门工种和可面试供给仍需具体核单。 本次保留业务待核或平台单列，不以政府列名自动确认北京育儿供给。"
+  },
+  {
+    "id": "new-yijiamei",
+    "name": "北京易家美",
+    "identityLevel": 3,
+    "entityGate": "hold",
+    "reason": "协会标题科技有限公司与正文/商家页家政有限公司关系未证，当前品牌不能自动归到任一法人。 档案依据：家协文章标题为“北京易家美科技有限公司”，正文及北京保姆网店铺均称“北京易家美家政有限公司”、创建于2020年。两名称关系、现签约法人和统一信用代码未取得，不能直接归为同一法律主体。",
+    "governmentMatches": [],
+    "businessStatus": "confirmed",
+    "suggestedGroup": "entity-review",
+    "businessGate": "pass",
+    "businessReason": "家协介绍明确列育儿嫂、月嫂及住家保姆；本地店铺位于北京朝阳东坝，另有北京朝阳常营育儿嫂招聘。可以纳入北京育儿服务品牌候选。"
+  },
+  {
+    "id": "new-yilian",
+    "name": "依链家政",
+    "identityLevel": 4,
+    "entityGate": "pass",
+    "reason": "政府正式列名主体或有来源支持的品牌关联可对应，满足本次“有完整主体线索”门槛；这不等于实时工商、当前合同或逐人劳动关系已核实。 档案依据：北京人社2025名录列依链（北京）家政服务管理有限公司；第三方企业页列信用代码91110112MA7DNHHE6N、开业。官网品牌、地址与企业名线索一致；未取得工商实时原档。",
+    "governmentMatches": [
+      {
+        "sourceUrl": "https://rsj.beijing.gov.cn/bm/ztzl/ssjzlwpp/202511/t20251103_4251014.html",
+        "listedCompany": "依链（北京）家政服务管理有限公司",
+        "matchBasis": "2025北京市人社家政劳务品牌详情列出的完整公司名与既有档案主体一致；品牌简称未被当成另一法人，合同主体仍须逐单核对。",
+        "matchStatus": "exact",
+        "recordType": "labor-brand-2025"
+      },
+      {
+        "sourceUrl": "https://rsj.beijing.gov.cn/xxgk/tzgg/202511/t20251103_4251298.html",
+        "listedCompany": "依链（北京）家政服务管理有限公司",
+        "matchBasis": "2025河北福嫂来京就业输入基地正式公告的完整主体名与既有档案对应；输入基地资格不等于育儿业务、人员库存或免费换人保证。",
+        "matchStatus": "exact",
+        "recordType": "input-base-2025"
+      }
+    ],
+    "businessStatus": "confirmed",
+    "suggestedGroup": "government-2025",
+    "businessGate": "pass",
+    "businessReason": "官网明确向家庭提供保姆、母婴护理、育婴早教等到家服务，并公示北京朝阳门店。可纳入北京育婴服务机构候选，具体月龄与带睡能力仍需按阿姨核对。"
+  },
+  {
+    "id": "new-weijiahui",
+    "name": "北京为家汇",
+    "identityLevel": 1,
+    "entityGate": "hold",
+    "reason": "既有身份档位不足3且本次对照的政府名单没有可明确归属的补充记录，保留主体线索待复核；并非断言公司不存在或一定不可靠。 档案依据：家协正式列北京为家汇家庭服务有限公司；职友集列代码911101053971046086、王亚波、注册180万元、开业，旧投资资料法人/资本不同，不能混用为现行工商信息。 当前长期北京育儿业务仍待确认，不因政府列名进入首页主比较。",
+    "governmentMatches": [],
+    "businessStatus": "pending",
+    "suggestedGroup": "business-review",
+    "businessGate": "hold",
+    "businessReason": "逐条核读家协介绍实际主营物业管理、楼宇清洗、石材及绿植养护、高端家庭保洁。追加“为家汇 育儿嫂”“为家汇 保姆”和月嫂/育婴搜索，未取得北京入户育儿嫂产品、阿姨派遣或明确订单证据。 本次保留业务待核或平台单列，不以政府列名自动确认北京育儿供给。"
+  },
+  {
+    "id": "new-daxi",
+    "name": "北京达喜母婴护理",
+    "identityLevel": 1,
+    "entityGate": "hold",
+    "reason": "既有身份档位不足3且本次对照的政府名单没有可明确归属的补充记录，保留主体线索待复核；并非断言公司不存在或一定不可靠。 档案依据：中国家协会员文章标题为北京达喜母婴护理有限公司，2024-12-25发布。通过两个读取通道打开均只有标题/日期，没有正文、信用代码或联系方式。未取得可交叉确认的工商原档。 当前长期北京育儿业务仍待确认，不因政府列名进入首页主比较。",
+    "governmentMatches": [],
+    "businessStatus": "pending",
+    "suggestedGroup": "business-review",
+    "businessGate": "hold",
+    "businessReason": "精确公司全称与“育儿嫂/月嫂/育婴”补搜，未取得该主体北京入户育儿嫂产品；“母婴护理”名称不能自动等于长期育儿嫂。 本次保留业务待核或平台单列，不以政府列名自动确认北京育儿供给。"
+  },
+  {
+    "id": "new-aibaobei",
+    "name": "爱宝蓓 / 北京爱月宝",
+    "identityLevel": 3,
+    "entityGate": "pass",
+    "reason": "既有档案有完整主体名称与可归属的北京服务线索，达到补充候选的主体门槛；未找到本次对照的政府入选记录，不包装为政府推荐。 档案依据：推广主页称爱宝蓓（北京）家政服务有限责任公司，成立2019年，以爱月宝品牌经营。智联招聘的企业介绍明确称爱月宝品牌加盟商；应按北京本地爱宝蓓签约主体考察，不能把全国爱月宝各店合并。第三方目录给信用代码91110111MA01K2E1X3，未验工商原档。",
+    "governmentMatches": [],
+    "businessStatus": "confirmed",
+    "suggestedGroup": "supplementary",
+    "businessGate": "pass",
+    "businessReason": "商家主页明确提供育儿、育婴到家服务，服务区域北京，公示房山实体地址；2026年推广稿具体写0–3岁入户照料。智联招聘亦写月嫂、育婴师服务。可纳入北京候选。 北京家政港原文也明确列育儿嫂/育婴师。"
+  },
+  {
+    "id": "new-aijiali",
+    "name": "爱嘉里家政",
+    "identityLevel": 2,
+    "entityGate": "hold",
+    "reason": "既有身份档位不足3且本次对照的政府名单没有可明确归属的补充记录，保留主体线索待复核；并非断言公司不存在或一定不可靠。 档案依据：到位商品品牌为爱嘉里家政，订购须知称爱嘉里母婴家政公司。精确名搜索未取得可核对的完整法人名/统一信用代码；推广稿称2017年北京创立，但没有附工商原档。",
+    "governmentMatches": [],
+    "businessStatus": "confirmed",
+    "suggestedGroup": "entity-review",
+    "businessGate": "pass",
+    "businessReason": "到位北京站有住家育儿嫂/育婴师独立商品，写26天/月，护理、喂养、辅食、习惯和早期训练等工作。可以纳入北京育儿嫂候选，具体订单承接方仍需核对。"
+  },
+  {
+    "id": "new-ejiabang",
+    "name": "e家帮",
+    "identityLevel": 1,
+    "entityGate": "hold",
+    "reason": "既有身份档位不足3且本次对照的政府名单没有可明确归属的补充记录，保留主体线索待复核；并非断言公司不存在或一定不可靠。 档案依据：官网2024-08-01隐私协议和应用宝开发/运营者均写广州互缘网络科技有限公司；应用备案粤ICP备13062290号-10A。未取得北京分支签约主体或北京育儿订单履约方。 当前长期北京育儿业务仍待确认，不因政府列名进入首页主比较。",
+    "governmentMatches": [],
+    "businessStatus": "pending",
+    "suggestedGroup": "business-review",
+    "businessGate": "hold",
+    "businessReason": "官网有专门育儿嫂业务页；官方预约页城市列表含北京，应用介绍也列育儿嫂。但城市选择入口不等于北京目前有可用育儿嫂，未取得北京在岗名单、成功订单或服务实体。列北京履约待核，不能当作已确认足量北京服务。 本次保留业务待核或平台单列，不以政府列名自动确认北京育儿供给。"
+  },
+  {
+    "id": "new-youbaobei",
+    "name": "北京优宝贝国际家政",
+    "identityLevel": 1,
+    "entityGate": "hold",
+    "reason": "既有身份档位不足3且本次对照的政府名单没有可明确归属的补充记录，保留主体线索待复核；并非断言公司不存在或一定不可靠。 档案依据：BOSS企业页列北京优宝贝国际家政服务有限公司，2021-04-20成立，代码91110113MA02A1GE2T，法定代表人倪永英、注册资本10万元、存续。这是第三方工商摘录，未复核官方登记；与优贝优/优贝优聪/佳优宝贝不能合并。 当前长期北京育儿业务仍待确认，不因政府列名进入首页主比较。",
+    "governmentMatches": [],
+    "businessStatus": "pending",
+    "suggestedGroup": "business-review",
+    "businessGate": "hold",
+    "businessReason": "企业招聘页的旗下品牌含“优宝贝月嫂育儿嫂”，并公示北京朝阳办公地点，可确认其北京育儿服务定位线索。没有找到直接面向雇主的当前育儿嫂产品或正式合同，招聘页提示职位已过期；实际供给仍待核。 本次保留业务待核或平台单列，不以政府列名自动确认北京育儿供给。"
+  },
+  {
+    "id": "new-platform-01",
+    "name": "晞悦嘉贝",
+    "identityLevel": 3,
+    "entityGate": "pass",
+    "reason": "政府正式列名主体或有来源支持的品牌关联可对应，满足本次“有完整主体线索”门槛；这不等于实时工商、当前合同或逐人劳动关系已核实。 档案依据：北京晞悦嘉贝家政服务有限公司已出现在北京市人社局2025-11-06劳务品牌名录。商家自填代码91110107MA0208M19Y，未政府登记核验；昌平分公司另有第三方注册线索。",
+    "governmentMatches": [
+      {
+        "sourceUrl": "https://rsj.beijing.gov.cn/bm/ztzl/ssjzlwpp/202511/t20251103_4250979.html",
+        "listedCompany": "北京晞悦嘉贝家政服务有限公司",
+        "matchBasis": "2025北京市人社家政劳务品牌详情列出的完整公司名与既有档案主体一致；品牌简称未被当成另一法人，合同主体仍须逐单核对。",
+        "matchStatus": "exact",
+        "recordType": "labor-brand-2025"
+      }
+    ],
+    "businessStatus": "confirmed",
+    "suggestedGroup": "government-2025",
+    "businessGate": "pass",
+    "businessReason": "商家主页明确北京育儿嫂，历史东城2岁宝宝早教家务招聘；当前京东原文有“北京门店可外派”育儿嫂服务尾款SKU。"
+  },
+  {
+    "id": "new-platform-02",
+    "name": "沪上睿知",
+    "identityLevel": 1,
+    "entityGate": "hold",
+    "reason": "既有身份档位不足3且本次对照的政府名单没有可明确归属的补充记录，保留主体线索待复核；并非断言公司不存在或一定不可靠。 档案依据：招聘页主体沪上睿知（上海）科技服务有限公司，第三方工商区列2025-03-11成立、代码91310114MAEDH0U166；品牌自述2023创立，不能把品牌年限当法人年限。 当前长期北京育儿业务仍待确认，不因政府列名进入首页主比较。",
+    "governmentMatches": [],
+    "businessStatus": "pending",
+    "suggestedGroup": "business-review",
+    "businessGate": "hold",
+    "businessReason": "早先京东频道索引出现“上海育儿师北京育儿师”，当前原文不再显示该条目；招聘原文主打上海私人管家和助理，尚未取得具体北京育儿岗位、门店或派单证明。 本次保留业务待核或平台单列，不以政府列名自动确认北京育儿供给。"
+  },
+  {
+    "id": "new-platform-03",
+    "name": "京南领航",
+    "identityLevel": 1,
+    "entityGate": "hold",
+    "reason": "既有身份档位不足3且本次对照的政府名单没有可明确归属的补充记录，保留主体线索待复核；并非断言公司不存在或一定不可靠。 档案依据：58商户名北京京南领航家政有限公司，未取得独立执照或政府登记信息。",
+    "governmentMatches": [],
+    "businessStatus": "confirmed",
+    "suggestedGroup": "entity-review",
+    "businessGate": "pass",
+    "businessReason": "58最新索引中其独立标题写住家及不住家育儿嫂，服务全北京；已与相邻商家条目区分。具体店铺原文因动态访问未取得。"
+  },
+  {
+    "id": "new-platform-04",
+    "name": "益友嘉",
+    "identityLevel": 3,
+    "entityGate": "pass",
+    "reason": "既有档案有完整主体名称与可归属的北京服务线索，达到补充候选的主体门槛；未找到本次对照的政府入选记录，不包装为政府推荐。 档案依据：官网署北京益友嘉职业介绍有限责任公司；古城商家页另用北京益友嘉家政服务有限责任公司，永乐分公司、服务中心称谓亦不同。品牌可追查但具体合同主体应分店核。",
+    "governmentMatches": [],
+    "businessStatus": "confirmed",
+    "suggestedGroup": "supplementary",
+    "businessGate": "pass",
+    "businessReason": "官网和永乐店原文列育儿，58当前列表古城店及育儿嫂服务可见；2023商家文章列古城金融长安26号院8号楼806。"
+  },
+  {
+    "id": "new-platform-05",
+    "name": "阿依妈妈",
+    "identityLevel": 2,
+    "entityGate": "hold",
+    "reason": "既有身份档位不足3且本次对照的政府名单没有可明确归属的补充记录，保留主体线索待复核；并非断言公司不存在或一定不可靠。 档案依据：北京家协2024理事名单原文列北京阿依妈妈教育咨询有限公司及总经理；58商家用名北京阿依妈妈家政服务，关联仍须看该店执照。",
+    "governmentMatches": [],
+    "businessStatus": "confirmed",
+    "suggestedGroup": "entity-review",
+    "businessGate": "pass",
+    "businessReason": "58北京列表其广告含育儿嫂，平台摘录有家长称视频面试后次日到岗；可证北京业务宣传及用户线索，但未查实完整订单。"
+  },
+  {
+    "id": "new-platform-06",
+    "name": "众合瑞家",
+    "identityLevel": 3,
+    "entityGate": "pass",
+    "reason": "既有档案有完整主体名称与可归属的北京服务线索，达到补充候选的主体门槛；未找到本次对照的政府入选记录，不包装为政府推荐。 档案依据：商家广告全称北京众合瑞家健康科技有限公司，另称众合家政；培训目录自填代码91110105061344878F，未政府登记核验。",
+    "governmentMatches": [],
+    "businessStatus": "confirmed",
+    "suggestedGroup": "supplementary",
+    "businessGate": "pass",
+    "businessReason": "58原文列全北京育儿服务；亚运村商家原文有2025年12月海淀3个月、顺义8个月等具体育儿岗位。"
+  },
+  {
+    "id": "new-platform-07",
+    "name": "邦巧手",
+    "identityLevel": 2,
+    "entityGate": "hold",
+    "reason": "既有身份档位不足3且本次对照的政府名单没有可明确归属的补充记录，保留主体线索待复核；并非断言公司不存在或一定不可靠。 档案依据：京东出现邦巧手旗舰店；第三方企业页列北京邦巧手科技有限公司，2026-03-25成立，代码91110108MAK8JXQ69U。尚未取得店铺执照，不能确认同名公司就是京东店铺运营或签约主体。",
+    "governmentMatches": [],
+    "businessStatus": "confirmed",
+    "suggestedGroup": "entity-review",
+    "businessGate": "pass",
+    "businessReason": "京东当前可读商品频道有北京白班育儿嫂、大婴育儿嫂等实际服务文案，同时也有电子版选人攻略；二者需分开。"
+  },
+  {
+    "id": "new-platform-08",
+    "name": "汇众万家",
+    "identityLevel": 2,
+    "entityGate": "hold",
+    "reason": "既有身份档位不足3且本次对照的政府名单没有可明确归属的补充记录，保留主体线索待复核；并非断言公司不存在或一定不可靠。 档案依据：京东商品使用汇众万家，部分频道品牌筛选写汇众亿万家；未取得店铺营业执照、北京签约主体或二者关系证明。",
+    "governmentMatches": [],
+    "businessStatus": "confirmed",
+    "suggestedGroup": "entity-review",
+    "businessGate": "pass",
+    "businessReason": "京东当前可读商品原文列月嫂育儿嫂，北京上海外派全国；证明商家广告覆盖北京，不代表京东直接派单。"
+  },
+  {
+    "id": "new-zhongxiang",
+    "name": "中享家政",
+    "identityLevel": 2,
+    "entityGate": "hold",
+    "reason": "既有身份档位不足3且本次对照的政府名单没有可明确归属的补充记录，保留主体线索待复核；并非断言公司不存在或一定不可靠。 档案依据：中国家协会员介绍列北京中享家政服务有限公司，称2023-12-28成立；2025-03-27开设城南嘉园分公司。属于企业提交介绍，未查询实时工商登记。",
+    "governmentMatches": [],
+    "businessStatus": "confirmed",
+    "suggestedGroup": "entity-review",
+    "businessGate": "pass",
+    "businessReason": "协会原文明确列育婴师、月嫂，并说明为北京家庭推荐和培训育儿嫂，支持纳入北京候选。不能因为名录分类为养老就排除其育儿业务。"
+  },
+  {
+    "id": "new-xinghu",
+    "name": "星护星选",
+    "identityLevel": 2,
+    "entityGate": "hold",
+    "reason": "既有身份档位不足3且本次对照的政府名单没有可明确归属的补充记录，保留主体线索待复核；并非断言公司不存在或一定不可靠。 档案依据：中国家协北京会员页列北京星护星选科技有限公司；宣传文章页头使用同名公司，未核验实际合同法人。",
+    "governmentMatches": [],
+    "businessStatus": "confirmed",
+    "suggestedGroup": "entity-review",
+    "businessGate": "pass",
+    "businessReason": "2026-08品牌宣传文章列北京服务区域与育儿嫂、月嫂、保姆等业务，可作为北京服务招揽线索。"
+  },
+  {
+    "id": "new-qingyuan",
+    "name": "清源管家",
+    "identityLevel": 1,
+    "entityGate": "hold",
+    "reason": "既有身份档位不足3且本次对照的政府名单没有可明确归属的补充记录，保留主体线索待复核；并非断言公司不存在或一定不可靠。 档案依据：中国家协列北京清源管家家政有限公司；BOSS工商转载列2016-06-06成立、代码91110116MA0061TH6A。属于平台转载，未进行实时工商核验。 当前长期北京育儿业务仍待确认，不因政府列名进入首页主比较。",
+    "governmentMatches": [],
+    "businessStatus": "pending",
+    "suggestedGroup": "business-review",
+    "businessGate": "hold",
+    "businessReason": "有北京家政主体与过期月嫂招聘，但未找到足以确认当前向家庭提供长期育儿嫂的直接服务页。不能将清源到家等近名主体合并。 本次保留业务待核或平台单列，不以政府列名自动确认北京育儿供给。"
+  },
+  {
+    "id": "new-association-jiahe",
+    "name": "佳和誉泰",
+    "identityLevel": 1,
+    "entityGate": "hold",
+    "reason": "既有身份档位不足3且本次对照的政府名单没有可明确归属的补充记录，保留主体线索待复核；并非断言公司不存在或一定不可靠。 档案依据：北京佳和誉泰家政服务有限公司见2024协会名单，官网索引与培训目录同名。 当前长期北京育儿业务仍待确认，不因政府列名进入首页主比较。",
+    "governmentMatches": [],
+    "businessStatus": "pending",
+    "suggestedGroup": "business-review",
+    "businessGate": "hold",
+    "businessReason": "官网索引称母婴护理及育婴培训、培训与服务一体；培训目录原文称入户服务，但尚未取得具体北京育儿客户订单或现售育儿服务页。 本次保留业务待核或平台单列，不以政府列名自动确认北京育儿供给。"
+  },
+  {
+    "id": "new-association-jiayi",
+    "name": "佳翊会",
+    "identityLevel": 3,
+    "entityGate": "pass",
+    "reason": "既有档案有完整主体名称与可归属的北京服务线索，达到补充候选的主体门槛；未找到本次对照的政府入选记录，不包装为政府推荐。 档案依据：2024协会名单为北京佳翊教育科技服务有限公司；培训目录品牌为佳翊会母婴服务机构。同名北京佳翊和家政公司未证明关联，签约须核。",
+    "governmentMatches": [],
+    "businessStatus": "confirmed",
+    "suggestedGroup": "supplementary",
+    "businessGate": "pass",
+    "businessReason": "北京佳翊母婴培训目录原文明确到家月嫂、育儿、住家阿姨及月子会所护理员，育儿业务可作为候选依据。"
+  },
+  {
+    "id": "new-association-yangguang21",
+    "name": "阳光二十一 / 阳光21",
+    "identityLevel": 1,
+    "entityGate": "pass",
+    "reason": "政府正式列名主体或有来源支持的品牌关联可对应，满足本次“有完整主体线索”门槛；这不等于实时工商、当前合同或逐人劳动关系已核实。 档案依据：北京阳光二十一文化发展有限公司列2024协会名单及2023北京市员工制家政企业名单。 当前长期北京育儿业务仍待确认，不因政府列名进入首页主比较。",
+    "governmentMatches": [
+      {
+        "sourceUrl": "https://rsj.beijing.gov.cn/xxgk/tzgg/202302/t20230208_2913405.html",
+        "listedCompany": "北京阳光二十一文化发展有限公司",
+        "matchBasis": "正式入选公告的完整法人名与既有档案可对应；使用正式公告而非拟入选公示。2023年度员工制资格为历史记录，有效期已过，不表述为2026当前员工制认证。",
+        "matchStatus": "exact",
+        "recordType": "employee-2023"
+      }
+    ],
+    "businessStatus": "pending",
+    "suggestedGroup": "business-review",
+    "businessGate": "hold",
+    "businessReason": "政府记录证明历史家政主体；阳光21育儿服务仅查到旧目录与点评门店线索，未取得当前具体北京育儿派单原文。 本次保留业务待核或平台单列，不以政府列名自动确认北京育儿供给。"
+  },
+  {
+    "id": "new-association-enci",
+    "name": "恩赐月嫂",
+    "identityLevel": 2,
+    "entityGate": "hold",
+    "reason": "既有身份档位不足3且本次对照的政府名单没有可明确归属的补充记录，保留主体线索待复核；并非断言公司不存在或一定不可靠。 档案依据：北京恩赐月嫂家政服务有限公司列2024协会名单及2026房山区人社招聘公告。",
+    "governmentMatches": [],
+    "businessStatus": "confirmed",
+    "suggestedGroup": "entity-review",
+    "businessGate": "pass",
+    "businessReason": "2026-07-03房山区人社公告明确招育婴师50人，工作为0–3岁日常照料、辅食和早期教育；与月嫂岗位分列。"
+  },
+  {
+    "id": "new-association-super",
+    "name": "超级保姆",
+    "identityLevel": 1,
+    "entityGate": "hold",
+    "reason": "既有身份档位不足3且本次对照的政府名单没有可明确归属的补充记录，保留主体线索待复核；并非断言公司不存在或一定不可靠。 档案依据：北京超级保姆家政服务有限公司列2024理事名单与2025政府招聘。 当前长期北京育儿业务仍待确认，不因政府列名进入首页主比较。",
+    "governmentMatches": [],
+    "businessStatus": "pending",
+    "suggestedGroup": "business-review",
+    "businessGate": "hold",
+    "businessReason": "安康人社2025-07-21北京方向岗位表仅明确一般家政服务员30人，未说明婴幼儿照护；本轮未取得明确北京育儿派单证据。 本次保留业务待核或平台单列，不以政府列名自动确认北京育儿供给。"
+  },
+  {
+    "id": "new-association-guanjia",
+    "name": "管家多多",
+    "identityLevel": 3,
+    "entityGate": "pass",
+    "reason": "政府正式列名主体或有来源支持的品牌关联可对应，满足本次“有完整主体线索”门槛；这不等于实时工商、当前合同或逐人劳动关系已核实。 档案依据：北京管家多多家政有限公司列2024协会理事名单；教育宝商家介绍同名。",
+    "governmentMatches": [
+      {
+        "sourceUrl": "https://rsj.beijing.gov.cn/bm/ztzl/ssjzlwpp/202511/t20251103_4251005.html",
+        "listedCompany": "北京管家多多家政有限公司",
+        "matchBasis": "2025北京市人社家政劳务品牌详情列出的完整公司名与既有档案主体一致；品牌简称未被当成另一法人，合同主体仍须逐单核对。",
+        "matchStatus": "exact",
+        "recordType": "labor-brand-2025"
+      },
+      {
+        "sourceUrl": "https://rsj.beijing.gov.cn/xxgk/tzgg/202511/t20251103_4251298.html",
+        "listedCompany": "北京管家多多家政有限公司",
+        "matchBasis": "2025河北福嫂来京就业输入基地正式公告的完整主体名与既有档案对应；输入基地资格不等于育儿业务、人员库存或免费换人保证。",
+        "matchStatus": "exact",
+        "recordType": "input-base-2025"
+      }
+    ],
+    "businessStatus": "confirmed",
+    "suggestedGroup": "government-2025",
+    "businessGate": "pass",
+    "businessReason": "教育宝机构原文明确为家庭、医院提供月嫂和育儿嫂，育儿培训与家庭服务均有文案，不只学校。"
+  },
+  {
+    "id": "new-association-fuping",
+    "name": "福平家政",
+    "identityLevel": 2,
+    "entityGate": "pass",
+    "reason": "新增核到2025河北福嫂来京输入基地正式推选的完整主体，满足本次主体线索门槛；不代表实时工商或当前合同已核实。 旧身份评分不足3保留不改，本次依新增可归属政府推选记录单独判断主体门槛。 档案依据：北京福平家政服务有限公司列协会名单；2026东城政府公告标题同名，正文写北京福平家政服务中心。合同主体名称需核，不能自动等同原富平。",
+    "governmentMatches": [
+      {
+        "sourceUrl": "https://rsj.beijing.gov.cn/xxgk/tzgg/202511/t20251103_4251298.html",
+        "listedCompany": "北京福平家政服务有限公司",
+        "matchBasis": "基地精确列北京福平家政服务有限公司，与档案协会名和政府招聘标题相同，足以定位被推选公司；招聘正文另写服务中心，关系未证，不将两名称静默等同或混为富平。",
+        "matchStatus": "exact",
+        "recordType": "input-base-2025"
+      }
+    ],
+    "businessStatus": "confirmed",
+    "suggestedGroup": "government-historical",
+    "businessGate": "pass",
+    "businessReason": "东城区2026-04-27公告明确招聘育儿嫂50人，要求2年以上育儿或月嫂经验，并带过0–6岁孩子。"
+  },
+  {
+    "id": "new-association-aiyingbao",
+    "name": "爱婴宝",
+    "identityLevel": 1,
+    "entityGate": "hold",
+    "reason": "既有身份档位不足3且本次对照的政府名单没有可明确归属的补充记录，保留主体线索待复核；并非断言公司不存在或一定不可靠。 档案依据：北京爱婴宝家政服务有限公司列2024协会及2018商务局培训项目；不是北京亿婴宝教育科技有限公司。 当前长期北京育儿业务仍待确认，不因政府列名进入首页主比较。",
+    "governmentMatches": [],
+    "businessStatus": "pending",
+    "suggestedGroup": "business-review",
+    "businessGate": "hold",
+    "businessReason": "已确认历史家政主体与培训活动；未取得现行北京育儿嫂服务或可归属的具体派单原文。 本次保留业务待核或平台单列，不以政府列名自动确认北京育儿供给。"
+  },
+  {
+    "id": "new-association-zhengde",
+    "name": "正德社区服务中心",
+    "identityLevel": 1,
+    "entityGate": "hold",
+    "reason": "既有身份档位不足3且本次对照的政府名单没有可明确归属的补充记录，保留主体线索待复核；并非断言公司不存在或一定不可靠。 档案依据：北京市昌平区正德社区服务中心列2024理事工作单位；公开介绍为社区服务社会组织。 当前长期北京育儿业务仍待确认，不因政府列名进入首页主比较。",
+    "governmentMatches": [],
+    "businessStatus": "pending",
+    "suggestedGroup": "business-review",
+    "businessGate": "hold",
+    "businessReason": "社区产业园聚合家政服务的线索存在，但没有证实由正德自身签约和派出育儿嫂；平台集合不能算独立派单公司。 本次保留业务待核或平台单列，不以政府列名自动确认北京育儿供给。"
+  },
+  {
+    "id": "candidate-assoc-589",
+    "name": "家和贝婴家政",
+    "identityLevel": 3,
+    "entityGate": "hold",
+    "reason": "北京家和贝婴健康科技有限公司存在协会线索，但尚未将当前58家政商户直接连到该法人，品牌与实际服务商关联待核。 档案依据：中国家协成员为北京家和贝婴健康科技有限公司；58 育婴商户显示“家和贝婴家政”。《生命时报》报道出现同名北京家和贝婴及负责人于娜，属于其他家政业务旁证。未取得把 58 商户直接连到该法人的营业执照/合同，暂按待确认的品牌关系保留。",
+    "governmentMatches": [],
+    "businessStatus": "confirmed",
+    "suggestedGroup": "entity-review",
+    "businessGate": "pass",
+    "businessReason": "已在 58 两个实时公开页面读到海淀“家和贝婴家政”广告，明确育婴师/育儿嫂、抚触、营养配餐及不住家标签。因此有北京育儿服务商户证据；适用月龄、全天/住家是否可选及现时档期未公开。"
+  },
+  {
+    "id": "new-association-fumushijian",
+    "name": "父母时间",
+    "identityLevel": 1,
+    "entityGate": "hold",
+    "reason": "既有身份档位不足3且本次对照的政府名单没有可明确归属的补充记录，保留主体线索待复核；并非断言公司不存在或一定不可靠。 档案依据：北京父母时间教育科技有限公司列2024协会理事工作单位，其他联合活动也有同名线索。 当前长期北京育儿业务仍待确认，不因政府列名进入首页主比较。",
+    "governmentMatches": [],
+    "businessStatus": "pending",
+    "suggestedGroup": "business-review",
+    "businessGate": "hold",
+    "businessReason": "本轮全称、北京育儿业务、换退合同、投诉检索主要命中协会和行业活动，未取得可归属的现售育儿服务、门店或人员供给。 本次保留业务待核或平台单列，不以政府列名自动确认北京育儿供给。"
+  },
+  {
+    "id": "new-association-wenwu",
+    "name": "文武家政",
+    "identityLevel": 1,
+    "entityGate": "hold",
+    "reason": "既有身份档位不足3且本次对照的政府名单没有可明确归属的补充记录，保留主体线索待复核；并非断言公司不存在或一定不可靠。 档案依据：北京文武家政服务有限公司列2024协会名单。检索另有河北文武公司，未证明双方关系。 当前长期北京育儿业务仍待确认，不因政府列名进入首页主比较。",
+    "governmentMatches": [],
+    "businessStatus": "pending",
+    "suggestedGroup": "business-review",
+    "businessGate": "hold",
+    "businessReason": "北京公司可见月嫂培训学校及招生招聘线索，尚未取得由该北京法人提供长期育儿嫂的具体订单或现售服务。 本次保留业务待核或平台单列，不以政府列名自动确认北京育儿供给。"
+  },
+  {
+    "id": "new-association-liuba",
+    "name": "六八到家",
+    "identityLevel": 1,
+    "entityGate": "pass",
+    "reason": "新增核到2025河北福嫂来京输入基地正式推选的完整主体，满足本次主体线索门槛；不代表实时工商或当前合同已核实。 旧身份评分不足3保留不改，本次依新增可归属政府推选记录单独判断主体门槛。 档案依据：北京六八到家家政服务有限公司列2024理事工作单位，智联岗位同名；不是58到家/天鹅/58同城。 当前长期北京育儿业务仍待确认，不因政府列名进入首页主比较。",
+    "governmentMatches": [
+      {
+        "sourceUrl": "https://rsj.beijing.gov.cn/xxgk/tzgg/202511/t20251103_4251298.html",
+        "listedCompany": "北京六八到家家政服务有限公司",
+        "matchBasis": "2025河北福嫂来京就业输入基地正式公告的完整主体名与既有档案对应；输入基地资格不等于育儿业务、人员库存或免费换人保证。",
+        "matchStatus": "exact",
+        "recordType": "input-base-2025"
+      }
+    ],
+    "businessStatus": "pending",
+    "suggestedGroup": "business-review",
+    "businessGate": "hold",
+    "businessReason": "岗位索引列儿童饮食起居和学校接送，说明儿童照料线索；小月龄、辅食、夜间喂养等育儿服务范围未取得。 本次保留业务待核或平台单列，不以政府列名自动确认北京育儿供给。"
+  },
+  {
+    "id": "new-association-chengyouqing",
+    "name": "诚友情",
+    "identityLevel": 1,
+    "entityGate": "pass",
+    "reason": "政府正式列名主体或有来源支持的品牌关联可对应，满足本次“有完整主体线索”门槛；这不等于实时工商、当前合同或逐人劳动关系已核实。 档案依据：北京诚友情家政服务有限公司列2024协会及2024北京市员工制家政企业名单。 当前长期北京育儿业务仍待确认，不因政府列名进入首页主比较。",
+    "governmentMatches": [
+      {
+        "sourceUrl": "https://sw.beijing.gov.cn/phone/zwxx/tzgg/202401/t20240131_3550205.html",
+        "listedCompany": "北京诚友情家政服务有限公司",
+        "matchBasis": "正式入选公告的完整法人名与既有档案可对应；使用正式公告而非拟入选公示。2024年度员工制资格为历史记录，有效期已过，不表述为2026当前员工制认证。",
+        "matchStatus": "exact",
+        "recordType": "employee-2024"
+      }
+    ],
+    "businessStatus": "pending",
+    "suggestedGroup": "business-review",
+    "businessGate": "hold",
+    "businessReason": "可确认北京一般家政业务及历史外派；当前育儿服务仅旧目录线索，未取得具体婴幼儿岗位或現行服务原文。 本次保留业务待核或平台单列，不以政府列名自动确认北京育儿供给。"
+  },
+  {
+    "id": "new-association-yunduo",
+    "name": "云朵家政",
+    "identityLevel": 3,
+    "entityGate": "pass",
+    "reason": "既有档案有完整主体名称与可归属的北京服务线索，达到补充候选的主体门槛；未找到本次对照的政府入选记录，不包装为政府推荐。 档案依据：北京云朵家政服务有限公司列2024协会工作单位；58广告同名，未取得政府登记原始记录。与2026成立的云朵序公司不合并。",
+    "governmentMatches": [],
+    "businessStatus": "confirmed",
+    "suggestedGroup": "supplementary",
+    "businessGate": "pass",
+    "businessReason": "58当前公开原文有其独立“育婴师月嫂金牌服务提供住家保姆服务”条目，标全北京可服务，联系人房老师。广告明确育婴，但具体育儿能力和候选人需核。"
+  },
+  {
+    "id": "new-association-qiaoguanjia",
+    "name": "俏管家（北京）",
+    "identityLevel": 2,
+    "entityGate": "hold",
+    "reason": "既有身份档位不足3且本次对照的政府名单没有可明确归属的补充记录，保留主体线索待复核；并非断言公司不存在或一定不可靠。 档案依据：俏管家（北京）家政服务有限公司见2025政府招聘；智联有同名分公司。企查查索引称总公司2014-04-23成立、10万元，未政府登记原站核验。",
+    "governmentMatches": [],
+    "businessStatus": "confirmed",
+    "suggestedGroup": "entity-review",
+    "businessGate": "pass",
+    "businessReason": "2025-07-21安康人社北京方向岗位表明确育婴员30人，有育儿经验；另招家庭教育指导师。智联分公司原文有多个北京育儿嫂岗位。"
+  },
+  {
+    "id": "candidate-assoc-835",
+    "name": "安得家政",
+    "identityLevel": 2,
+    "entityGate": "hold",
+    "reason": "既有身份档位不足3且本次对照的政府名单没有可明确归属的补充记录，保留主体线索待复核；并非断言公司不存在或一定不可靠。 档案依据：协会介绍与智联招聘均指向北京安得家政有限公司，成立日期为 2023-05-17。协会 2026-02 介绍列孙亚成，智联现有工商栏列孙学博，法代存在来源/时点差异；最新营业执照及合同盖章主体未取得。",
+    "governmentMatches": [],
+    "businessStatus": "confirmed",
+    "suggestedGroup": "entity-review",
+    "businessGate": "pass",
+    "businessReason": "已读精确主体的北京朝阳育儿嫂招聘正文：婴幼儿喂养、哄睡、换尿布、洗澡、辅食、适龄启蒙和成长记录。属于可归属公司的北京婴幼儿照护业务线索；现有阿姨档期和与雇主签约产品仍需实核。"
+  },
+  {
+    "id": "new-gov-youhaoheping",
+    "name": "友好和平",
+    "identityLevel": 2,
+    "entityGate": "pass",
+    "reason": "政府正式列名主体或有来源支持的品牌关联可对应，满足本次“有完整主体线索”门槛；这不等于实时工商、当前合同或逐人劳动关系已核实。 档案依据：政府名录及招聘全称为北京友好和平护理服务有限公司，品牌“和平家政”。政府海报称品牌1997年成立，官网索引称公司2000年成立，品牌与法人年限需分开，不擅自统一。",
+    "governmentMatches": [
+      {
+        "sourceUrl": "https://rsj.beijing.gov.cn/bm/ztzl/ssjzlwpp/202511/t20251103_4251041.html",
+        "listedCompany": "北京友好和平护理服务有限公司",
+        "matchBasis": "2025北京市人社家政劳务品牌详情列出的完整公司名与既有档案主体一致；品牌简称未被当成另一法人，合同主体仍须逐单核对。",
+        "matchStatus": "exact",
+        "recordType": "labor-brand-2025"
+      }
+    ],
+    "businessStatus": "confirmed",
+    "suggestedGroup": "government-2025",
+    "businessGate": "pass",
+    "businessReason": "东城区人社2025-01-13原文在本公司段明确育儿嫂20人，要求专业技能培训；官网索引也明确为北京市民提供育儿。已区别该文前一家公司300人育儿招聘。"
+  },
+  {
+    "id": "new-gov-laobingaimin",
+    "name": "老兵爱民",
+    "identityLevel": 1,
+    "entityGate": "pass",
+    "reason": "政府正式列名主体或有来源支持的品牌关联可对应，满足本次“有完整主体线索”门槛；这不等于实时工商、当前合同或逐人劳动关系已核实。 档案依据：政府海报为北京老兵爱民家政服务有限公司，称2009年创办、北京8家直营店；2024政府员工制名单另可确认。店数及人员数量是海报时点介绍。 当前长期北京育儿业务仍待确认，不因政府列名进入首页主比较。",
+    "governmentMatches": [
+      {
+        "sourceUrl": "https://rsj.beijing.gov.cn/bm/ztzl/ssjzlwpp/202511/t20251103_4250984.html",
+        "listedCompany": "北京老兵爱民家政服务有限公司",
+        "matchBasis": "2025北京市人社家政劳务品牌详情列出的完整公司名与既有档案主体一致；品牌简称未被当成另一法人，合同主体仍须逐单核对。",
+        "matchStatus": "exact",
+        "recordType": "labor-brand-2025"
+      },
+      {
+        "sourceUrl": "https://sw.beijing.gov.cn/phone/zwxx/tzgg/202401/t20240131_3550205.html",
+        "listedCompany": "北京老兵爱民家政服务有限公司",
+        "matchBasis": "正式入选公告的完整法人名与既有档案可对应；使用正式公告而非拟入选公示。2024年度员工制资格为历史记录，有效期已过，不表述为2026当前员工制认证。",
+        "matchStatus": "exact",
+        "recordType": "employee-2024"
+      },
+      {
+        "sourceUrl": "https://rsj.beijing.gov.cn/xxgk/tzgg/202511/t20251103_4251298.html",
+        "listedCompany": "北京老兵爱民家政服务有限公司",
+        "matchBasis": "2025河北福嫂来京就业输入基地正式公告的完整主体名与既有档案对应；输入基地资格不等于育儿业务、人员库存或免费换人保证。",
+        "matchStatus": "exact",
+        "recordType": "input-base-2025"
+      }
+    ],
+    "businessStatus": "pending",
+    "suggestedGroup": "business-review",
+    "businessGate": "hold",
+    "businessReason": "政府海报和2025丰台官方报道突出居家养老、助残和一般家政。2026北京晚报有接送小孩及老人替班报道，但本轮未取得小月龄育儿嫂具体服务/岗位；婴儿模型培训照片不作育儿派单证明。 本次保留业务待核或平台单列，不以政府列名自动确认北京育儿供给。"
+  },
+  {
+    "id": "new-gov-qijieli",
+    "name": "祺捷利",
+    "identityLevel": 1,
+    "entityGate": "pass",
+    "reason": "政府正式列名主体或有来源支持的品牌关联可对应，满足本次“有完整主体线索”门槛；这不等于实时工商、当前合同或逐人劳动关系已核实。 档案依据：政府海报名录为北京祺捷利技术发展有限公司，称2009年成立；2026门头沟政协企业推介写2003年5月，成立年份冲突未核，不能直接确定。 当前长期北京育儿业务仍待确认，不因政府列名进入首页主比较。",
+    "governmentMatches": [
+      {
+        "sourceUrl": "https://rsj.beijing.gov.cn/bm/ztzl/ssjzlwpp/202511/t20251103_4250973.html",
+        "listedCompany": "北京祺捷利技术发展有限公司",
+        "matchBasis": "2025北京市人社家政劳务品牌详情列出的完整公司名与既有档案主体一致；品牌简称未被当成另一法人，合同主体仍须逐单核对。",
+        "matchStatus": "exact",
+        "recordType": "labor-brand-2025"
+      }
+    ],
+    "businessStatus": "pending",
+    "suggestedGroup": "business-review",
+    "businessGate": "hold",
+    "businessReason": "海报及2026政协原文重点是养老照护、单位保洁、物业、家庭烹饪和接送；未取得明确长期育儿嫂/育婴派单。海报有儿童照料照片但没有对应具体服务品类证据。 本次保留业务待核或平台单列，不以政府列名自动确认北京育儿供给。"
+  },
+  {
+    "id": "new-gov-jinridongfang",
+    "name": "今日东方",
+    "identityLevel": 2,
+    "entityGate": "pass",
+    "reason": "政府正式列名主体或有来源支持的品牌关联可对应，满足本次“有完整主体线索”门槛；这不等于实时工商、当前合同或逐人劳动关系已核实。 档案依据：北京今日东方家政服务有限公司见政府海报及2024员工制名单，海报称2009年成立。另有今日东方劳务派遣/人力资源公司，未自动视为同一签约法人。",
+    "governmentMatches": [
+      {
+        "sourceUrl": "https://rsj.beijing.gov.cn/bm/ztzl/ssjzlwpp/202511/t20251103_4250968.html",
+        "listedCompany": "北京今日东方家政服务有限公司",
+        "matchBasis": "2025北京市人社家政劳务品牌详情列出的完整公司名与既有档案主体一致；品牌简称未被当成另一法人，合同主体仍须逐单核对。",
+        "matchStatus": "exact",
+        "recordType": "labor-brand-2025"
+      },
+      {
+        "sourceUrl": "https://sw.beijing.gov.cn/phone/zwxx/tzgg/202401/t20240131_3550205.html",
+        "listedCompany": "北京今日东方家政服务有限公司",
+        "matchBasis": "正式入选公告的完整法人名与既有档案可对应；使用正式公告而非拟入选公示。2024年度员工制资格为历史记录，有效期已过，不表述为2026当前员工制认证。",
+        "matchStatus": "exact",
+        "recordType": "employee-2024"
+      },
+      {
+        "sourceUrl": "https://rsj.beijing.gov.cn/xxgk/tzgg/202302/t20230208_2913405.html",
+        "listedCompany": "北京今日东方家政服务有限公司",
+        "matchBasis": "正式入选公告的完整法人名与既有档案可对应；使用正式公告而非拟入选公示。2023年度员工制资格为历史记录，有效期已过，不表述为2026当前员工制认证。",
+        "matchStatus": "exact",
+        "recordType": "employee-2023"
+      },
+      {
+        "sourceUrl": "https://rsj.beijing.gov.cn/xxgk/tzgg/202511/t20251103_4251298.html",
+        "listedCompany": "北京今日东方家政服务有限公司",
+        "matchBasis": "2025河北福嫂来京就业输入基地正式公告的完整主体名与既有档案对应；输入基地资格不等于育儿业务、人员库存或免费换人保证。",
+        "matchStatus": "exact",
+        "recordType": "input-base-2025"
+      }
+    ],
+    "businessStatus": "confirmed",
+    "suggestedGroup": "government-2025",
+    "businessGate": "pass",
+    "businessReason": "2025-10-15《国际商报》活动报道明确今日东方北京展台接待育婴/育儿嫂咨询并推荐方案；2026新京报对该公司调度及其育儿嫂姐姐的采访是补充行业活动线索，不能单靠亲属关系认定合同归属。"
+  },
+  {
+    "id": "new-gov-wenzhutang",
+    "name": "闻竹堂",
+    "identityLevel": 1,
+    "entityGate": "pass",
+    "reason": "政府正式列名主体或有来源支持的品牌关联可对应，满足本次“有完整主体线索”门槛；这不等于实时工商、当前合同或逐人劳动关系已核实。 档案依据：政府品牌海报写北京闻竹堂家政服务有限公司，2018年成立，旗下品牌“九阅·整理”。 当前长期北京育儿业务仍待确认，不因政府列名进入首页主比较。",
+    "governmentMatches": [
+      {
+        "sourceUrl": "https://rsj.beijing.gov.cn/bm/ztzl/ssjzlwpp/202511/t20251103_4250964.html",
+        "listedCompany": "北京闻竹堂家政服务有限公司",
+        "matchBasis": "2025北京市人社家政劳务品牌详情列出的完整公司名与既有档案主体一致；品牌简称未被当成另一法人，合同主体仍须逐单核对。",
+        "matchStatus": "exact",
+        "recordType": "labor-brand-2025"
+      }
+    ],
+    "businessStatus": "pending",
+    "suggestedGroup": "business-review",
+    "businessGate": "hold",
+    "businessReason": "海报明确主营收纳整理与空间规划，2025国际商报通州活动报道也归属整理收纳服务；未取得育儿嫂派单证据。 本次保留业务待核或平台单列，不以政府列名自动确认北京育儿供给。"
+  },
+  {
+    "id": "new-gov-hemeijia",
+    "name": "和美家",
+    "identityLevel": 2,
+    "entityGate": "pass",
+    "reason": "政府正式列名主体或有来源支持的品牌关联可对应，满足本次“有完整主体线索”门槛；这不等于实时工商、当前合同或逐人劳动关系已核实。 档案依据：政府海报和职业技能评价备案均为北京和美家社区服务有限公司；海报称2014年12月成立。与外地和美家医院、装修公司无已证实关系。 业务抽查边界：育儿依据为母婴护理员招聘的辅食、早教与幼儿体能职责，海报主业偏养老；现有confirmed仅为婴幼照护候选线索，不宜写为已确认长期住家育儿供给或放首页首选。",
+    "governmentMatches": [
+      {
+        "sourceUrl": "https://rsj.beijing.gov.cn/bm/ztzl/ssjzlwpp/202511/t20251103_4250955.html",
+        "listedCompany": "北京和美家社区服务有限公司",
+        "matchBasis": "2025北京市人社家政劳务品牌详情列出的完整公司名与既有档案主体一致；品牌简称未被当成另一法人，合同主体仍须逐单核对。",
+        "matchStatus": "exact",
+        "recordType": "labor-brand-2025"
+      }
+    ],
+    "businessStatus": "confirmed",
+    "suggestedGroup": "business-review",
+    "businessGate": "hold",
+    "businessReason": "已读2025母婴护理员招聘的辅食、早教、幼儿体能职责可支持婴幼照护线索，但政府海报主业偏养老，未取得面向家庭的长期育儿嫂产品或明确当前承接；暂不进入首页/政府主比较，原businessStatus保留待进一步核验。"
+  },
+  {
+    "id": "new-gov-yinao",
+    "name": "茵澳",
+    "identityLevel": 4,
+    "entityGate": "pass",
+    "reason": "政府正式列名主体或有来源支持的品牌关联可对应，满足本次“有完整主体线索”门槛；这不等于实时工商、当前合同或逐人劳动关系已核实。 档案依据：政府海报和官网页脚均为北京茵澳生活服务有限公司，称2014年7月创建；公司培训、私人管家及撮合平台业务多线并存，合同签约与收款法人仍需订单确认。",
+    "governmentMatches": [
+      {
+        "sourceUrl": "https://rsj.beijing.gov.cn/bm/ztzl/ssjzlwpp/202511/t20251103_4250938.html",
+        "listedCompany": "北京茵澳生活服务有限公司",
+        "matchBasis": "2025北京市人社家政劳务品牌详情列出的完整公司名与既有档案主体一致；品牌简称未被当成另一法人，合同主体仍须逐单核对。",
+        "matchStatus": "exact",
+        "recordType": "labor-brand-2025"
+      }
+    ],
+    "businessStatus": "confirmed",
+    "suggestedGroup": "government-2025",
+    "businessGate": "pass",
+    "businessReason": "北京工会2026-07-03惠享活动明确面向全市工会会员提供含育儿嫂的服务，通过合单侠平台选人，活动至2026-12-31；这是当前北京业务证据。官网上海、东莞育儿旧单另列，不用其证明北京。"
+  },
+  {
+    "id": "new-government-b-01",
+    "name": "仁友家政",
+    "identityLevel": 1,
+    "entityGate": "pass",
+    "reason": "政府正式列名主体或有来源支持的品牌关联可对应，满足本次“有完整主体线索”门槛；这不等于实时工商、当前合同或逐人劳动关系已核实。 档案依据：政府海报称2012年成立，侧重家政与养老服务；2024员工制名单也列该主体。 当前长期北京育儿业务仍待确认，不因政府列名进入首页主比较。",
+    "governmentMatches": [
+      {
+        "sourceUrl": "https://rsj.beijing.gov.cn/bm/ztzl/ssjzlwpp/202510/t20251031_4249368.html",
+        "listedCompany": "北京仁友家政服务有限公司",
+        "matchBasis": "2025北京市人社家政劳务品牌详情列出的完整公司名与既有档案主体一致；品牌简称未被当成另一法人，合同主体仍须逐单核对。",
+        "matchStatus": "exact",
+        "recordType": "labor-brand-2025"
+      },
+      {
+        "sourceUrl": "https://sw.beijing.gov.cn/phone/zwxx/tzgg/202401/t20240131_3550205.html",
+        "listedCompany": "北京仁友家政服务有限公司",
+        "matchBasis": "正式入选公告的完整法人名与既有档案可对应；使用正式公告而非拟入选公示。2024年度员工制资格为历史记录，有效期已过，不表述为2026当前员工制认证。",
+        "matchStatus": "exact",
+        "recordType": "employee-2024"
+      }
+    ],
+    "businessStatus": "pending",
+    "suggestedGroup": "business-review",
+    "businessGate": "hold",
+    "businessReason": "政府海报详述居家养老、清洁、购物、维修和助餐，未列向家庭派育儿嫂。不能从综合家政名录推出育儿业务。 本次保留业务待核或平台单列，不以政府列名自动确认北京育儿供给。"
+  },
+  {
+    "id": "new-government-b-02",
+    "name": "德茂家政",
+    "identityLevel": 2,
+    "entityGate": "pass",
+    "reason": "政府正式列名主体或有来源支持的品牌关联可对应，满足本次“有完整主体线索”门槛；这不等于实时工商、当前合同或逐人劳动关系已核实。 档案依据：政府品牌海报和大兴就业平台均为北京德茂家政服务有限公司；未另核实时工商和拟签合同。",
+    "governmentMatches": [
+      {
+        "sourceUrl": "https://rsj.beijing.gov.cn/bm/ztzl/ssjzlwpp/202510/t20251031_4249364.html",
+        "listedCompany": "北京德茂家政服务有限公司",
+        "matchBasis": "2025北京市人社家政劳务品牌详情列出的完整公司名与既有档案主体一致；品牌简称未被当成另一法人，合同主体仍须逐单核对。",
+        "matchStatus": "exact",
+        "recordType": "labor-brand-2025"
+      }
+    ],
+    "businessStatus": "confirmed",
+    "suggestedGroup": "government-2025",
+    "businessGate": "pass",
+    "businessReason": "政府海报明确服务覆盖育儿嫂、月嫂等。2026-06-18就业平台也列育儿嫂招聘；其岗位职责却出现养老护理文字，不能按标题推定候选能力。"
+  },
+  {
+    "id": "new-government-b-03",
+    "name": "京平绿谷家政",
+    "identityLevel": 2,
+    "entityGate": "pass",
+    "reason": "政府正式列名主体或有来源支持的品牌关联可对应，满足本次“有完整主体线索”门槛；这不等于实时工商、当前合同或逐人劳动关系已核实。 档案依据：政府海报列北京京平绿谷家政服务有限公司，展示“智服到家”服务品牌；不自动合并近名人力资源公司。",
+    "governmentMatches": [
+      {
+        "sourceUrl": "https://rsj.beijing.gov.cn/bm/ztzl/ssjzlwpp/202510/t20251031_4249361.html",
+        "listedCompany": "北京京平绿谷家政服务有限公司",
+        "matchBasis": "2025北京市人社家政劳务品牌详情列出的完整公司名与既有档案主体一致；品牌简称未被当成另一法人，合同主体仍须逐单核对。",
+        "matchStatus": "exact",
+        "recordType": "labor-brand-2025"
+      }
+    ],
+    "businessStatus": "confirmed",
+    "suggestedGroup": "government-2025",
+    "businessGate": "pass",
+    "businessReason": "海报明确线上可接月嫂育婴等任务，并描述京津冀家政劳务输送，可列为北京育婴服务候选。需确认由哪家公司与雇主签约。"
+  },
+  {
+    "id": "new-government-b-04",
+    "name": "育乐宝家政",
+    "identityLevel": 2,
+    "entityGate": "pass",
+    "reason": "政府正式列名主体或有来源支持的品牌关联可对应，满足本次“有完整主体线索”门槛；这不等于实时工商、当前合同或逐人劳动关系已核实。 档案依据：政府海报称公司2021年成立于怀柔；注意不与“育乐宝母婴”商标的其他注册人合并。",
+    "governmentMatches": [
+      {
+        "sourceUrl": "https://rsj.beijing.gov.cn/bm/ztzl/ssjzlwpp/202510/t20251031_4249358.html",
+        "listedCompany": "北京育乐宝家政服务有限公司",
+        "matchBasis": "2025北京市人社家政劳务品牌详情列出的完整公司名与既有档案主体一致；品牌简称未被当成另一法人，合同主体仍须逐单核对。",
+        "matchStatus": "exact",
+        "recordType": "labor-brand-2025"
+      }
+    ],
+    "businessStatus": "confirmed",
+    "suggestedGroup": "government-2025",
+    "businessGate": "pass",
+    "businessReason": "海报明确母婴护理、科学育儿及养老等家政项目。2025库伦就业活动提到该公司参与母婴/育婴双选会，但不将9家公司的全部岗位数归给一家。"
+  },
+  {
+    "id": "new-government-b-05",
+    "name": "华宇密嫂",
+    "identityLevel": 1,
+    "entityGate": "pass",
+    "reason": "政府正式列名主体或有来源支持的品牌关联可对应，满足本次“有完整主体线索”门槛；这不等于实时工商、当前合同或逐人劳动关系已核实。 档案依据：政府海报称2023-07-24成立、隶属北京华宇城市集团管理有限公司；实际合同及收款法人需核。 当前长期北京育儿业务仍待确认，不因政府列名进入首页主比较。",
+    "governmentMatches": [
+      {
+        "sourceUrl": "https://rsj.beijing.gov.cn/bm/ztzl/ssjzlwpp/202510/t20251031_4249349.html",
+        "listedCompany": "华宇密嫂家政服务（北京）有限公司",
+        "matchBasis": "2025北京市人社家政劳务品牌详情列出的完整公司名与既有档案主体一致；品牌简称未被当成另一法人，合同主体仍须逐单核对。",
+        "matchStatus": "exact",
+        "recordType": "labor-brand-2025"
+      }
+    ],
+    "businessStatus": "pending",
+    "suggestedGroup": "business-review",
+    "businessGate": "hold",
+    "businessReason": "已读海报明确北京家庭保洁、保姆、月嫂与新生儿早教等服务，但没有明确长期育儿嫂产品；留作育儿业务待确认。 本次保留业务待核或平台单列，不以政府列名自动确认北京育儿供给。"
+  },
+  {
+    "id": "new-government-b-06",
+    "name": "乐活家政 / 乐活圈",
+    "identityLevel": 2,
+    "entityGate": "pass",
+    "reason": "政府正式列名主体或有来源支持的品牌关联可对应，满足本次“有完整主体线索”门槛；这不等于实时工商、当前合同或逐人劳动关系已核实。 档案依据：政府海报明确乐活家政品牌由乐活圈（北京）信息科技有限公司运营；不与同名社交/生活软件合并。",
+    "governmentMatches": [
+      {
+        "sourceUrl": "https://rsj.beijing.gov.cn/bm/ztzl/ssjzlwpp/202510/t20251031_4249347.html",
+        "listedCompany": "乐活圈（北京）信息科技有限公司",
+        "matchBasis": "政府原始海报明确乐活家政品牌由乐活圈（北京）信息科技有限公司运营；不归并同名软件或其他乐活商家。",
+        "matchStatus": "brand-linked",
+        "recordType": "labor-brand-2025"
+      }
+    ],
+    "businessStatus": "confirmed",
+    "suggestedGroup": "government-2025",
+    "businessGate": "pass",
+    "businessReason": "政府海报列延庆社区的育婴、保洁、维修和养老等服务，能够补入北京本地育婴候选。"
+  },
+  {
+    "id": "new-government-b-07",
+    "name": "金萌泰",
+    "identityLevel": 1,
+    "entityGate": "pass",
+    "reason": "政府正式列名主体或有来源支持的品牌关联可对应，满足本次“有完整主体线索”门槛；这不等于实时工商、当前合同或逐人劳动关系已核实。 档案依据：政府海报及官网均列北京金萌泰医院管理集团有限公司，品牌主要为金萌泰护工。 当前长期北京育儿业务仍待确认，不因政府列名进入首页主比较。",
+    "governmentMatches": [
+      {
+        "sourceUrl": "https://rsj.beijing.gov.cn/bm/ztzl/ssjzlwpp/202511/t20251103_4250990.html",
+        "listedCompany": "北京金萌泰医院管理集团有限公司",
+        "matchBasis": "2025北京市人社家政劳务品牌详情列出的完整公司名与既有档案主体一致；品牌简称未被当成另一法人，合同主体仍须逐单核对。",
+        "matchStatus": "exact",
+        "recordType": "labor-brand-2025"
+      }
+    ],
+    "businessStatus": "pending",
+    "suggestedGroup": "business-review",
+    "businessGate": "hold",
+    "businessReason": "已核官网与政府海报主要是医院护理、社区养老及产科母婴护理；未取得家庭长期育儿嫂直接产品。医院母婴护理不能直接等同育儿嫂。 本次保留业务待核或平台单列，不以政府列名自动确认北京育儿供给。"
+  },
+  {
+    "id": "candidate-huijiafeng",
+    "name": "惠佳丰／京惠照护师",
+    "identityLevel": 1,
+    "entityGate": "pass",
+    "reason": "政府正式列名主体或有来源支持的品牌关联可对应，满足本次“有完整主体线索”门槛；这不等于实时工商、当前合同或逐人劳动关系已核实。 档案依据：集团名为惠佳丰健康产业集团有限公司，政府名录列北京市惠佳丰劳务服务有限责任公司，京惠照护师为旗下品牌。介绍明确集团从2003年成立的劳务公司发展；本次育儿合同会使用哪个主体仍未取得。 当前长期北京育儿业务仍待确认，不因政府列名进入首页主比较。",
+    "governmentMatches": [
+      {
+        "sourceUrl": "https://rsj.beijing.gov.cn/bm/ztzl/ssjzlwpp/202511/t20251103_4251033.html",
+        "listedCompany": "北京市惠佳丰劳务服务有限责任公司",
+        "matchBasis": "政府海报说明惠佳丰集团从该劳务公司发展，中国就业网将京惠照护师关联惠佳丰；集团、劳务公司和本单签约方不直接等同。",
+        "matchStatus": "brand-linked",
+        "recordType": "labor-brand-2025"
+      },
+      {
+        "sourceUrl": "https://sw.beijing.gov.cn/phone/zwxx/tzgg/202401/t20240131_3550205.html",
+        "listedCompany": "北京市惠佳丰劳务服务有限责任公司",
+        "matchBasis": "政府海报说明惠佳丰集团从该劳务公司发展，中国就业网将京惠照护师关联惠佳丰；集团、劳务公司和本单签约方不直接等同。2024年度员工制资格为历史记录，有效期已过，不表述为2026当前员工制认证。",
+        "matchStatus": "brand-linked",
+        "recordType": "employee-2024"
+      },
+      {
+        "sourceUrl": "https://rsj.beijing.gov.cn/xxgk/tzgg/202302/t20230208_2913405.html",
+        "listedCompany": "北京市惠佳丰劳务服务有限责任公司",
+        "matchBasis": "政府海报说明惠佳丰集团从该劳务公司发展，中国就业网将京惠照护师关联惠佳丰；集团、劳务公司和本单签约方不直接等同。2023年度员工制资格为历史记录，有效期已过，不表述为2026当前员工制认证。",
+        "matchStatus": "brand-linked",
+        "recordType": "employee-2023"
+      }
+    ],
+    "businessStatus": "pending",
+    "suggestedGroup": "business-review",
+    "businessGate": "hold",
+    "businessReason": "官网两张服务海报已读，明确是产检陪同、月嫂和产后服务。政府/就业网提到为居家婴幼提供平台服务，但没有适龄范围、长期育儿嫂产品或雇主下单合同；因此保留为业务待确认，不把月嫂自动计为育儿嫂。 本次保留业务待核或平台单列，不以政府列名自动确认北京育儿供给。"
+  },
+  {
+    "id": "new-last-xifutianshi",
+    "name": "喜福天使",
+    "identityLevel": 1,
+    "entityGate": "hold",
+    "reason": "既有身份档位不足3且本次对照的政府名单没有可明确归属的补充记录，保留主体线索待复核；并非断言公司不存在或一定不可靠。 档案依据：2025年兴安护工北京行招聘转载全称为北京喜福天使家政服务有限公司，并列昌平地址。另有喜福天使家政集团行业活动与合作培训线索，但未取得其集团与该法人关系、现行营业执照和信用代码。",
+    "governmentMatches": [],
+    "businessStatus": "confirmed",
+    "suggestedGroup": "entity-review",
+    "businessGate": "pass",
+    "businessReason": "2025-03-02招聘在本公司段明确母婴护理员负责幼儿日常照料，另列月嫂岗位；北京昌平地点支持纳入婴幼儿照护候选。未披露长期住家/白班、适用月龄、北京服务区。"
+  },
+  {
+    "id": "new-last-jiaren",
+    "name": "嘉仁家政",
+    "identityLevel": 1,
+    "entityGate": "hold",
+    "reason": "既有身份档位不足3且本次对照的政府名单没有可明确归属的补充记录，保留主体线索待复核；并非断言公司不存在或一定不可靠。 档案依据：兴安护工北京行招聘原文使用北京嘉仁家政有限公司，地址在顺义。未取得可交叉对应的统一社会信用代码/官网；与海淀北京嘉仁门诊部有限责任公司是不同名称、地址、业务，不混并。",
+    "governmentMatches": [],
+    "businessStatus": "confirmed",
+    "suggestedGroup": "entity-review",
+    "businessGate": "pass",
+    "businessReason": "2025-03-02本公司母婴护理员岗位明确含幼儿照护、辅食、早期互动、动作发展指导和保健护理，构成北京婴幼儿照护业务线索。是否提供长期育儿嫂及当前住家/白班待核。"
+  },
+  {
+    "id": "new-last-baobeiduoduo",
+    "name": "宝贝多多",
+    "identityLevel": 2,
+    "entityGate": "hold",
+    "reason": "既有身份档位不足3且本次对照的政府名单没有可明确归属的补充记录，保留主体线索待复核；并非断言公司不存在或一定不可靠。 档案依据：大兴区人社局开发的就业平台主体页明确北京宝贝多多家政服务有限公司，信用代码91110116MA007T4E4G；水滴信用同代码、地址一致。第三方工商显示2016-08-24成立，平台企业自介却写2006，年限存在冲突，以营业执照复核为准。",
+    "governmentMatches": [],
+    "businessStatus": "confirmed",
+    "suggestedGroup": "entity-review",
+    "businessGate": "pass",
+    "businessReason": "政府就业平台2026-01-21单列育儿嫂10人、工作地点北京，另有儿童陪伴师岗位；2024和2025招聘也明确北京育儿嫂。可以确认属于本任务的北京机构，当前实有人选仍待核。"
+  },
+  {
+    "id": "new-root-lexibao",
+    "name": "乐禧宝母婴",
+    "identityLevel": 3,
+    "entityGate": "pass",
+    "reason": "既有档案有完整主体名称与可归属的北京服务线索，达到补充候选的主体门槛；未找到本次对照的政府入选记录，不包装为政府推荐。 档案依据：58本商户段显示北京乐禧宝健康管理有限公司；小红书历史作者称亦庄乐禧宝母婴。两处同名业务可保留品牌线索，但本次未取得营业执照、门店与本单合同的直接对应。",
+    "governmentMatches": [],
+    "businessStatus": "confirmed",
+    "suggestedGroup": "supplementary",
+    "businessGate": "pass",
+    "businessReason": "已实际读到58北京朝阳商户的育儿嫂/育婴师广告。另有2024年亦庄雇主试工经历，均指向北京育儿业务；实时能面试的人选和服务区域仍需直接询问。"
+  },
+  {
+    "id": "new-root-jinyue",
+    "name": "金月时代",
+    "identityLevel": 1,
+    "entityGate": "hold",
+    "reason": "既有身份档位不足3且本次对照的政府名单没有可明确归属的补充记录，保留主体线索待复核；并非断言公司不存在或一定不可靠。 档案依据：政府历史名录为金月时代（北京）家政服务有限公司；家政港页题为北京金月时代家政服务有限公司，正文又写金月时代北京家政服务有限公司。品牌展示合并，但这些名称是否同一法人不能仅靠近似名称确定。",
+    "governmentMatches": [],
+    "businessStatus": "confirmed",
+    "suggestedGroup": "entity-review",
+    "businessGate": "pass",
+    "businessReason": "家政港商户页明确育儿嫂，并有北京朝阳20个月宝宝、海淀8个月宝宝等历史育儿岗位。2026推广文章仍介绍育儿服务，58索引也出现完整法人的婴儿保姆广告；当前库存待核。"
+  },
+  {
+    "id": "new-root-jingduo",
+    "name": "京朵家政",
+    "identityLevel": 1,
+    "entityGate": "hold",
+    "reason": "既有身份档位不足3且本次对照的政府名单没有可明确归属的补充记录，保留主体线索待复核；并非断言公司不存在或一定不可靠。 档案依据：历史政府名单和第三方企业目录均列北京京朵家政服务有限公司。目录显示2020-09-29成立及信用代码91110108MA01W9ME1F；当前登记与合同盖章主体未直接核验。 当前长期北京育儿业务仍待确认，不因政府列名进入首页主比较。",
+    "governmentMatches": [],
+    "businessStatus": "pending",
+    "suggestedGroup": "business-review",
+    "businessGate": "hold",
+    "businessReason": "2021网址目录介绍明确北京月嫂、育儿嫂、保姆等，但本轮该历史官网普通访问返回404。保留历史育儿线索；当前北京长期育儿业务与接单情况待确认。 本次保留业务待核或平台单列，不以政府列名自动确认北京育儿供给。"
+  },
+  {
+    "id": "new-taiweifeng",
+    "name": "泰维峰家政",
+    "identityLevel": 2,
+    "entityGate": "hold",
+    "reason": "既有身份档位不足3且本次对照的政府名单没有可明确归属的补充记录，保留主体线索待复核；并非断言公司不存在或一定不可靠。 档案依据：北京市政府2026联系页明确“北京泰维峰家政服务有限公司”。西城区信用公示搜索索引出现18位代码911101026723587264，但该页表头两列疑颠倒且原页回读超时，签约前仍应与营业执照核对；卓博称原名阳光育苗，属企业自述，未取得更名工商档案。",
+    "governmentMatches": [],
+    "businessStatus": "confirmed",
+    "suggestedGroup": "entity-review",
+    "businessGate": "pass",
+    "businessReason": "品牌网招商正文明确北京直营网点和育儿嫂、早教、新生儿护理、辅食服务；卓博索引说明0–3岁婴幼儿业务，2011民生周刊采访确有该公司育儿嫂。58搜索索引另见“泰维峰石景山店”育婴师/育儿嫂服务广告。可纳入北京育儿机构候选，但未核当前可面试人选。"
+  },
+  {
+    "id": "new-fengweizhu",
+    "name": "凤尾竹家政",
+    "identityLevel": 1,
+    "entityGate": "hold",
+    "reason": "既有身份档位不足3且本次对照的政府名单没有可明确归属的补充记录，保留主体线索待复核；并非断言公司不存在或一定不可靠。 档案依据：2026政府采购公告完整列出北京凤尾竹家政服务有限责任公司、统一社会信用代码91110115684397132P。2019人社目录载许可证1101152009050；该历史许可证不能替代2026现行许可核验。 当前长期北京育儿业务仍待确认，不因政府列名进入首页主比较。",
+    "governmentMatches": [],
+    "businessStatus": "pending",
+    "suggestedGroup": "business-review",
+    "businessGate": "hold",
+    "businessReason": "北京工会在2026-05-22发布大兴兴丰街道与凤尾竹月嫂优惠，明确产妇与新生儿护理。2024-12-28招聘文中凤尾竹段为大兴家庭保姆、小时工及老人/病人照护；同文“育儿嫂”属于另一家公司。2026中标项目是助老保洁。故确认北京家政及月嫂经营，但未取得出月子后长期育儿嫂服务的明确证据，应保留待核，不纳入已确认育儿嫂主榜。 本次保留业务待核或平台单列，不以政府列名自动确认北京育儿供给。"
+  },
+  {
+    "id": "new-last-ayinbao",
+    "name": "爱因宝",
+    "identityLevel": 2,
+    "entityGate": "hold",
+    "reason": "既有身份档位不足3且本次对照的政府名单没有可明确归属的补充记录，保留主体线索待复核；并非断言公司不存在或一定不可靠。 档案依据：2024招聘转载、北京日报2025招聘信息和乌海人社2026招聘名单均写北京爱因宝家政有限公司。未取得该主体统一社会信用代码和最新营业执照；不与爱婴宝、爱宝蓓及义乌爱因宝母婴用品混并。",
+    "governmentMatches": [],
+    "businessStatus": "confirmed",
+    "suggestedGroup": "entity-review",
+    "businessGate": "pass",
+    "businessReason": "2024-12-28招聘原文明确月嫂、育儿嫂、住家保姆及养老照护，工作地点北京市内优先。2025-03-06北京日报招聘文章本公司配图单列育儿嫂25人，支持纳入北京育儿机构。"
+  },
+  {
+    "id": "new-youhujia",
+    "name": "优护佳",
+    "identityLevel": 4,
+    "entityGate": "pass",
+    "reason": "既有档案有完整主体名称与可归属的北京服务线索，达到补充候选的主体门槛；未找到本次对照的政府入选记录，不包装为政府推荐。 档案依据：官网旧版关于我们明确为北京优护佳健康管理有限公司；新版首页自述新风天域集团旗下。CNPP汇编信用代码91110112MA01A24G45，仅作二手主体线索，未取得当前营业执照回验。",
+    "governmentMatches": [],
+    "businessStatus": "confirmed",
+    "suggestedGroup": "supplementary",
+    "businessGate": "pass",
+    "businessReason": "新版官网明确北京网点，并有3–36月龄居家育婴师产品，覆盖日常照护和早教；与0–3月母婴护理师产品区分。小红书北京家庭选聘记录也明确提到优护佳。"
+  },
+  {
+    "id": "new-anxinshenghuo",
+    "name": "安欣生活（北京）",
+    "identityLevel": 2,
+    "entityGate": "hold",
+    "reason": "既有身份档位不足3且本次对照的政府名单没有可明确归属的补充记录，保留主体线索待复核；并非断言公司不存在或一定不可靠。 档案依据：教育宝北京安欣生活家政店公示单位为北京袋鼠管家家政服务有限公司，统一代码91110105MACE02KX42。该信息仅核到平台培训店铺主体，未核北京雇主合同章。小红书作者称安欣已被安得收购，尚无独立正式佐证。不得混为上海安欣生活信息科技或天津安欣生活服务。",
+    "governmentMatches": [],
+    "businessStatus": "confirmed",
+    "suggestedGroup": "entity-review",
+    "businessGate": "pass",
+    "businessReason": "教育宝显示北京母婴及育儿培训与学员对接上户业务；小红书雇主明确叙述北京育儿嫂用工、替换需求，支持有北京相关业务经历。未取得当前官方雇主服务目录及可用人选。"
+  }
+]
