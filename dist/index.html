@@ -5,7 +5,7 @@
   <title>北京育儿嫂 · 机构比较手册</title>
   <meta name="description" content="北京育儿嫂机构逐家调查档案，比较主体、换人和退费条款、费用、人员筛选以及有来源的口碑经历。">
   <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%23172543'/%3E%3Cpath d='M8 8h7v16H8zm9 0h7v16h-7z' fill='%23c6d9ff'/%3E%3C/svg%3E">
-  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="styles.css?v=scoring-v1">
 </head>
 <body>
 <a class="skip" href="#main">跳到主要内容</a>
@@ -14,9 +14,10 @@
   <div class="side-title">北京<br>育儿嫂<span>机构比较手册</span></div>
   <nav aria-label="主要导航">
     <a href="#shortlist" class="active" data-view="shortlist"><span>01</span> 先联系谁</a>
-    <a href="#directory" data-view="directory"><span>02</span> 全部机构 <small id="nav-count"></small></a>
-    <a href="#reviews" data-view="reviews"><span>03</span> 口碑证据</a>
-    <a href="#contract" data-view="contract"><span>04</span> 签约前核对</a>
+    <a href="#scores" data-view="scores"><span>02</span> 机构评分 <small>125</small></a>
+    <a href="#directory" data-view="directory"><span>03</span> 全部机构 <small id="nav-count"></small></a>
+    <a href="#reviews" data-view="reviews"><span>04</span> 口碑证据</a>
+    <a href="#contract" data-view="contract"><span>05</span> 签约前核对</a>
   </nav>
   <div class="sidebar-note"><span class="note-line"></span>你的核心诉求<br><strong>不合适，能有人接上。</strong><p>比较换人条件、到岗时限，以及无人可换时如何退款。</p></div>
   <div class="edition">资料核验 · 2026.09.21<br>公开资料整理，非机构广告</div>
@@ -25,17 +26,13 @@
   <header class="topbar"><span>北京 / 育儿嫂 / 选机构</span><a href="research.csv" download>下载完整清单 <span aria-hidden="true">↓</span></a></header>
   <main id="main" tabindex="-1">
     <section id="shortlist" class="view active">
-      <div class="page-heading"><div><p class="eyebrow">CONTACT SHORTLIST</p><h1>从这几家开始比较</h1><p class="intro">先拿到合同，再判断谁能把“换人”真正落实。</p></div><span class="stamp">按联系优先级整理<br><b>不作服务质量排名</b></span></div>
+      <div class="page-heading"><div><p class="eyebrow">CONTACT SHORTLIST</p><h1>从分数和依据，开始比较</h1><p class="intro">先拿到合同，再判断谁能把“换人”真正落实。</p></div><span class="stamp">依据公开保障资料<br><b>逐家评分，可查理由</b></span></div>
       <div class="scope-strip" id="scope-counts"></div>
-      <div class="section-heading"><h2>第一批 · 优先索取合同</h2><span>4 家，按公开条款的可比程度排序</span></div>
-      <div id="shortlist-content" class="shortlist-grid">
-        <article class="agency-card"><div class="card-top"><span class="rank">01</span><span class="tag blue">综合家政</span></div><h3>天鹅到家</h3><p>官网支持服务期内协调更换且不限次数；到岗时限、差价及退费要看具体订单。</p><p class="card-question">重点核对：找不到合适人选，几天能退？</p></article>
-        <article class="agency-card"><div class="card-top"><span class="rank">02</span><span class="tag blue">综合家政</span></div><h3>阿姨来了</h3><p>官网说明先签合同后试工，7天试用、不满意可换；次数、补位和退费仍需补齐。</p><p class="card-question">重点核对：试用期的工资和中介费怎么算？</p></article>
-        <article class="agency-card"><div class="card-top"><span class="rank">03 <small>并列</small></span><span class="tag blue">综合家政</span></div><h3>无忧保姆／无忧家政</h3><p>官方资料有合同期内免费更换宣传；提前约5天申请的建议，不等于5天内到岗保证。</p><p class="card-question">重点核对：免费更换条件和到岗期限。</p></article>
-        <article class="agency-card"><div class="card-top"><span class="rank">03 <small>并列</small></span><span class="tag blue">综合家政</span></div><h3>北京中青家政</h3><p>旧中介制价格页列3次免费更换；需确认现行合同，以及员工制或中介制的具体差别。</p><p class="card-question">重点核对：当前免费次数及超次收费。</p></article>
-      </div>
+      <div class="section-heading"><h2 id="shortlist-heading">按保障参考分，先比较这些机构</h2><span id="shortlist-caption">默认：换人与退出占 50%</span></div>
+      <div id="shortlist-content" class="shortlist-grid"><p>正在载入逐家评分与依据…</p></div>
       <div id="shortlist-extra"></div>
     </section>
+    <section id="scores" class="view" hidden></section>
     <section id="directory" class="view" hidden></section>
     <section id="reviews" class="view" hidden></section>
     <section id="contract" class="view" hidden></section>
@@ -43,6 +40,8 @@
   </main>
 </div>
 <dialog id="agency-dialog" aria-labelledby="dialog-title"><div id="dialog-content"></div></dialog>
-<script src="app.js" defer></script>
+<script src="scoring.js?v=scoring-v1" defer></script>
+<script src="scores-ui.js?v=scoring-v1" defer></script>
+<script src="app.js?v=scoring-v1" defer></script>
 </body>
 </html>
