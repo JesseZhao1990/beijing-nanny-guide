@@ -1,0 +1,2722 @@
+[
+  {
+    "id": "agency-43",
+    "name": "北京君诚安家家政服务有限公司",
+    "checkedAt": "2026-09-21",
+    "queries": [
+      {
+        "channel": "黑猫投诉公开索引",
+        "query": "site:tousu.sina.com.cn \"君诚安家\"",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "本轮该平台定向公开索引未取得可归属个案；搜索不命中不等于没有投诉。",
+        "resultUrls": [],
+        "status": "ok"
+      },
+      {
+        "channel": "消费保公开索引",
+        "query": "site:xfb315.com \"君诚安家\"",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "本轮该平台定向公开索引未取得可归属个案；搜索不命中不等于没有投诉。",
+        "resultUrls": [],
+        "status": "ok"
+      },
+      {
+        "channel": "投诉/媒体/监管/司法公开网页",
+        "query": "\"北京君诚安家\" 投诉 退费 消协 12315 处罚 法院",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "结果以无关卫生抽查、私募注销、律师名单为主，不能对应君诚安家；本轮公开索引未取得可归属个案。",
+        "resultUrls": [
+          "https://www.bjtzh.gov.cn/bjtz/zwgk/ssj/2026052914092480785/index.shtml",
+          "https://www.csrc.gov.cn/beijing/c105551/c7469915/content.shtml",
+          "https://www.beijinglawyers.org.cn/cac/1614328514058.htm",
+          "https://www.beijinglawyers.org.cn/qtmodel/lxgg.htm",
+          "https://www.ipzhihu.com/NewsDetail/6807736.html",
+          "https://www.beijinglawyers.org.cn/cac/1480919194716.htm",
+          "https://simu.eastmoney.com/html/companylist.html",
+          "https://map.mapbar.com/t_zunyi_0504_more/",
+          "https://www.scribd.com/document/844385786/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5-People-s-Daily-March-26-2025",
+          "https://mychhsk.blogspot.com/2023/12/2013100.html",
+          "https://basic.10jqka.com.cn/600340/company.html",
+          "https://map.mapbar.com/t_beijing_1408_more/"
+        ],
+        "status": "ok"
+      }
+    ],
+    "summary": "结果以无关卫生抽查、私募注销、律师名单为主，不能对应君诚安家；本轮公开索引未取得可归属个案。",
+    "coverageLimit": "这是公开索引定向抽样和可读原文核验，不等于投诉平台全库或零投诉证明；未据此声称登录查询12315/裁判文书全库。未披露城市、工种、签约主体的记录不能推断为北京育儿嫂；宣传和招聘不作为消费者口碑。",
+    "cases": [],
+    "excluded": []
+  },
+  {
+    "id": "agency-44",
+    "name": "北京俊誉家政公司",
+    "checkedAt": "2026-09-21",
+    "queries": [
+      {
+        "channel": "黑猫投诉公开索引",
+        "query": "site:tousu.sina.com.cn \"俊誉家政\"",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "本轮该平台定向公开索引未取得可归属个案；搜索不命中不等于没有投诉。",
+        "resultUrls": [],
+        "status": "ok"
+      },
+      {
+        "channel": "消费保公开索引",
+        "query": "site:xfb315.com \"俊誉家政\"",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "本轮该平台定向公开索引未取得可归属个案；搜索不命中不等于没有投诉。",
+        "resultUrls": [],
+        "status": "ok"
+      },
+      {
+        "channel": "投诉/媒体/监管/司法公开网页",
+        "query": "\"俊誉家政\" 北京 投诉 退费 消协 12315 处罚 法院",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "出现怀柔市场监管检查表、外地处罚和全国消费报道，所示单位不对应俊誉家政；本轮公开索引未取得可归属个案。",
+        "resultUrls": [
+          "https://www.bjhr.gov.cn/zt/xzzfxxgs/ztqzfbm/bjhrscjgj/xzzfjgscj/202401/t20240125_3545804.html",
+          "https://www.peopleapp.com/newspaper?date=2025.05.12",
+          "https://www.dongtai.gov.cn/art/2026/8/4/art_7278_4444383.html",
+          "https://ggzyfw.beijing.gov.cn/xycg03/20251226/5397720.html",
+          "https://scjgj.luan.gov.cn/zwzx/tzgg/5481489.html",
+          "https://www.bjhr.gov.cn/zt/xzzfxxgs/ztqzfbm/bjhrscjgj/xzzfjgscj/202501/t20250110_3985956.html",
+          "https://zh.wikisource.org/zh-hans/%E6%A5%8A%E6%96%87%E6%95%8F%E9%9B%86_%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29/%E5%85%A8%E8%A6%BD",
+          "https://www.bjhr.gov.cn/zt/xzzfxxgs/ztqzfbm/bjhrscjgj/xzzfjgscj/202301/t20230112_2897724.html",
+          "https://stock.stockstar.com/notice/SN2026052900038878.shtml",
+          "https://gdxk.southcn.com/sg/nxs/zsnj/content/post_566410.html",
+          "https://www.peopleapp.com/newspaper?date=2026.08.20",
+          "https://zh.wikisource.org/zh-hans/%E4%BA%94%E7%99%BE%E5%AE%B6%E6%92%AD%E8%8A%B3%E5%A4%A7%E5%85%A8%E6%96%87%E7%B2%B9_%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29/%E5%85%A8%E8%A6%BD2"
+        ],
+        "status": "ok"
+      }
+    ],
+    "summary": "出现怀柔市场监管检查表、外地处罚和全国消费报道，所示单位不对应俊誉家政；本轮公开索引未取得可归属个案。",
+    "coverageLimit": "这是公开索引定向抽样和可读原文核验，不等于投诉平台全库或零投诉证明；未据此声称登录查询12315/裁判文书全库。未披露城市、工种、签约主体的记录不能推断为北京育儿嫂；宣传和招聘不作为消费者口碑。",
+    "cases": [],
+    "excluded": []
+  },
+  {
+    "id": "agency-45",
+    "name": "北京昊煜坤城家政公司",
+    "checkedAt": "2026-09-21",
+    "queries": [
+      {
+        "channel": "黑猫投诉公开索引",
+        "query": "site:tousu.sina.com.cn \"昊煜坤城\"",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "本轮该平台定向公开索引未取得可归属个案；搜索不命中不等于没有投诉。",
+        "resultUrls": [],
+        "status": "ok"
+      },
+      {
+        "channel": "消费保公开索引",
+        "query": "site:xfb315.com \"昊煜坤城\"",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "本轮该平台定向公开索引未取得可归属个案；搜索不命中不等于没有投诉。",
+        "resultUrls": [],
+        "status": "ok"
+      },
+      {
+        "channel": "投诉/媒体/监管/司法公开网页",
+        "query": "\"昊煜坤城\" 北京 投诉 退费 消协 12315 处罚 法院",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "仅取得同名企业管理咨询公司信息及无关监管列表；咨询公司与原家政商家主体关系尚未证明，本轮公开索引未取得可归属个案。",
+        "resultUrls": [
+          "https://www.shuididp.cn/yp-70f91c10142b306166eb142815307301.html",
+          "https://www.bjhr.gov.cn/zt/xzzfxxgs/ztqzfbm/bjhrscjgj/xzzfjgscj/202607/t20260709_4754820.html",
+          "https://www.bjhr.gov.cn/zt/xzzfxxgs/ztqzfbm/bjhrscjgj/xzzfjgscj/202601/t20260112_4423448.html",
+          "https://www.bjhr.gov.cn/zt/xzzfxxgs/ztqzfbm/bjhrscjgj/xzzfjgscj/202510/t20251016_4228649.html",
+          "https://www.bjhr.gov.cn/zt/xzzfxxgs/ztqzfbm/bjhrscjgj/xzzfjgscj/202601/t20260112_4423411.html",
+          "https://www.sohu.com/a/1053835026_121123737",
+          "https://peking.bjd.com.cn/content/s63b6e487e4b0fb99eeb2fc0a.html",
+          "https://www.bjhr.gov.cn/zt/xzzfxxgs/ztqzfbm/bjhrscjgj/xzzfjgscj/202510/t20251016_4228643.html",
+          "https://www.sohu.com/a/879350556_121164821",
+          "https://www.thepaper.cn/newsDetail_forward_28531607",
+          "https://zh.wikisource.org/wiki/%E6%98%8E%E5%8F%B2_%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29/%E5%85%A8%E8%A6%BD1",
+          "https://www.lxjxys.com/"
+        ],
+        "status": "ok"
+      }
+    ],
+    "summary": "仅取得同名企业管理咨询公司信息及无关监管列表；咨询公司与原家政商家主体关系尚未证明，本轮公开索引未取得可归属个案。",
+    "coverageLimit": "这是公开索引定向抽样和可读原文核验，不等于投诉平台全库或零投诉证明；未据此声称登录查询12315/裁判文书全库。未披露城市、工种、签约主体的记录不能推断为北京育儿嫂；宣传和招聘不作为消费者口碑。",
+    "cases": [],
+    "excluded": []
+  },
+  {
+    "id": "agency-46",
+    "name": "北京春宇家政服务有限公司（简介写春雨，名称需核实）",
+    "checkedAt": "2026-09-21",
+    "queries": [
+      {
+        "channel": "黑猫投诉公开索引",
+        "query": "site:tousu.sina.com.cn \"春宇家政\"",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "本轮该平台定向公开索引未取得可归属个案；搜索不命中不等于没有投诉。",
+        "resultUrls": [],
+        "status": "ok"
+      },
+      {
+        "channel": "消费保公开索引",
+        "query": "site:xfb315.com \"春宇家政\"",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "本轮该平台定向公开索引未取得可归属个案；搜索不命中不等于没有投诉。",
+        "resultUrls": [],
+        "status": "ok"
+      },
+      {
+        "channel": "投诉/媒体/监管/司法公开网页",
+        "query": "\"春宇家政\" 北京 投诉 退费 消协 12315 处罚 法院",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "同时追查春宇、简介中的春雨；结果中的贵阳春雨心、上海春雨和人名春宇未能对应北京本店。本轮公开索引未取得可归属个案，名称歧义仍限制覆盖。",
+        "resultUrls": [
+          "https://ggzyfw.beijing.gov.cn/xycg03/20251226/5397720.html",
+          "https://www.bjhr.gov.cn/zt/xzzfxxgs/ztqzfbm/bjhrscjgj/xzzfjgscj/202401/t20240125_3545804.html",
+          "https://www.bjhr.gov.cn/zt/xzzfxxgs/ztqzfbm/bjhrscjgj/xzzfjgscj/202301/t20230112_2897724.html",
+          "https://www.bjhr.gov.cn/zt/xzzfxxgs/ztqzfbm/bjhrscjgj/xzzfjgscj/202501/t20250110_3985956.html",
+          "https://www.bjhr.gov.cn/zt/xzzfxxgs/ztqzfbm/bjhrrsj/xzzfjgrbj/202407/t20240704_3737585.html",
+          "https://pingshen.szpu.edu.cn/__local/0/6E/8D/595144052F5ED1F68D26F43C8F9_8463CA94_DC1917.pdf",
+          "https://www.bjhr.gov.cn/zt/xzzfxxgs/ztqzfbm/bjhrrsj/xzzfjgrbj/202310/t20231007_3271202.html",
+          "https://www.bjhr.gov.cn/zt/xzzfxxgs/ztqzfbm/bjhrscjgj/xzzfjgscj/202401/t20240125_3545800.html",
+          "https://www.zxbcpt.com/bmjz_89642/bm/scjdglj/zwgk_94944/fdzdgknr_94946/xzxk/bljg/202112/t20211213_10152014.html",
+          "https://www.12371.gov.cn/h5/article/1438675821295587328/h5/content_1438675821295587328.html",
+          "https://zh.wikisource.org/zh-hant/%E5%AE%97%E4%BC%AF%E9%9B%86_%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29/%E5%85%A8%E8%A6%BD",
+          "https://www.zjg.gov.cn/zjgszwz/scjdj_tzgg/202512/30291bd33d34422f98d88cef3fc7bc37.shtml",
+          "https://www.zhq.gov.cn/contents/61469/461500.html",
+          "https://pingshen.szpu.edu.cn/__local/0/B7/53/567185545EAE8B3A0609D01B37E_02C4309A_1C189E.pdf",
+          "https://www.hpsh.tp.edu.tw/uploads/1732867374116FKbLmr68.pdf"
+        ],
+        "status": "ok"
+      },
+      {
+        "channel": "别名/精确主体/个案补充公开检索",
+        "query": "\"北京春雨家政服务有限公司\" 投诉",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "补充检索人工归属结论：同时追查春宇、简介中的春雨；结果中的贵阳春雨心、上海春雨和人名春宇未能对应北京本店。本轮公开索引未取得可归属个案，名称歧义仍限制覆盖。",
+        "resultUrls": [
+          "https://map.beijing.gov.cn/place?categoryId=yljg&placeId=68f0502c3161b24f39460b71",
+          "https://video.bjchy.gov.cn/vodfiles/992/2015/09/23/cyb/images/2024-04/24/04/04.pdf",
+          "https://rsj.beijing.gov.cn/xxgk/tzgg/202401/t20240129_3548057.html",
+          "https://www.bjhd.gov.cn/ztzx/2020zt/hdqzfgs/dsz_62030/dtxx/zfjggs/xzxk/202110/P020211009334469344126.pdf",
+          "https://www.chsa.com.cn/nr.jsp?_np=0_31_38",
+          "https://www.anyang100.com/beijing/1946080.html",
+          "https://www.ndrc.gov.cn/xwdt/ztzl/jzfwytzkr/zxxd/202008/P020200820648957071954.pdf",
+          "https://fgw.beijing.gov.cn/gzdt/tztg/202301/P020230110612533374214.pdf",
+          "https://www.bjzgh.org/upload/ueditor/uploadfile/202502/20250226/2025022608471740530833341043969.pdf",
+          "https://www.bjie.ac.cn/d/file/xwzx/sxsd/qthd/2024-04-30/c363b72e6b4046bdf74c9bbe56f64a14.pdf",
+          "https://top.qcc.com/tc/e7d27ee3a514.html",
+          "https://ggzyfw.beijing.gov.cn/xycg03/20251226/5397720.html"
+        ],
+        "status": "ok"
+      },
+      {
+        "channel": "别名/精确主体/个案补充公开检索",
+        "query": "\"春雨家政\" 北京 消费保",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "补充检索人工归属结论：同时追查春宇、简介中的春雨；结果中的贵阳春雨心、上海春雨和人名春宇未能对应北京本店。本轮公开索引未取得可归属个案，名称歧义仍限制覆盖。",
+        "resultUrls": [
+          "https://tousu.sina.com.cn/complaint/view/17393603670?sld=2a69916178f4f9d487172fbf3c7e79d7",
+          "https://www.bjxch.gov.cn/file/20221229/1672278815187073105.pdf",
+          "https://rsj.beijing.gov.cn/bm/ztzl/ssjzlwpp/",
+          "https://sw.beijing.gov.cn/zmhd/dczjj/202306/t20230601_3119537.html",
+          "https://www.chatm.com/log/search?keyword=990024&queryType=3",
+          "https://www.sohu.com/a/1049953639_253235",
+          "https://www.shuididp.cn/yp-dd55d281b4a02bd469efc20f2b5de601.html",
+          "https://m.jiemian.com/article/13669726.html",
+          "https://gongshang.mingluji.com/beijing/shangquan/%E5%8C%97%E4%BA%AC%E5%90%89%E9%87%8E%E5%AE%B6%E5%BF%AB%E9%A4%90%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E7%A3%81%E5%99%A8%E5%8F%A3%E5%BA%97/337",
+          "https://www.sohu.com/a/1035281853_121106842",
+          "https://dzb.xfrb.com.cn/UploadFiles/file/20240129/202401291101206457.pdf",
+          "https://rsj.beijing.gov.cn/xxgk/zfxxgk/zdlygk/sj/202310/P020231010608434877150.pdf",
+          "https://www.bjft.gov.cn/fengtaibao/resfile/2025-01-22/03/ftb-20250122-003.pdf",
+          "https://finance.sina.com.cn/china/gncj/2020-03-09/doc-iimxxstf7678084.shtml",
+          "https://www.sic.gov.cn/sic/82/568/0229/7304.pdf",
+          "https://rsj.beijing.gov.cn/xxgk/zfxxgk/zdlygk/sj/202310/P020231010608880226383.pdf",
+          "https://app.bjtitle.com/8816/newshow.php?did=867950049830928&mood=&newsid=6554754&typeid=107&uid=0"
+        ],
+        "status": "ok"
+      }
+    ],
+    "summary": "同时追查春宇、简介中的春雨；结果中的贵阳春雨心、上海春雨和人名春宇未能对应北京本店。本轮公开索引未取得可归属个案，名称歧义仍限制覆盖。",
+    "coverageLimit": "这是公开索引定向抽样和可读原文核验，不等于投诉平台全库或零投诉证明；未据此声称登录查询12315/裁判文书全库。未披露城市、工种、签约主体的记录不能推断为北京育儿嫂；宣传和招聘不作为消费者口碑。",
+    "cases": [],
+    "excluded": []
+  },
+  {
+    "id": "agency-47",
+    "name": "轻喜到家",
+    "checkedAt": "2026-09-21",
+    "queries": [
+      {
+        "channel": "黑猫投诉公开索引",
+        "query": "site:tousu.sina.com.cn \"轻喜到家\"",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "合并搜索结果中取得该平台链接；逐条核对品牌/主体，黑猫、消费保有多个品牌退款和预约争议；本轮回读一个用户确认已解决退款单、一个系统自动完结单。城市和工种不详的记录仅作品牌售后线索，不等同北京育儿嫂质量。",
+        "resultUrls": [
+          "https://tousu.sina.com.cn/complaint/view/17371394674",
+          "https://tousu.sina.com.cn/complaint/view/17393601609?sld=05c64e2275b7fa783f1746f36b56a7e9",
+          "https://tousu.sina.com.cn/complaint/view/17399394056/?sld=d5e83a11deb1af3621e12c5ef4e92b75",
+          "https://tousu.sina.com.cn/complaint/view/17380983662?sld=82ac2849f4c97e7e56d01f0ad12a39f5",
+          "https://sh.tousu.sina.com.cn/company/view/?couid=6348057208",
+          "https://tousu.sina.com.cn/complaint/view/17395342611?sld=6c38400d8a922f2757ad28330802b3a2",
+          "https://gd.tousu.sina.com.cn/company/view/?couid=6348057208",
+          "https://tousu.sina.com.cn/complaint/view/17391361823?sld=257e6344f3a103e87120d1ae4b766f60"
+        ],
+        "status": "ok"
+      },
+      {
+        "channel": "消费保公开索引",
+        "query": "site:xfb315.com \"轻喜到家\"",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "合并搜索结果中取得该平台链接；逐条核对品牌/主体，黑猫、消费保有多个品牌退款和预约争议；本轮回读一个用户确认已解决退款单、一个系统自动完结单。城市和工种不详的记录仅作品牌售后线索，不等同北京育儿嫂质量。",
+        "resultUrls": [
+          "https://www.xfb365.com/tousu/101048007",
+          "https://www.xfb365.com/tousu/100931761",
+          "https://www.xfb365.com/tousu/100478700"
+        ],
+        "status": "ok"
+      },
+      {
+        "channel": "投诉/媒体/监管/司法公开网页",
+        "query": "\"轻喜到家\" 投诉",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "黑猫、消费保有多个品牌退款和预约争议；本轮回读一个用户确认已解决退款单、一个系统自动完结单。城市和工种不详的记录仅作品牌售后线索，不等同北京育儿嫂质量。",
+        "resultUrls": [
+          "https://tousu.sina.com.cn/complaint/view/17371394674",
+          "https://tousu.sina.com.cn/complaint/view/17393601609?sld=05c64e2275b7fa783f1746f36b56a7e9",
+          "https://tousu.sina.com.cn/complaint/view/17399394056/?sld=d5e83a11deb1af3621e12c5ef4e92b75",
+          "https://tousu.sina.com.cn/complaint/view/17380983662?sld=82ac2849f4c97e7e56d01f0ad12a39f5",
+          "https://www.xfb365.com/tousu/101048007",
+          "https://apps.apple.com/us/app/%E8%BD%BB%E5%96%9C%E5%88%B0%E5%AE%B6-%E4%BF%9D%E6%B4%81%E4%BF%9D%E5%A7%86%E5%AE%B6%E7%94%B5%E6%B8%85%E6%B4%97%E5%AE%B6%E6%94%BF%E6%9C%8D%E5%8A%A1%E5%B9%B3%E5%8F%B0/id1550723001?platform=iphone&see-all=reviews",
+          "https://www.xfb365.com/tousu/100931761",
+          "https://sh.tousu.sina.com.cn/company/view/?couid=6348057208",
+          "https://tousu.sina.com.cn/complaint/view/17395342611?sld=6c38400d8a922f2757ad28330802b3a2",
+          "https://gd.tousu.sina.com.cn/company/view/?couid=6348057208",
+          "https://tousu.sina.com.cn/complaint/view/17391361823?sld=257e6344f3a103e87120d1ae4b766f60",
+          "https://www.xfb365.com/tousu/100478700",
+          "https://static.cninfo.com.cn/finalpage/2024-08-28/1221031501.PDF",
+          "https://www.ipd.gov.hk/hkipjournal/28012022/PUBLICATION_TYPE_ACCEPTANCE_FOR_REGISTRATION_FULL_VERSION_41-45.pdf",
+          "https://www.ipd.gov.hk/hkipjournal/28012022/PUBLICATION_TYPE_ACCEPTANCE_FOR_REGISTRATION_SUMMARY.pdf",
+          "https://static.cninfo.com.cn/finalpage/2023-06-05/1217055222.PDF",
+          "https://file.retail.tencent.com/files/default/2025/1/7a65bf6309c4408eb45a7ce5bba8fc5e.pdf"
+        ],
+        "status": "ok"
+      }
+    ],
+    "summary": "黑猫、消费保有多个品牌退款和预约争议；本轮回读一个用户确认已解决退款单、一个系统自动完结单。城市和工种不详的记录仅作品牌售后线索，不等同北京育儿嫂质量。",
+    "coverageLimit": "这是公开索引定向抽样和可读原文核验，不等于投诉平台全库或零投诉证明；未据此声称登录查询12315/裁判文书全库。未披露城市、工种、签约主体的记录不能推断为北京育儿嫂；宣传和招聘不作为消费者口碑。",
+    "cases": [
+      {
+        "platform": "消费保",
+        "title": "轻喜未消费服务退款诉求，用户后续确认解决",
+        "url": "https://www.xfb365.com/tousu/100478700",
+        "date": "2026-02-01",
+        "city": "未披露",
+        "job": "家政套餐，具体工种未披露",
+        "type": "消费者单方投诉及用户完结记录",
+        "summary": "消费者就378元未消费服务申请退款，称原退款渠道和沟通不顺畅。",
+        "response": "平台显示转交企业；未见具体企业答复。",
+        "resolution": "2026-02-01用户申请完结，页面标已解决、方案退款；无退款到账明细。",
+        "limits": "非可确认北京育儿订单；问题事实为投诉者陈述。",
+        "match": "brand",
+        "relevance": "unclear",
+        "readStatus": "已读原网页",
+        "issues": [
+          "退费沟通"
+        ]
+      },
+      {
+        "platform": "黑猫投诉",
+        "title": "轻喜套餐无法预约后的退款诉求",
+        "url": "https://tousu.sina.com.cn/complaint/view/17399394056/?sld=d5e83a11deb1af3621e12c5ef4e92b75",
+        "date": "2026-07-04",
+        "city": "未披露",
+        "job": "家政套餐，具体工种未披露",
+        "type": "消费者单方投诉",
+        "summary": "用户称购买449元套餐后不能预约，申请退款需找客服但沟通无果。",
+        "response": "2026-07-07企业表示已反馈负责人跟进处理。",
+        "resolution": "2026-08-06因30天无后续操作系统自动完成；没有退款凭证。",
+        "limits": "自动完成不等于实质解决；非可确认北京育儿订单。",
+        "match": "brand",
+        "relevance": "unclear",
+        "readStatus": "已读原网页",
+        "issues": [
+          "预约",
+          "退费沟通"
+        ]
+      }
+    ],
+    "excluded": []
+  },
+  {
+    "id": "agency-48",
+    "name": "爱贝佳",
+    "checkedAt": "2026-09-21",
+    "queries": [
+      {
+        "channel": "黑猫投诉公开索引",
+        "query": "site:tousu.sina.com.cn \"爱贝佳\"",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "本轮该平台定向公开索引未取得可归属个案；搜索不命中不等于没有投诉。",
+        "resultUrls": [],
+        "status": "ok"
+      },
+      {
+        "channel": "消费保公开索引",
+        "query": "site:xfb315.com \"爱贝佳\"",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "本轮该平台定向公开索引未取得可归属个案；搜索不命中不等于没有投诉。",
+        "resultUrls": [],
+        "status": "ok"
+      },
+      {
+        "channel": "投诉/媒体/监管/司法公开网页",
+        "query": "\"爱贝佳\" 投诉",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "检得2017年伤婴报道相关索引，但同时有企业声明称涉事人2013年已终止合作、该订单未经公司签约；归属存在实质争议，不能把标题直接当作该机构订单事故。黑猫/消费保未取得明确归属新增原单。",
+        "resultUrls": [
+          "https://www.abjmyw.com/",
+          "https://www.dlabj.com/",
+          "https://m.dlabj.com/col.jsp?id=106",
+          "https://m.dlabj.com/",
+          "https://read01.com/jM2QnB.html",
+          "https://m.5888.tv/qiyeku/aibeijia/",
+          "https://k.sina.cn/article_7879849092_1d5acf48406801re1u.html",
+          "https://enwwb.com/n/myhl/10170.html",
+          "https://read01.com/PGogR7.html",
+          "https://edu.people.com.cn/n/2012/1209/c1006-19836424.html",
+          "https://www.hhky.gov.cn/virtual_attach_file.vsb?afc=uM8-UiLNrkoRW7Unm-sM4-DMNWRUzGS8oRlPM7lbUmfknzl0gihFp2hmCIa0n1hVL1y8oShVnRnRnRNZnz-ZMmMRMzARnz6knRNsL4U8n7nFMmNaLlr2nzWFnNCZnN-Jv2nto4OeoDxbvsWx_tC0qIbtpYyiMm-Pg4vioRCaL1bw62z8c",
+          "https://www.gc.gov.cn/attachments/1/202507/29/2024%E5%B9%B4%E8%97%81%E5%9F%8E%E5%8C%BA%E6%9C%AC%E7%BA%A7%E9%A3%9F%E5%93%81%E7%9B%91%E7%9D%A3%E6%8A%BD%E6%A3%80%E5%90%88%E6%A0%BC%E6%A0%B7%E5%93%81%E4%BF%A1%E6%81%AF%EF%BC%88%E7%AC%AC2%E6%9C%9F%EF%BC%8920250729165958168.pdf?sid=3a3d67a8-dd91-450a-a4e6-b53383522e7a",
+          "https://m.cqn.com.cn/ms/att/2025-08/21/35d9f7b7-8451-4679-9ca2-9a56c25e4a09.pdf",
+          "https://www.cepf.org.cn/gyxm/lsfzyxczx/QSJH/STWM_XMDT/202302/P020240108612162166805.pdf",
+          "https://www.hp.gov.cn/attachment/0/104/104216/3641477.pdf",
+          "https://www.cepf.org.cn/gyxm/lsfzyxczx/QSJH/STWM_XMDT/202005/P020240109322617247437.pdf"
+        ],
+        "status": "ok"
+      },
+      {
+        "channel": "别名/精确主体/个案补充公开检索",
+        "query": "\"爱贝佳\" \"2013\" 月嫂",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "补充检索人工归属结论：检得2017年伤婴报道相关索引，但同时有企业声明称涉事人2013年已终止合作、该订单未经公司签约；归属存在实质争议，不能把标题直接当作该机构订单事故。黑猫/消费保未取得明确归属新增原单。",
+        "resultUrls": [
+          "https://www.bjxch.gov.cn/file/20221229/1672278815187073105.pdf",
+          "https://cd.com.cn/index.php/Home/Index/info/id/543",
+          "https://m.chinapp.net.cn/faxianpinpai/2026/0707/83150.html",
+          "https://ewsdata.rightsindevelopment.org/files/documents/02/ADB-46048-002_t0LtWch.pdf",
+          "https://news.sohu.com/20170614/n497010172.shtml",
+          "https://sd.ifeng.com/cj/caifutouzi/detail_2013_12/23/1627630_1.shtml",
+          "https://www.sohu.com/a/1049932688_122495486",
+          "https://qccdata.qichacha.com/ReportData/PDF/9dd928183c19524ab2a20e8d8e2d6a2f.pdf",
+          "https://www.gonyn.com/report/1306125.html",
+          "https://m.cqn.com.cn/ms/content/2023-03/31/content_8924602.htm",
+          "https://www.qiyeku.cn/tag/company8e264e-4.html",
+          "https://m.chinapp.com/brand/5361",
+          "https://www.1288.tv/companys/product_330965.html",
+          "https://www.cqn.com.cn/ms/content/2025-07/25/content_9115996.htm",
+          "https://www.ldqxn.com/qynews/article-NDYyNw-1816486.html",
+          "https://www.sundiallawfirm.com/static/upload/file/20220105/1641368322743135.pdf"
+        ],
+        "status": "ok"
+      }
+    ],
+    "summary": "检得2017年伤婴报道相关索引，但同时有企业声明称涉事人2013年已终止合作、该订单未经公司签约；归属存在实质争议，不能把标题直接当作该机构订单事故。黑猫/消费保未取得明确归属新增原单。",
+    "coverageLimit": "这是公开索引定向抽样和可读原文核验，不等于投诉平台全库或零投诉证明；未据此声称登录查询12315/裁判文书全库。未披露城市、工种、签约主体的记录不能推断为北京育儿嫂；宣传和招聘不作为消费者口碑。",
+    "cases": [],
+    "excluded": [
+      {
+        "url": "https://news.sohu.com/20170614/n497010172.shtml",
+        "reason": "2017年伤婴事件索引同时载企业否认该订单属公司、称2013年终止合作；原网页编码读取失败，归属争议未消除，不计确定机构订单事件。"
+      }
+    ]
+  },
+  {
+    "id": "agency-49",
+    "name": "华夏中青",
+    "checkedAt": "2026-09-21",
+    "queries": [
+      {
+        "channel": "黑猫投诉公开索引",
+        "query": "site:tousu.sina.com.cn \"华夏中青\"",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "本轮该平台定向公开索引未取得可归属个案；搜索不命中不等于没有投诉。",
+        "resultUrls": [],
+        "status": "ok"
+      },
+      {
+        "channel": "消费保公开索引",
+        "query": "site:xfb315.com \"华夏中青\"",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "本轮该平台定向公开索引未取得可归属个案；搜索不命中不等于没有投诉。",
+        "resultUrls": [],
+        "status": "ok"
+      },
+      {
+        "channel": "投诉/媒体/监管/司法公开网页",
+        "query": "\"华夏中青\" 投诉",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "主要命中华夏中青官网、工会企业资料及行业报道；异地分支和中青宝等不同主体不混入。本轮公开索引未取得可归属消费个案。",
+        "resultUrls": [
+          "https://www.cyhs.cn/aboutus/about/",
+          "https://www.greenchina.tv/index.php/magazine/detail/id/3158.html",
+          "https://www.cyhs.cn/",
+          "https://www.bjzgh12351.org/template/1/file.jsp?aid=1137&cid=300",
+          "https://www.ccgp.gov.cn/cggg/dfgg/zbgg/202310/t20231008_20827173.htm",
+          "https://m.100ye.com/index20725371",
+          "https://finance.sina.cn/sa/2006-01-25/detail-ikknscsi3050554.d.html?from=wap",
+          "https://m.zhipin.com/companys/2e20cbbf19cf1a901nx-3N29FA~~.html",
+          "https://www.cyhs.cn/Category_1342/Index.aspx",
+          "https://575534.beijing.12580.tv/",
+          "https://disc.static.szse.cn/disc/disk03/finalpage/2024-08-28/be530fcf-8f45-4765-8501-542268c281c0.PDF",
+          "https://epaper.stcn.com/pic/202408/29/88bafff59d87f36f6cb72789488a921d.pdf?u_asig=a0caa&u_atoken=49f21c3817c3762eb1829a5481bf381b",
+          "https://qxb-pdf-osscache.qixin.com/AnBaseinfo/3238f1a75c2bb92eab5372aee9e04abe.pdf",
+          "https://notice.10jqka.com.cn/api/pdf/56c47249bd24bb5d.pdf",
+          "https://wb.xxrb.com.cn/page/2/2023-02/17/A04/20230217A04_pdf.pdf"
+        ],
+        "status": "ok"
+      }
+    ],
+    "summary": "主要命中华夏中青官网、工会企业资料及行业报道；异地分支和中青宝等不同主体不混入。本轮公开索引未取得可归属消费个案。",
+    "coverageLimit": "这是公开索引定向抽样和可读原文核验，不等于投诉平台全库或零投诉证明；未据此声称登录查询12315/裁判文书全库。未披露城市、工种、签约主体的记录不能推断为北京育儿嫂；宣传和招聘不作为消费者口碑。",
+    "cases": [],
+    "excluded": []
+  },
+  {
+    "id": "agency-50",
+    "name": "管家帮",
+    "checkedAt": "2026-09-21",
+    "queries": [
+      {
+        "channel": "黑猫投诉公开索引",
+        "query": "site:tousu.sina.com.cn 管家帮",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "合并搜索结果中取得该平台链接；逐条核对品牌/主体，回读2020南京欠薪、2021北京欠薪及雇主预付款报道，均有历史经营连续性信号。北京报道含创始人回应，南京报道时仍待处理；不能将历史争议写成2026仍未清偿或育儿照护事故。",
+        "resultUrls": [
+          "https://tousu.sina.com.cn/?oid=1.pwa",
+          "https://tousu.sina.com.cn/?oid=94",
+          "https://sc.tousu.sina.com.cn/?wm=3292_9003"
+        ],
+        "status": "ok"
+      },
+      {
+        "channel": "消费保公开索引",
+        "query": "site:xfb315.com 管家帮",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "本轮该平台定向公开索引未取得可归属个案；搜索不命中不等于没有投诉。",
+        "resultUrls": [],
+        "status": "ok"
+      },
+      {
+        "channel": "投诉/媒体/监管/司法公开网页",
+        "query": "管家帮 投诉",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "回读2020南京欠薪、2021北京欠薪及雇主预付款报道，均有历史经营连续性信号。北京报道含创始人回应，南京报道时仍待处理；不能将历史争议写成2026仍未清偿或育儿照护事故。",
+        "resultUrls": [
+          "https://news.jstv.com/a/20200108/cb5c13144acf4007b12c4d83e12dd5a7.shtml",
+          "https://casecenter.buaa.edu.cn/__local/F/1E/D3/3C9848FC9E13923FA27C4C8679B_5989F0A5_BA120.pdf",
+          "https://12389.mps.gov.cn/",
+          "https://casecenter.buaa.edu.cn/__local/2/61/44/59E5D39BA85D48F8BB503CD1B34_EAD32F35_F905B.pdf",
+          "https://finance.sina.com.cn/consume/puguangtai/2018-09-04/doc-ihiixzkm4021890.shtml",
+          "https://36kr.com/p/1954576271098757",
+          "https://finance.ifeng.com/c/7t2pgKwQZEP?from=timeline",
+          "https://file.finance.sina.com.cn/hkdata98/hk/hk_realtime_announcement/news/20230428/10716123-0.PDF",
+          "https://finance.sina.cn/tech/2021-01-30/detail-ikftpnny2934766.d.html?fromtech=1",
+          "https://szb.nxrb.cn/xxxb/pc/att/202508/21/44cd0ffb-45ad-4559-8b2d-86a20cf6d8fe.pdf",
+          "https://life.pingan.com/syncFile/20220315183905264465.pdf",
+          "https://tousu.sina.com.cn/?oid=1.pwa",
+          "https://tousu.sina.com.cn/?oid=94",
+          "https://m.onlinedown.net/soft/10023809.htm",
+          "https://m.ziyuanm.com/jiazheng/guanjia/",
+          "https://sc.tousu.sina.com.cn/?wm=3292_9003",
+          "https://asset2.qieman.com/agreement/0abdefef-b411-4f64-91ce-2ce2a3c2c369.pdf",
+          "https://www.reddit.com/r/chonglangTV/comments/qermao",
+          "https://www.reddit.com/r/China_irl/comments/u5tl25",
+          "https://www.reddit.com/r/China_irl/comments/qa0rw5"
+        ],
+        "status": "ok"
+      }
+    ],
+    "summary": "回读2020南京欠薪、2021北京欠薪及雇主预付款报道，均有历史经营连续性信号。北京报道含创始人回应，南京报道时仍待处理；不能将历史争议写成2026仍未清偿或育儿照护事故。",
+    "coverageLimit": "这是公开索引定向抽样和可读原文核验，不等于投诉平台全库或零投诉证明；未据此声称登录查询12315/裁判文书全库。未披露城市、工种、签约主体的记录不能推断为北京育儿嫂；宣传和招聘不作为消费者口碑。",
+    "cases": [
+      {
+        "platform": "江苏广电荔枝新闻",
+        "title": "南京管家帮历史欠薪报道",
+        "url": "https://news.jstv.com/a/20200108/cb5c13144acf4007b12c4d83e12dd5a7.shtml",
+        "date": "2020-01-08",
+        "city": "南京",
+        "job": "家政员工工资，非育儿消费订单",
+        "type": "媒体调查",
+        "summary": "员工称被拖欠半年工资；报道载南京分公司员工寻求法律援助并有法院立案。",
+        "response": "报道中当地负责人拒绝说明，公司经营状况被询问。",
+        "resolution": "报道时调解未果；本轮未取得后来清偿或判决结论。",
+        "limits": "历史异地劳动报酬问题；不得写成当前欠薪或北京育儿护理事件。",
+        "match": "entity",
+        "relevance": "other-service",
+        "readStatus": "已读原网页",
+        "issues": [
+          "历史欠薪",
+          "经营连续性"
+        ]
+      },
+      {
+        "platform": "财经国家周刊，经新浪转载",
+        "title": "管家帮北京欠薪与预付款争议调查",
+        "url": "https://finance.sina.cn/tech/2021-01-30/detail-ikftpnny2934766.d.html?fromtech=1",
+        "date": "2021-01-30（原稿2021-01-29）",
+        "city": "北京等地",
+        "job": "一般保姆/家政及预付款",
+        "type": "媒体调查，含企业回应",
+        "summary": "记者采访北京家政人员称工资拖欠，也采访预付数万元但服务人员离岗后未获退款的雇主。",
+        "response": "创始人傅彦生承认欠薪及客户资金问题，称疫情影响现金流，介绍融资和协调方案；对2019问题称基本解决。",
+        "resolution": "报道时相关人员仍在追索；本轮未取得这些当事人此后清偿证据。",
+        "limits": "来自2021年历史报道；不能推断2026状况，也不把劳动争议等同育儿技能缺陷。",
+        "match": "entity",
+        "relevance": "other-service",
+        "readStatus": "已读原网页",
+        "issues": [
+          "历史欠薪",
+          "预付费",
+          "服务连续性"
+        ]
+      }
+    ],
+    "excluded": []
+  },
+  {
+    "id": "agency-51",
+    "name": "三替（北京）",
+    "checkedAt": "2026-09-21",
+    "queries": [
+      {
+        "channel": "黑猫投诉公开索引",
+        "query": "site:tousu.sina.com.cn 三替 北京",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "本轮该平台定向公开索引未取得可归属个案；搜索不命中不等于没有投诉。",
+        "resultUrls": [],
+        "status": "ok"
+      },
+      {
+        "channel": "消费保公开索引",
+        "query": "site:xfb315.com 三替 北京",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "本轮该平台定向公开索引未取得可归属个案；搜索不命中不等于没有投诉。",
+        "resultUrls": [],
+        "status": "ok"
+      },
+      {
+        "channel": "投诉/媒体/监管/司法公开网页",
+        "query": "三替 北京 投诉",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "短品牌检索噪音较多，追加北京三替养老护理集团有限公司全称，取得养老/家政企业名单但无可归属个案；杭州三替与北京主体须分开。",
+        "resultUrls": [
+          "https://12389.mps.gov.cn/",
+          "https://beijing.12388.gov.cn/html/sjjb2.html",
+          "https://xfb.beijing.gov.cn/xfzn/ywzn/wsxfzn/201912/t20191224_1442998.html",
+          "https://rsj.beijing.gov.cn/bm/ztzl/12333rx/",
+          "https://zjw.beijing.gov.cn/bjjs/zbtb0/tscl/index.shtml",
+          "https://www.beijing.gov.cn/fwcj/qyfw2/jjsyjf/647ea63e99e8fd066d6683ea.html",
+          "https://yjj.beijing.gov.cn/yjj/zdxx/1793604/index.html",
+          "https://gjj.beijing.gov.cn/web/index/325741013/744122284/index.html",
+          "https://map.beijing.gov.cn/place?categoryId=pcs&placeId=68fedc903161b24f3946908e",
+          "https://jrj.beijing.gov.cn/hdjl/index.html",
+          "https://scjgj.beijing.gov.cn/zwxx/scjgdt/202306/t20230601_3118911.html",
+          "https://sfj.beijing.gov.cn/sfj/zmhd15/hdjl/index.html",
+          "https://zh.wikipedia.org/wiki/%E4%B8%89%E9%B9%BF%E9%9B%86%E5%9B%A2",
+          "https://banshi.beijing.gov.cn/pubtask/bhyjs/gqzr/bszn.pdf",
+          "https://sw.beijing.gov.cn/zwxx/swxx/202308/P020251019111803514535.pdf",
+          "https://yjglj.beijing.gov.cn/attach/0/2020%E5%B9%B4%E5%8C%97%E4%BA%AC%E5%B8%82%E5%BA%94%E6%80%A5%E7%AE%A1%E7%90%86%E4%BA%8B%E4%B8%9A%E5%8F%91%E5%B1%95%E7%BB%9F%E8%AE%A1%E5%85%AC%E6%8A%A5.pdf",
+          "https://zh.wikipedia.org/wiki/%E5%9B%BD%E5%AE%B6%E6%8A%95%E8%AF%89%E5%8F%97%E7%90%86%E5%8A%9E%E5%85%AC%E5%AE%A4",
+          "https://gjj.beijing.gov.cn/web/index/325741013/543465970/2024112217522259532.pdf",
+          "https://gjj.beijing.gov.cn/web/index/325741013/743624347/2025051917251964562.pdf",
+          "https://www.beijing.gov.cn/hudong/jpzt/2021fwrxndbg/202203/P020220411551547650399.pdf",
+          "https://zh.wikipedia.org/wiki/%E5%8C%97%E4%BA%AC%E9%BA%BB%E5%B0%87"
+        ],
+        "status": "ok"
+      },
+      {
+        "channel": "别名/精确主体/个案补充公开检索",
+        "query": "\"北京三替养老护理集团有限公司\" 投诉",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "补充检索人工归属结论：短品牌检索噪音较多，追加北京三替养老护理集团有限公司全称，取得养老/家政企业名单但无可归属个案；杭州三替与北京主体须分开。",
+        "resultUrls": [
+          "https://map.beijing.gov.cn/place?categoryId=yljg&placeId=68f0502c3161b24f39460b71",
+          "https://video.bjchy.gov.cn/vodfiles/992/2015/09/23/cyb/images/2024-04/24/04/04.pdf",
+          "https://rsj.beijing.gov.cn/xxgk/tzgg/202401/t20240129_3548057.html",
+          "https://www.bjhd.gov.cn/ztzx/2020zt/hdqzfgs/dsz_62030/dtxx/zfjggs/xzxk/202110/P020211009334469344126.pdf",
+          "https://www.chsa.com.cn/nr.jsp?_np=0_31_38",
+          "https://www.anyang100.com/beijing/1946080.html",
+          "https://www.ndrc.gov.cn/xwdt/ztzl/jzfwytzkr/zxxd/202008/P020200820648957071954.pdf",
+          "https://fgw.beijing.gov.cn/gzdt/tztg/202301/P020230110612533374214.pdf",
+          "https://www.bjzgh.org/upload/ueditor/uploadfile/202502/20250226/2025022608471740530833341043969.pdf",
+          "https://www.bjie.ac.cn/d/file/xwzx/sxsd/qthd/2024-04-30/c363b72e6b4046bdf74c9bbe56f64a14.pdf",
+          "https://top.qcc.com/tc/e7d27ee3a514.html",
+          "https://ggzyfw.beijing.gov.cn/xycg03/20251226/5397720.html"
+        ],
+        "status": "ok"
+      }
+    ],
+    "summary": "短品牌检索噪音较多，追加北京三替养老护理集团有限公司全称，取得养老/家政企业名单但无可归属个案；杭州三替与北京主体须分开。",
+    "coverageLimit": "这是公开索引定向抽样和可读原文核验，不等于投诉平台全库或零投诉证明；未据此声称登录查询12315/裁判文书全库。未披露城市、工种、签约主体的记录不能推断为北京育儿嫂；宣传和招聘不作为消费者口碑。",
+    "cases": [],
+    "excluded": []
+  },
+  {
+    "id": "agency-52",
+    "name": "育天使",
+    "checkedAt": "2026-09-21",
+    "queries": [
+      {
+        "channel": "黑猫投诉公开索引",
+        "query": "site:tousu.sina.com.cn 育天使",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "合并搜索结果中取得该平台链接；逐条核对品牌/主体，消费保97344817与既有R014同案，本轮索引补到2024-11-19企业宣称已办理退款；2024-09-01自动关闭不是最终可见状态。原单直接读取失败；嘉佑天使投诉属于另一品牌，已排除。",
+        "resultUrls": [
+          "https://tousu.sina.com.cn/complaint/view/17388192840?sld=1a07b580b0f0cc8b1b0ad50968b7145c"
+        ],
+        "status": "ok"
+      },
+      {
+        "channel": "消费保公开索引",
+        "query": "site:xfb315.com 育天使",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "合并搜索结果中取得该平台链接；逐条核对品牌/主体，消费保97344817与既有R014同案，本轮索引补到2024-11-19企业宣称已办理退款；2024-09-01自动关闭不是最终可见状态。原单直接读取失败；嘉佑天使投诉属于另一品牌，已排除。",
+        "resultUrls": [
+          "https://www.xfb315.com/tousu/97344817"
+        ],
+        "status": "ok"
+      },
+      {
+        "channel": "投诉/媒体/监管/司法公开网页",
+        "query": "育天使 投诉",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "消费保97344817与既有R014同案，本轮索引补到2024-11-19企业宣称已办理退款；2024-09-01自动关闭不是最终可见状态。原单直接读取失败；嘉佑天使投诉属于另一品牌，已排除。",
+        "resultUrls": [
+          "https://www.xfb315.com/tousu/97344817",
+          "https://12389.mps.gov.cn/",
+          "https://wechat.12321.cn/web",
+          "https://12321.cn/report.php",
+          "https://www.angelheart.org.tw/news/news_detail/1760",
+          "https://wechat.12321.cn/cheat_site",
+          "https://tousu.sina.com.cn/complaint/view/17388192840?sld=1a07b580b0f0cc8b1b0ad50968b7145c",
+          "https://trust.dianping.com/home",
+          "https://wechat.12321.cn/",
+          "https://innohere.com/ir/140909/frame.html",
+          "https://app.eduyun.cn/rpt/rptUserInfoAdd",
+          "https://www1.hkexnews.hk/listedco/listconews/sehk/2022/0420/2022042001419_c.pdf",
+          "https://www.wjcs.org.hk/upload/mini/379/file1/64d3510e9c6b1.pdf",
+          "https://www.hkexnews.hk/listedco/listconews/sehk/2023/0323/2023032300989_c.pdf",
+          "https://www.reddit.com/r/kfq/comments/1qhne68/%E7%94%9F%E6%B4%BB%E5%A4%AA%E7%A9%BA%E8%99%9B%E7%94%B7%E8%AD%B7%E5%B8%AB%E8%87%AA%E7%88%86%E5%8E%BB%E7%95%B6%E6%89%8B%E5%A4%A9%E4%BD%BF_%E5%BC%9F%E4%B8%8D%E8%A7%A3%E8%A6%BA%E5%BE%97%E6%80%AA%E6%80%AA%E7%9A%84/",
+          "https://service.elchk.org.hk/filedata/tbl_annual_report/doc/15_4.pdf"
+        ],
+        "status": "ok"
+      },
+      {
+        "channel": "别名/精确主体/个案补充公开检索",
+        "query": "site:xfb365.com \"育天使\"",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "补充检索人工归属结论：消费保97344817与既有R014同案，本轮索引补到2024-11-19企业宣称已办理退款；2024-09-01自动关闭不是最终可见状态。原单直接读取失败；嘉佑天使投诉属于另一品牌，已排除。",
+        "resultUrls": [
+          "https://www.bjxch.gov.cn/file/20221229/1672278815187073105.pdf",
+          "https://cd.com.cn/index.php/Home/Index/info/id/543",
+          "https://m.chinapp.net.cn/faxianpinpai/2026/0707/83150.html",
+          "https://ewsdata.rightsindevelopment.org/files/documents/02/ADB-46048-002_t0LtWch.pdf",
+          "https://news.sohu.com/20170614/n497010172.shtml",
+          "https://sd.ifeng.com/cj/caifutouzi/detail_2013_12/23/1627630_1.shtml",
+          "https://www.sohu.com/a/1049932688_122495486",
+          "https://qccdata.qichacha.com/ReportData/PDF/9dd928183c19524ab2a20e8d8e2d6a2f.pdf",
+          "https://www.gonyn.com/report/1306125.html",
+          "https://m.cqn.com.cn/ms/content/2023-03/31/content_8924602.htm",
+          "https://www.qiyeku.cn/tag/company8e264e-4.html",
+          "https://m.chinapp.com/brand/5361",
+          "https://www.1288.tv/companys/product_330965.html",
+          "https://www.cqn.com.cn/ms/content/2025-07/25/content_9115996.htm",
+          "https://www.ldqxn.com/qynews/article-NDYyNw-1816486.html",
+          "https://www.sundiallawfirm.com/static/upload/file/20220105/1641368322743135.pdf"
+        ],
+        "status": "ok"
+      }
+    ],
+    "summary": "消费保97344817与既有R014同案，本轮索引补到2024-11-19企业宣称已办理退款；2024-09-01自动关闭不是最终可见状态。原单直接读取失败；嘉佑天使投诉属于另一品牌，已排除。",
+    "coverageLimit": "这是公开索引定向抽样和可读原文核验，不等于投诉平台全库或零投诉证明；未据此声称登录查询12315/裁判文书全库。未披露城市、工种、签约主体的记录不能推断为北京育儿嫂；宣传和招聘不作为消费者口碑。",
+    "cases": [
+      {
+        "platform": "消费保",
+        "title": "育天使双语育儿及照护争议（既有R014补后续）",
+        "url": "https://www.xfb315.com/tousu/97344817",
+        "date": "2024-07-17",
+        "city": "公司为北京主体，实际服务城市未明确",
+        "job": "双语育儿嫂",
+        "type": "消费者单方投诉，索引含企业后续",
+        "summary": "用户称中介费19500元、阿姨工资13000元/26天，双语能力和照护表现与宣传不符，并提出婴儿呛奶住院争议。",
+        "response": "搜索索引显示2024-11-19企业修改处理结果，称已经办理完退款。",
+        "resolution": "索引最新后续为企业声明已退款、已解决；此前2024-09-01为平台自动关闭。未核具体到账金额。",
+        "limits": "本轮原单读取失败，只有搜索索引可见进度；医疗因果和投诉事实未经独立核验。本条与既有 R014 是同一来源，合并更新；与小红书 X10 未确认同一订单，企业单方退款声明不能覆盖另一帖子中的消费者异议。",
+        "match": "entity",
+        "relevance": "unclear",
+        "readStatus": "仅搜索索引可读，原单回读失败",
+        "issues": [
+          "能力匹配",
+          "照护安全主张",
+          "退费"
+        ],
+        "existingCaseId": "R014"
+      }
+    ],
+    "excluded": [
+      {
+        "url": "https://tousu.sina.com.cn/complaint/view/17388192840?sld=1a07b580b0f0cc8b1b0ad50968b7145c",
+        "reason": "标题为嘉佑天使，不是育天使，不能因含天使混并。"
+      }
+    ]
+  },
+  {
+    "id": "agency-53",
+    "name": "58到家（58同城运营的当前入口）",
+    "checkedAt": "2026-09-21",
+    "queries": [
+      {
+        "channel": "黑猫投诉公开索引",
+        "query": "site:tousu.sina.com.cn 58到家",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "合并搜索结果中取得该平台链接；逐条核对品牌/主体，回读2026年育儿嫂换人补差价争议，投诉对象58同城客服，系统于3月27日自动完成。实际签约法人及服务城市未披露，不能混为天鹅到家或写成已退款。另有保洁及育儿单索引，未逐单充作独立北京案例。",
+        "resultUrls": [
+          "https://fj.tousu.sina.com.cn/complaint/view/17393575061/?sld=68fe884f385ec02f883731367c9ed373",
+          "https://tousu.sina.com.cn/complaint/view/17396697938?sld=549dd694f273627baab9ed565d1668b3"
+        ],
+        "status": "ok"
+      },
+      {
+        "channel": "消费保公开索引",
+        "query": "site:xfb315.com 58到家",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "合并搜索结果中取得该平台链接；逐条核对品牌/主体，回读2026年育儿嫂换人补差价争议，投诉对象58同城客服，系统于3月27日自动完成。实际签约法人及服务城市未披露，不能混为天鹅到家或写成已退款。另有保洁及育儿单索引，未逐单充作独立北京案例。",
+        "resultUrls": [
+          "https://m.xfb315.com/tousu/100821382",
+          "https://m.xfb315.com/tousu/100200788",
+          "https://m.xfb315.com/tousu/99255027"
+        ],
+        "status": "ok"
+      },
+      {
+        "channel": "投诉/媒体/监管/司法公开网页",
+        "query": "58到家 投诉",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "回读2026年育儿嫂换人补差价争议，投诉对象58同城客服，系统于3月27日自动完成。实际签约法人及服务城市未披露，不能混为天鹅到家或写成已退款。另有保洁及育儿单索引，未逐单充作独立北京案例。",
+        "resultUrls": [
+          "https://daojiajx.58.com/",
+          "https://m.xfb315.com/tousu/100821382",
+          "https://static.58.com/arthurupload/lbg-fe/app/58daojiaapp_information_protection.html",
+          "https://static.58.com/58daojia/jz/vipProtocol.html",
+          "https://m.xfb315.com/tousu/100200788",
+          "https://fj.tousu.sina.com.cn/complaint/view/17393575061/?sld=68fe884f385ec02f883731367c9ed373",
+          "https://m.xfb315.com/tousu/99255027",
+          "https://jingyan.baidu.com/article/11c17a2c2c8739b547e39d72.html",
+          "https://daojiajx.58.com/app/brand/value/brandPic",
+          "https://static.58.com/ds/daojia/intro/daoj.html",
+          "https://tousu.sina.com.cn/complaint/view/17396697938?sld=549dd694f273627baab9ed565d1668b3",
+          "https://static.58.com/ds/other/zhuanti/safeguard.html",
+          "https://imgs-b2b.100ec.cn/zt/24Q1tsbg/img/ts.pdf",
+          "https://www.100ec.cn/zt/24Q1tsbg/img/ts.pdf",
+          "https://www.100ec.cn/zt/2022Q3tsbg/img/ts.pdf",
+          "https://yanqitong.cn/uploads/20260130/418e7a140809d5dd5cefaedbec18e6f8.pdf",
+          "https://ep.shxwcb.com/2025/03/21/img/040321.pdf",
+          "https://zh.wikipedia.org/wiki/58%E5%90%8C%E5%9F%8E",
+          "https://zh.wikipedia.org/wiki/%E5%BF%AB%E7%8B%97%E6%89%93%E8%BD%A6"
+        ],
+        "status": "ok"
+      },
+      {
+        "channel": "别名/精确主体/个案补充公开检索",
+        "query": "\"58同城育儿嫂更换遭刁难\"",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "补充检索人工归属结论：回读2026年育儿嫂换人补差价争议，投诉对象58同城客服，系统于3月27日自动完成。实际签约法人及服务城市未披露，不能混为天鹅到家或写成已退款。另有保洁及育儿单索引，未逐单充作独立北京案例。",
+        "resultUrls": [
+          "https://tousu.sina.com.cn/complaint/view/17393603670?sld=2a69916178f4f9d487172fbf3c7e79d7",
+          "https://www.bjxch.gov.cn/file/20221229/1672278815187073105.pdf",
+          "https://rsj.beijing.gov.cn/bm/ztzl/ssjzlwpp/",
+          "https://sw.beijing.gov.cn/zmhd/dczjj/202306/t20230601_3119537.html",
+          "https://www.chatm.com/log/search?keyword=990024&queryType=3",
+          "https://www.sohu.com/a/1049953639_253235",
+          "https://www.shuididp.cn/yp-dd55d281b4a02bd469efc20f2b5de601.html",
+          "https://m.jiemian.com/article/13669726.html",
+          "https://gongshang.mingluji.com/beijing/shangquan/%E5%8C%97%E4%BA%AC%E5%90%89%E9%87%8E%E5%AE%B6%E5%BF%AB%E9%A4%90%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E7%A3%81%E5%99%A8%E5%8F%A3%E5%BA%97/337",
+          "https://www.sohu.com/a/1035281853_121106842",
+          "https://dzb.xfrb.com.cn/UploadFiles/file/20240129/202401291101206457.pdf",
+          "https://rsj.beijing.gov.cn/xxgk/zfxxgk/zdlygk/sj/202310/P020231010608434877150.pdf",
+          "https://www.bjft.gov.cn/fengtaibao/resfile/2025-01-22/03/ftb-20250122-003.pdf",
+          "https://finance.sina.com.cn/china/gncj/2020-03-09/doc-iimxxstf7678084.shtml",
+          "https://www.sic.gov.cn/sic/82/568/0229/7304.pdf",
+          "https://rsj.beijing.gov.cn/xxgk/zfxxgk/zdlygk/sj/202310/P020231010608880226383.pdf",
+          "https://app.bjtitle.com/8816/newshow.php?did=867950049830928&mood=&newsid=6554754&typeid=107&uid=0"
+        ],
+        "status": "ok"
+      }
+    ],
+    "summary": "回读2026年育儿嫂换人补差价争议，投诉对象58同城客服，系统于3月27日自动完成。实际签约法人及服务城市未披露，不能混为天鹅到家或写成已退款。另有保洁及育儿单索引，未逐单充作独立北京案例。",
+    "coverageLimit": "这是公开索引定向抽样和可读原文核验，不等于投诉平台全库或零投诉证明；未据此声称登录查询12315/裁判文书全库。未披露城市、工种、签约主体的记录不能推断为北京育儿嫂；宣传和招聘不作为消费者口碑。",
+    "cases": [
+      {
+        "platform": "黑猫投诉",
+        "title": "58同城育儿嫂更换补差价争议",
+        "url": "https://tousu.sina.com.cn/complaint/view/17393603670?sld=2a69916178f4f9d487172fbf3c7e79d7",
+        "date": "2026-02-13",
+        "city": "未披露",
+        "job": "育儿嫂",
+        "type": "消费者单方投诉，原页部分内容未展示",
+        "summary": "标题反映免费换人承诺与补差价争议，涉诉3500元，投诉对象为58同城客服。",
+        "response": "可见2月13日、24日、25日客服回复时间；回复正文未公开显示。",
+        "resolution": "2026-03-27因距企业回复30天、用户未操作而自动完成；未核退款。",
+        "limits": "原页未展示投诉详情全文、合同和城市。归当前58客服处理线索，不能证明具体签约法人或指向天鹅；不重复放商家频道。",
+        "match": "brand",
+        "relevance": "unclear",
+        "readStatus": "已读原页标题、对象及处理时间线；正文缺失",
+        "issues": [
+          "换人补差价",
+          "客服沟通"
+        ]
+      }
+    ],
+    "excluded": []
+  },
+  {
+    "id": "agency-54",
+    "name": "京东家政",
+    "checkedAt": "2026-09-21",
+    "queries": [
+      {
+        "channel": "黑猫投诉公开索引",
+        "query": "site:tousu.sina.com.cn 京东家政",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "合并搜索结果中取得该平台链接；逐条核对品牌/主体，消费保保洁预约/地址争议原单显示已退款；黑猫杭州培训工具包争议有京东客服回复但未展示解决结论。均非已确认北京育儿嫂案例；第三方店铺不能泛归京东家政自营。",
+        "resultUrls": [
+          "https://tousu.sina.com.cn/complaint/view/17396081576?sld=bb4eff0cb3817562f5540c25c1533fa6",
+          "https://tousu.sina.com.cn/complaint/view/17381309173?sld=0b622710290d34f8388096658315f62b",
+          "https://sc.tousu.sina.com.cn/?wm=b212"
+        ],
+        "status": "ok"
+      },
+      {
+        "channel": "消费保公开索引",
+        "query": "site:xfb315.com 京东家政",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "合并搜索结果中取得该平台链接；逐条核对品牌/主体，消费保保洁预约/地址争议原单显示已退款；黑猫杭州培训工具包争议有京东客服回复但未展示解决结论。均非已确认北京育儿嫂案例；第三方店铺不能泛归京东家政自营。",
+        "resultUrls": [
+          "https://m.xfb315.com/tousu/97711345",
+          "https://www.xfb365.com/tousu/100902456",
+          "https://m.xfb315.com/brands/tousu_80030",
+          "https://www.xfb365.com/tousu/98896072"
+        ],
+        "status": "ok"
+      },
+      {
+        "channel": "投诉/媒体/监管/司法公开网页",
+        "query": "京东家政 投诉",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "消费保保洁预约/地址争议原单显示已退款；黑猫杭州培训工具包争议有京东客服回复但未展示解决结论。均非已确认北京育儿嫂案例；第三方店铺不能泛归京东家政自营。",
+        "resultUrls": [
+          "https://tousu.sina.com.cn/complaint/view/17396081576?sld=bb4eff0cb3817562f5540c25c1533fa6",
+          "https://m.xfb315.com/tousu/97711345",
+          "https://tousu.sina.com.cn/complaint/view/17381309173?sld=0b622710290d34f8388096658315f62b",
+          "https://apps.apple.com/cn/app/%E4%BA%AC%E5%AE%B6%E6%94%BF/id6569234324",
+          "https://sc.tousu.sina.com.cn/?wm=b212",
+          "https://www.xfb365.com/tousu/100902456",
+          "https://m.xfb315.com/brands/tousu_80030",
+          "https://helpcenter.jd.com/vender/issue/1000-48061.html",
+          "https://helpcenter.jd.com/",
+          "https://help.jd.com/user/custom.html",
+          "https://www.xfb365.com/tousu/98896072",
+          "https://help.jd.com/user/issue/list-450-464.html",
+          "https://ir.jd.com/static-files/26afb5c0-41a8-4d14-b186-2616b9fda67e",
+          "https://ir.jd.com/system/files-encrypted/nasdaq_kms/assets/2025/06/19/15-19-22/2024_jingdongjituanhuanjingshehuijizhilibaogao_.pdf",
+          "https://ir.jd.com/system/files-encrypted/nasdaq_kms/assets/2022/05/30/14-31-40/2021%E5%B9%B4%E4%BA%AC%E4%B8%9C%E9%9B%86%E5%9B%A2%E7%8E%AF%E5%A2%83%E3%80%81%E7%A4%BE%E4%BC%9A%E5%8F%8A%E6%B2%BB%E7%90%86%E6%8A%A5%E5%91%8A.pdf",
+          "https://ir.jd.com/index.php/system/files-encrypted/nasdaq_kms/assets/2021/04/19/2-48-19/2020%E5%B9%B4%E4%BA%AC%E4%B8%9C%E9%9B%86%E5%9B%A2%E7%8E%AF%E5%A2%83%E3%80%81%E7%A4%BE%E4%BC%9A%E5%8F%8A%E7%AE%A1%E6%B2%BB%E6%8A%A5%E5%91%8A.pdf",
+          "https://www1.hkexnews.hk/listedco/listconews/sehk/2025/0425/2025042501745_c.pdf",
+          "https://ir.jd.com/static-files/99686c72-ffeb-4d82-82b2-cbbe80184104"
+        ],
+        "status": "ok"
+      }
+    ],
+    "summary": "消费保保洁预约/地址争议原单显示已退款；黑猫杭州培训工具包争议有京东客服回复但未展示解决结论。均非已确认北京育儿嫂案例；第三方店铺不能泛归京东家政自营。",
+    "coverageLimit": "这是公开索引定向抽样和可读原文核验，不等于投诉平台全库或零投诉证明；未据此声称登录查询12315/裁判文书全库。未披露城市、工种、签约主体的记录不能推断为北京育儿嫂；宣传和招聘不作为消费者口碑。",
+    "cases": [
+      {
+        "platform": "消费保",
+        "title": "京东家政保洁预约地址及未履约争议",
+        "url": "https://m.xfb315.com/tousu/97711345",
+        "date": "2024-10-06（消费日10-04）",
+        "city": "未披露",
+        "job": "保洁",
+        "type": "消费者单方投诉及平台处理标记",
+        "summary": "用户称预约地址变回旧址、服务通知不足、未打扫却自动完成，涉诉149元。",
+        "response": "页面未展示详细企业回复。",
+        "resolution": "页面当前标已退款；未展示具体退款日期和到账明细。",
+        "limits": "投诉对象京东商城、用户称京东家政；合同主体未展示，非育儿嫂服务。",
+        "match": "brand",
+        "relevance": "other-service",
+        "readStatus": "已读原网页",
+        "issues": [
+          "预约信息",
+          "履约",
+          "退款"
+        ]
+      },
+      {
+        "platform": "黑猫投诉",
+        "title": "杭州京东家政培训工具包退款争议",
+        "url": "https://tousu.sina.com.cn/complaint/view/17396081576?sld=bb4eff0cb3817562f5540c25c1533fa6",
+        "date": "2026-04-17",
+        "city": "杭州",
+        "job": "家政培训/工具包",
+        "type": "消费者单方投诉",
+        "summary": "学员称培训需购买450元工具包且工作规则与招聘宣传不同，要求退费。",
+        "response": "2026-04-18京东客服回复，公开抓取未显示回复正文。",
+        "resolution": "页面已回复，未显示退款或实体结论。",
+        "limits": "标题称京东家政（上海），实际为杭州培训；是否属本项目北京签约主体未核。不作为北京雇主育儿服务评价。",
+        "match": "brand",
+        "relevance": "other-service",
+        "readStatus": "已读原网页",
+        "issues": [
+          "培训收费",
+          "招聘承诺"
+        ]
+      }
+    ],
+    "excluded": []
+  },
+  {
+    "id": "agency-55",
+    "name": "58同城北京育儿嫂商家频道",
+    "checkedAt": "2026-09-21",
+    "queries": [
+      {
+        "channel": "黑猫投诉公开索引",
+        "query": "site:tousu.sina.com.cn 58同城 育儿嫂",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "合并搜索结果中取得该平台链接；逐条核对品牌/主体，该项是58商家信息频道而非单一履约机构。检得58同城客服处理的育儿换人争议，统一记在当前58入口agency-53，不重复算频道案例；具体独立商户须按合同主体另查。",
+        "resultUrls": [
+          "https://tousu.sina.com.cn/complaint/view/17393603670?sld=2a69916178f4f9d487172fbf3c7e79d7",
+          "https://tousu.sina.com.cn/complaint/view/17371796923/",
+          "https://tousu.sina.com.cn/complaint/view/17398379777?sld=2fddb773573542088fdaa94a0a0af303"
+        ],
+        "status": "ok"
+      },
+      {
+        "channel": "消费保公开索引",
+        "query": "site:xfb315.com 58同城 育儿嫂",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "本轮该平台定向公开索引未取得可归属个案；搜索不命中不等于没有投诉。",
+        "resultUrls": [],
+        "status": "ok"
+      },
+      {
+        "channel": "投诉/媒体/监管/司法公开网页",
+        "query": "58同城 育儿嫂 投诉",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "该项是58商家信息频道而非单一履约机构。检得58同城客服处理的育儿换人争议，统一记在当前58入口agency-53，不重复算频道案例；具体独立商户须按合同主体另查。",
+        "resultUrls": [
+          "https://tousu.sina.com.cn/complaint/view/17393603670?sld=2a69916178f4f9d487172fbf3c7e79d7",
+          "https://tousu.sina.com.cn/complaint/view/17371796923/",
+          "https://static.zhoudaosh.com/files/cnews/2022/20220630/27370B2047590F5B461394015831F730D31BB660D09B3C0542619A16D08F20FE/6.html",
+          "https://www.qdxin.cn/xin/2026/390396.html",
+          "https://www.58.com/npphytf2552613377/",
+          "https://www.58.com/yuyingshi/",
+          "https://tousu.sina.com.cn/complaint/view/17398379777?sld=2fddb773573542088fdaa94a0a0af303",
+          "https://pages.58.com/daojia2/ayiInfoProtect.html",
+          "https://finance.sina.com.cn/wm/2024-09-06/doc-incnfieh8065928.shtml",
+          "https://news.cqnews.net/1/detail/1226909620898295808/h5/content_1226909620898295808.html",
+          "https://news.qingdaonews.com/wap/2023-03/04/content_23416993.htm",
+          "https://fanqizha.58.com/help/hc_rule.html",
+          "https://paper.people.com.cn/zgcsb/images/2022-02/14/12/zgcsb2022021412.pdf",
+          "https://zh.wikipedia.org/wiki/58%E5%90%8C%E5%9F%8E",
+          "https://scjgj.sc.gov.cn/scjgj/c104529/2024/2/5/616e211a151346f6af4cefaf6255d69c/files/%E7%9C%81%E6%B6%88%E5%A7%942023%E5%B9%B4%E5%BA%A6%E6%B6%88%E8%B4%B9%E8%80%85%E6%8A%95%E8%AF%89%E7%BB%9F%E8%AE%A1%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A-.pdf",
+          "https://www.100ec.cn/zt/202202tsal/img/ts.pdf?v=1.5",
+          "https://www.100ec.cn/zt/202207tsbg/img/tz_1.pdf"
+        ],
+        "status": "ok"
+      }
+    ],
+    "summary": "该项是58商家信息频道而非单一履约机构。检得58同城客服处理的育儿换人争议，统一记在当前58入口agency-53，不重复算频道案例；具体独立商户须按合同主体另查。",
+    "coverageLimit": "这是公开索引定向抽样和可读原文核验，不等于投诉平台全库或零投诉证明；未据此声称登录查询12315/裁判文书全库。未披露城市、工种、签约主体的记录不能推断为北京育儿嫂；宣传和招聘不作为消费者口碑。",
+    "cases": [],
+    "excluded": [
+      {
+        "url": "https://tousu.sina.com.cn/complaint/view/17393603670?sld=2a69916178f4f9d487172fbf3c7e79d7",
+        "reason": "同一58客服处理个案已记agency-53，不在信息频道重复计一宗。"
+      }
+    ]
+  },
+  {
+    "id": "agency-56",
+    "name": "京东商城育儿嫂第三方商家",
+    "checkedAt": "2026-09-21",
+    "queries": [
+      {
+        "channel": "黑猫投诉公开索引",
+        "query": "site:tousu.sina.com.cn \"京东商城 育儿嫂\"",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "合并搜索结果中取得该平台链接；逐条核对品牌/主体，该项为京东第三方育儿嫂商品频道；结果主要是商品页和京东综合投诉，无法归给一个独立家政商家。本轮公开索引未取得可归属的频道级个案，自营京东家政另列。",
+        "resultUrls": [
+          "https://sx.tousu.sina.com.cn/?cid=207071&node_id=207071&oid=5_sewu123",
+          "https://tousu.sina.com.cn/?wm=1010%2F%3Fp%3D%24"
+        ],
+        "status": "ok"
+      },
+      {
+        "channel": "消费保公开索引",
+        "query": "site:xfb315.com \"京东商城 育儿嫂\"",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "本轮该平台定向公开索引未取得可归属个案；搜索不命中不等于没有投诉。",
+        "resultUrls": [],
+        "status": "ok"
+      },
+      {
+        "channel": "投诉/媒体/监管/司法公开网页",
+        "query": "\"京东商城 育儿嫂\" 投诉",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "该项为京东第三方育儿嫂商品频道；结果主要是商品页和京东综合投诉，无法归给一个独立家政商家。本轮公开索引未取得可归属的频道级个案，自营京东家政另列。",
+        "resultUrls": [
+          "https://sx.tousu.sina.com.cn/?cid=207071&node_id=207071&oid=5_sewu123",
+          "https://www.jd.com/chanpin/129212.html",
+          "https://www.jd.com/hotitem/162014c60416d561e44b.html",
+          "https://www.jd.com/chanpin/134080.html",
+          "https://www.jd.com/tupian/159015f08ba414eea01f9.html",
+          "https://www.jd.com/chanpin/469586.html",
+          "https://www.jd.com/chanpin/452278.html",
+          "https://www.jd.com/chanpin/133807.html",
+          "https://tousu.sina.com.cn/?wm=1010%2F%3Fp%3D%24",
+          "https://www.jd.com/chanpin/480426.html"
+        ],
+        "status": "ok"
+      }
+    ],
+    "summary": "该项为京东第三方育儿嫂商品频道；结果主要是商品页和京东综合投诉，无法归给一个独立家政商家。本轮公开索引未取得可归属的频道级个案，自营京东家政另列。",
+    "coverageLimit": "这是公开索引定向抽样和可读原文核验，不等于投诉平台全库或零投诉证明；未据此声称登录查询12315/裁判文书全库。未披露城市、工种、签约主体的记录不能推断为北京育儿嫂；宣传和招聘不作为消费者口碑。",
+    "cases": [],
+    "excluded": []
+  },
+  {
+    "id": "candidate-local-01",
+    "name": "利人家政",
+    "checkedAt": "2026-09-21",
+    "queries": [
+      {
+        "channel": "黑猫投诉公开索引",
+        "query": "site:tousu.sina.com.cn \"利人家政\"",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "本轮该平台定向公开索引未取得可归属个案；搜索不命中不等于没有投诉。",
+        "resultUrls": [],
+        "status": "ok"
+      },
+      {
+        "channel": "消费保公开索引",
+        "query": "site:xfb315.com \"利人家政\"",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "本轮该平台定向公开索引未取得可归属个案；搜索不命中不等于没有投诉。",
+        "resultUrls": [],
+        "status": "ok"
+      },
+      {
+        "channel": "投诉/媒体/监管/司法公开网页",
+        "query": "\"利人家政\" 投诉",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "主要为中国家协企业介绍、招聘和生活服务活动；定州利人家政及陈利人微博与北京机构不同。本轮公开索引未取得可归属个案。",
+        "resultUrls": [
+          "https://www.chsa.com.cn/nd.jsp?_ngc=-1&fromColId=-1&id=862",
+          "https://www.chsa.com.cn/nr.jsp?_np=0_548_46",
+          "https://www.chsa.com.cn/nr.jsp?_np=0_31_38",
+          "https://www.shuididp.cn/yp-31f67709c5218119de846161f1c88701.html",
+          "https://bj.jiazhenggang.com/user/bjjzg26/",
+          "https://www.visitbeijing.com.cn/article/4OzXCrSMgM3",
+          "https://m.zhipin.com/zhaopin/6f5d237bdaf0d5771HVy2di4EQ~~/",
+          "https://news.bjd.com.cn/2025/09/28/11327825.shtml",
+          "https://weibo.com/lirenchen?refer_flag=1005055013_",
+          "https://m.zhipin.com/zhaopin/ee7260d40652b3401n143tW_EQ~~/",
+          "https://www.sjz.gov.cn/columns/8e2f0b12-4574-4ced-b339-bcb378d54b2d/202509/22/f121ce3b-7648-4f45-8716-af25a36cdb1f.html",
+          "https://www.sina.cn/news/detail/5279328675824655.html"
+        ],
+        "status": "ok"
+      }
+    ],
+    "summary": "主要为中国家协企业介绍、招聘和生活服务活动；定州利人家政及陈利人微博与北京机构不同。本轮公开索引未取得可归属个案。",
+    "coverageLimit": "这是公开索引定向抽样和可读原文核验，不等于投诉平台全库或零投诉证明；未据此声称登录查询12315/裁判文书全库。未披露城市、工种、签约主体的记录不能推断为北京育儿嫂；宣传和招聘不作为消费者口碑。",
+    "cases": [],
+    "excluded": [
+      {
+        "url": "https://www.shuididp.cn/yp-31f67709c5218119de846161f1c88701.html",
+        "reason": "定州市利人家政服务有限公司，与北京主体不同。"
+      }
+    ]
+  },
+  {
+    "id": "candidate-local-02",
+    "name": "陈诚家政",
+    "checkedAt": "2026-09-21",
+    "queries": [
+      {
+        "channel": "黑猫投诉公开索引",
+        "query": "site:tousu.sina.com.cn \"陈诚家政\"",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "本轮该平台定向公开索引未取得可归属个案；搜索不命中不等于没有投诉。",
+        "resultUrls": [],
+        "status": "ok"
+      },
+      {
+        "channel": "消费保公开索引",
+        "query": "site:xfb315.com \"陈诚家政\"",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "本轮该平台定向公开索引未取得可归属个案；搜索不命中不等于没有投诉。",
+        "resultUrls": [],
+        "status": "ok"
+      },
+      {
+        "channel": "投诉/媒体/监管/司法公开网页",
+        "query": "\"陈诚家政\" 投诉",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "主要命中协会介绍；“陈诚”作为自然人的康依家养老劳务诉讼不能归入北京陈诚家政公司。本轮公开索引未取得可归属个案。",
+        "resultUrls": [
+          "https://www.chsa.com.cn/nd.jsp?fromColId=129&id=825",
+          "https://www.chsa.com.cn/col.jsp?id=129&m516pageno=1",
+          "https://www.nbebi.com/tel.htm",
+          "https://www.chsa.com.cn/nd.jsp?id=823",
+          "https://www.chsa.com.cn/nr.jsp?_np=0_31_38",
+          "https://www.chsa.com.cn/col.jsp?id=129",
+          "https://zh.wikisource.org/wiki/%E5%8C%97%E4%BA%AC%E5%B8%82%E7%AC%AC%E4%B8%80%E4%B8%AD%E7%BA%A7%E4%BA%BA%E6%B0%91%E6%B3%95%E9%99%A2%EF%BC%882023%EF%BC%89%E4%BA%AC01%E6%B0%91%E7%BB%88144%E5%8F%B7%E6%B0%91%E4%BA%8B%E5%88%A4%E5%86%B3%E4%B9%A6",
+          "https://zh.wikisource.org/zh-hans/%E5%8C%97%E4%BA%AC%E5%B8%82%E7%AC%AC%E4%B8%80%E4%B8%AD%E7%BA%A7%E4%BA%BA%E6%B0%91%E6%B3%95%E9%99%A2%EF%BC%882023%EF%BC%89%E4%BA%AC01%E6%B0%91%E7%BB%88144%E5%8F%B7%E6%B0%91%E4%BA%8B%E5%88%A4%E5%86%B3%E4%B9%A6",
+          "https://www.shuididp.cn/yp-410b11388b6d57452beffafa03ea1e01.html",
+          "https://www.shuididp.cn/yp-dd7ea42569b2634d0d6995187e531301.html",
+          "https://pdf.dfcfw.com/pdf/H3_AP202409141639886175_1.pdf",
+          "https://www.shuididp.cn/yp-923b895d39e92c0bfdbb90b1af3c6e01.html",
+          "https://jiangsu.chinatax.gov.cn/module/download/downfile.jsp?classid=0&filename=b52c042d20a4456fbfe6302377bae18f.pdf",
+          "https://www.shuididp.cn/yp-f8a8fb613a3c15d12160975032c54901.html"
+        ],
+        "status": "ok"
+      }
+    ],
+    "summary": "主要命中协会介绍；“陈诚”作为自然人的康依家养老劳务诉讼不能归入北京陈诚家政公司。本轮公开索引未取得可归属个案。",
+    "coverageLimit": "这是公开索引定向抽样和可读原文核验，不等于投诉平台全库或零投诉证明；未据此声称登录查询12315/裁判文书全库。未披露城市、工种、签约主体的记录不能推断为北京育儿嫂；宣传和招聘不作为消费者口碑。",
+    "cases": [],
+    "excluded": [
+      {
+        "url": "https://zh.wikisource.org/wiki/北京市第一中级人民法院（2023）京01民终144号民事判决书",
+        "reason": "陈诚为自然人，当事机构为康依家养老驿站；不属于北京陈诚家政公司的诉讼。"
+      }
+    ]
+  },
+  {
+    "id": "candidate-local-03",
+    "name": "春和万家",
+    "checkedAt": "2026-09-21",
+    "queries": [
+      {
+        "channel": "黑猫投诉公开索引",
+        "query": "site:tousu.sina.com.cn \"春和万家\"",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "本轮该平台定向公开索引未取得可归属个案；搜索不命中不等于没有投诉。",
+        "resultUrls": [],
+        "status": "ok"
+      },
+      {
+        "channel": "消费保公开索引",
+        "query": "site:xfb315.com \"春和万家\"",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "本轮该平台定向公开索引未取得可归属个案；搜索不命中不等于没有投诉。",
+        "resultUrls": [],
+        "status": "ok"
+      },
+      {
+        "channel": "投诉/媒体/监管/司法公开网页",
+        "query": "\"春和万家\" 投诉",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "检索结果有地图商家线索，但大多为“春和万家欢”文艺活动等词语碰撞。本轮公开索引未取得可归属个案。",
+        "resultUrls": [
+          "https://pyzy.hncourt.gov.cn/public/detail.php?id=15491",
+          "https://map.baidu.com/mobile/webapp/place/list/wd%3D%E5%8F%91%E5%B1%95%E8%B7%AF8%E5%8F%B75%E5%8F%B7%E6%A5%BC%26c%3D131%26qt%3Ds/",
+          "https://jinwanbaoepaper.enorth.com.cn/jwb/resfile/2026-02-04/02/jwb2026020402.pdf",
+          "https://www.sina.cn/news/detail/5262890666035731.html",
+          "https://ctext.org/wiki.pl?chapter=186799&if=gb&remap=gb",
+          "https://epaper.tianjinwe.com/tjrb/resfile/2026-02-04/07/07.pdf",
+          "https://www.taptap.cn/moment/796706135330523062",
+          "https://epaper.cs.com.cn/zgzqb/images/2025-11/19/B002/zqB00219.pdf",
+          "https://news.enorth.com.cn/system/2026/02/04/059129063.shtml",
+          "https://tj.people.com.cn/n2/2026/0204/c408648-41493229.html",
+          "https://www.zhaopin.com/zhaopin/e23ae6c8900e4d76bd4406680f7f59e1/",
+          "https://www.cnxiaoyuan.com/juqing/1812.html"
+        ],
+        "status": "ok"
+      }
+    ],
+    "summary": "检索结果有地图商家线索，但大多为“春和万家欢”文艺活动等词语碰撞。本轮公开索引未取得可归属个案。",
+    "coverageLimit": "这是公开索引定向抽样和可读原文核验，不等于投诉平台全库或零投诉证明；未据此声称登录查询12315/裁判文书全库。未披露城市、工种、签约主体的记录不能推断为北京育儿嫂；宣传和招聘不作为消费者口碑。",
+    "cases": [],
+    "excluded": []
+  },
+  {
+    "id": "candidate-local-04",
+    "name": "神灯阿姨",
+    "checkedAt": "2026-09-21",
+    "queries": [
+      {
+        "channel": "黑猫投诉公开索引",
+        "query": "site:tousu.sina.com.cn \"神灯阿姨\"",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "本轮该平台定向公开索引未取得可归属个案；搜索不命中不等于没有投诉。",
+        "resultUrls": [],
+        "status": "ok"
+      },
+      {
+        "channel": "消费保公开索引",
+        "query": "site:xfb315.com \"神灯阿姨\"",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "本轮该平台定向公开索引未取得可归属个案；搜索不命中不等于没有投诉。",
+        "resultUrls": [],
+        "status": "ok"
+      },
+      {
+        "channel": "投诉/媒体/监管/司法公开网页",
+        "query": "\"神灯阿姨\" 投诉",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "短品牌出现神灯设备、账号昵称及无关社会新闻；补精确法人后仅取得协会企业信息。本轮公开索引未取得可归属个案。",
+        "resultUrls": [
+          "https://www.douyin.com/shipin/7643613680613394472",
+          "https://www.sina.cn/media/7534675177",
+          "https://www.sina.cn/media/5655366406",
+          "https://www.sina.cn/news/detail/5289032766721102.html",
+          "https://yp.jd.com/91921787bb91e93489cd.html",
+          "https://finance.sina.cn/2024-09-22/detail-incpytwy8175920.d.html?cid=76729&node_id=76729&oid=%E4%B8%8A%E6%9E%B6%E8%81%8A%E5%A4%A9%E8%BD%AF%E4%BB%B6%E6%BA%90%E7%A0%81ION%EF%BC%88TG%EF%BC%9Akxkjww%EF%BC%89&vt=4",
+          "https://xueqiu.com/1034624503/384888017",
+          "https://www.sina.cn/media/2166786343",
+          "https://www.jjwxc.net/onebook.php?chapterid=5&novelid=4000487",
+          "https://www.westca.com/Forums/viewtopic/t%3D919800/view%3Dnext/lang%3Dschinese.html",
+          "https://www.weibo.com/u/5818972435"
+        ],
+        "status": "ok"
+      },
+      {
+        "channel": "别名/精确主体/个案补充公开检索",
+        "query": "\"北京神灯阿姨科技有限公司\" 投诉",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "补充检索人工归属结论：短品牌出现神灯设备、账号昵称及无关社会新闻；补精确法人后仅取得协会企业信息。本轮公开索引未取得可归属个案。",
+        "resultUrls": [
+          "https://map.beijing.gov.cn/place?categoryId=yljg&placeId=68f0502c3161b24f39460b71",
+          "https://video.bjchy.gov.cn/vodfiles/992/2015/09/23/cyb/images/2024-04/24/04/04.pdf",
+          "https://rsj.beijing.gov.cn/xxgk/tzgg/202401/t20240129_3548057.html",
+          "https://www.bjhd.gov.cn/ztzx/2020zt/hdqzfgs/dsz_62030/dtxx/zfjggs/xzxk/202110/P020211009334469344126.pdf",
+          "https://www.chsa.com.cn/nr.jsp?_np=0_31_38",
+          "https://www.anyang100.com/beijing/1946080.html",
+          "https://www.ndrc.gov.cn/xwdt/ztzl/jzfwytzkr/zxxd/202008/P020200820648957071954.pdf",
+          "https://fgw.beijing.gov.cn/gzdt/tztg/202301/P020230110612533374214.pdf",
+          "https://www.bjzgh.org/upload/ueditor/uploadfile/202502/20250226/2025022608471740530833341043969.pdf",
+          "https://www.bjie.ac.cn/d/file/xwzx/sxsd/qthd/2024-04-30/c363b72e6b4046bdf74c9bbe56f64a14.pdf",
+          "https://top.qcc.com/tc/e7d27ee3a514.html",
+          "https://ggzyfw.beijing.gov.cn/xycg03/20251226/5397720.html"
+        ],
+        "status": "ok"
+      }
+    ],
+    "summary": "短品牌出现神灯设备、账号昵称及无关社会新闻；补精确法人后仅取得协会企业信息。本轮公开索引未取得可归属个案。",
+    "coverageLimit": "这是公开索引定向抽样和可读原文核验，不等于投诉平台全库或零投诉证明；未据此声称登录查询12315/裁判文书全库。未披露城市、工种、签约主体的记录不能推断为北京育儿嫂；宣传和招聘不作为消费者口碑。",
+    "cases": [],
+    "excluded": []
+  },
+  {
+    "id": "candidate-local-05",
+    "name": "正点家政",
+    "checkedAt": "2026-09-21",
+    "queries": [
+      {
+        "channel": "黑猫投诉公开索引",
+        "query": "site:tousu.sina.com.cn \"正点家政\"",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "本轮该平台定向公开索引未取得可归属个案；搜索不命中不等于没有投诉。",
+        "resultUrls": [],
+        "status": "ok"
+      },
+      {
+        "channel": "消费保公开索引",
+        "query": "site:xfb315.com \"正点家政\"",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "本轮该平台定向公开索引未取得可归属个案；搜索不命中不等于没有投诉。",
+        "resultUrls": [],
+        "status": "ok"
+      },
+      {
+        "channel": "投诉/媒体/监管/司法公开网页",
+        "query": "\"正点家政\" 投诉",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "主要取得员工制家政名单、春节保供、校企合作、商业榜单。名单内的公示监督电话和推广评价不等于投诉记录；本轮公开索引未取得可归属个案。",
+        "resultUrls": [
+          "https://rsj.beijing.gov.cn/xxgk/tzgg/202112/t20211231_2579685.html",
+          "https://sw.beijing.gov.cn/phone/zwxx/tzgg/202401/t20240122_3542390.html",
+          "https://www.beijing.gov.cn/fuwu/lqfw/gggs/202401/t20240122_3542621.html",
+          "https://www.bjhd.gov.cn/ztzx/2020zt/hdqzfgs/dsz_62030/dtxx/zfjggs/xzxk/202110/P020211013546870376336.pdf",
+          "https://sw.beijing.gov.cn/tzgg/202401/t20240131_3550205.html",
+          "https://rsj.beijing.gov.cn/xxgk/tzgg/202312/t20231229_3518883_ext.html",
+          "https://www.chsa.com.cn/nd.jsp?id=59",
+          "https://www.svchr.edu.cn/hlxy/info/1046/1984.htm",
+          "https://m.cityhui.com/shop/17542.html",
+          "https://sw.beijing.gov.cn/tzgg/202303/t20230309_2932793.html",
+          "https://fgw.beijing.gov.cn/gzdt/tztg/202301/P020230110612533374214.pdf",
+          "https://jy.daxing.net/qyzs/190763.jhtml",
+          "https://zyk.bjhd.gov.cn/jbdt/auto4502_51797/auto4502_53178/auto4502/auto4502/202605/t20260512_4814793.shtml",
+          "https://www.bjhd.gov.cn/ztzx/2020zt/hdqzfgs/dsz_62030/dtxx/zfjggs/xzxk/202110/P020211019541054988580.pdf",
+          "https://epaper.huanbohainews.com.cn/tsldrb/pc/attachment/202405/14/278b2ff4-d7fc-4d0f-b08c-22d8309885d5.pdf",
+          "https://www.bjft.gov.cn/fengtaibao/resfile/2025-01-27/04/ftb-20250127-004.pdf"
+        ],
+        "status": "ok"
+      }
+    ],
+    "summary": "主要取得员工制家政名单、春节保供、校企合作、商业榜单。名单内的公示监督电话和推广评价不等于投诉记录；本轮公开索引未取得可归属个案。",
+    "coverageLimit": "这是公开索引定向抽样和可读原文核验，不等于投诉平台全库或零投诉证明；未据此声称登录查询12315/裁判文书全库。未披露城市、工种、签约主体的记录不能推断为北京育儿嫂；宣传和招聘不作为消费者口碑。",
+    "cases": [],
+    "excluded": []
+  },
+  {
+    "id": "candidate-local-06",
+    "name": "家家福宁",
+    "checkedAt": "2026-09-21",
+    "queries": [
+      {
+        "channel": "黑猫投诉公开索引",
+        "query": "site:tousu.sina.com.cn \"家家福宁\"",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "本轮该平台定向公开索引未取得可归属个案；搜索不命中不等于没有投诉。",
+        "resultUrls": [],
+        "status": "ok"
+      },
+      {
+        "channel": "消费保公开索引",
+        "query": "site:xfb315.com \"家家福宁\"",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "本轮该平台定向公开索引未取得可归属个案；搜索不命中不等于没有投诉。",
+        "resultUrls": [],
+        "status": "ok"
+      },
+      {
+        "channel": "投诉/媒体/监管/司法公开网页",
+        "query": "\"家家福宁\" 投诉",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "政府原PDF明确记载2022-10-26北京家家福宁家政有限公司公共场所卫生抽查不合格，已视觉复核表格。未列具体不合格项目、处罚或后续整改；不能据此推断育儿服务事故或当前状况。",
+        "resultUrls": [
+          "https://www.bjxch.gov.cn/file/20221229/1672278815187073105.pdf",
+          "https://sw.beijing.gov.cn/phone/zmhd/dczj/201912/t20191221_1402685.html",
+          "https://sw.beijing.gov.cn/zmhd/dczjj/202306/t20230601_3119537.html",
+          "https://rsj.beijing.gov.cn/xxgk/tzgg/202511/t20251103_4251298.html",
+          "https://data.beijing.gov.cn/dataDetail/sjyl/%E5%8C%97%E4%BA%AC%E5%B8%82%E5%95%86%E5%8A%A1%E5%B1%80/%E6%98%A5%E8%8A%82%E5%AE%B6%E6%94%BF%E6%9C%8D%E5%8A%A1%E5%B8%82%E5%9C%BA%E4%BF%9D%E4%BE%9B%E8%A1%8C%E5%8A%A8%E9%A1%B9%E7%9B%AE%E5%8F%82%E4%B8%8E%E4%BC%81%E4%B8%9A%EF%BC%88%E6%9C%BA%E6%9E%84%EF%BC%89%E5%8F%8A%E7%BB%84%E7%BB%87%E5%8D%95%E4%BD%8D%E4%BF%A1%E6%81%AF/%E6%98%A5%E8%8A%82%E5%AE%B6%E6%94%BF%E6%9C%8D%E5%8A%A1%E5%B8%82%E5%9C%BA%E4%BF%9D%E4%BE%9B%E8%A1%8C%E5%8A%A8%E9%A1%B9%E7%9B%AE%E5%8F%82%E4%B8%8E%E4%BC%81%E4%B8%9A%EF%BC%88%E6%9C%BA%E6%9E%84%EF%BC%89%E5%8F%8A%E7%BB%84%E7%BB%87%E5%8D%95%E4%BD%8D%E4%BF%A1%E6%81%AF.html",
+          "https://sw.beijing.gov.cn/zwxx/swzjzczc/201912/t20191218_1260417.html",
+          "https://sw.beijing.gov.cn/zwxx/swzjzczc/201912/t20191218_1260430.html",
+          "https://www.chatm.com/log/search?keyword=990024&queryType=3",
+          "https://www.cnblogs.com/niuniugailv/p/20408352",
+          "https://rsj.beijing.gov.cn/weimenhu/wmtgz/202511/t20251106_4264127.html",
+          "https://www.cqn.com.cn/ms/content/2026-03/13/content_9148268.htm",
+          "https://biz.tom.com/202101/1587081813.html",
+          "https://www.toohuu.com/release/article22408.htm"
+        ],
+        "status": "ok"
+      },
+      {
+        "channel": "别名/精确主体/个案补充公开检索",
+        "query": "\"家家福宁\" \"不合格\"",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "补充检索人工归属结论：政府原PDF明确记载2022-10-26北京家家福宁家政有限公司公共场所卫生抽查不合格，已视觉复核表格。未列具体不合格项目、处罚或后续整改；不能据此推断育儿服务事故或当前状况。",
+        "resultUrls": [
+          "https://www.bjxch.gov.cn/file/20221229/1672278815187073105.pdf",
+          "https://cd.com.cn/index.php/Home/Index/info/id/543",
+          "https://m.chinapp.net.cn/faxianpinpai/2026/0707/83150.html",
+          "https://ewsdata.rightsindevelopment.org/files/documents/02/ADB-46048-002_t0LtWch.pdf",
+          "https://news.sohu.com/20170614/n497010172.shtml",
+          "https://sd.ifeng.com/cj/caifutouzi/detail_2013_12/23/1627630_1.shtml",
+          "https://www.sohu.com/a/1049932688_122495486",
+          "https://qccdata.qichacha.com/ReportData/PDF/9dd928183c19524ab2a20e8d8e2d6a2f.pdf",
+          "https://www.gonyn.com/report/1306125.html",
+          "https://m.cqn.com.cn/ms/content/2023-03/31/content_8924602.htm",
+          "https://www.qiyeku.cn/tag/company8e264e-4.html",
+          "https://m.chinapp.com/brand/5361",
+          "https://www.1288.tv/companys/product_330965.html",
+          "https://www.cqn.com.cn/ms/content/2025-07/25/content_9115996.htm",
+          "https://www.ldqxn.com/qynews/article-NDYyNw-1816486.html",
+          "https://www.sundiallawfirm.com/static/upload/file/20220105/1641368322743135.pdf"
+        ],
+        "status": "ok"
+      },
+      {
+        "channel": "别名/精确主体/个案补充公开检索",
+        "query": "\"北京家家福宁家政有限公司\" 处罚 整改",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "补充检索人工归属结论：政府原PDF明确记载2022-10-26北京家家福宁家政有限公司公共场所卫生抽查不合格，已视觉复核表格。未列具体不合格项目、处罚或后续整改；不能据此推断育儿服务事故或当前状况。",
+        "resultUrls": [
+          "https://tousu.sina.com.cn/complaint/view/17393603670?sld=2a69916178f4f9d487172fbf3c7e79d7",
+          "https://www.bjxch.gov.cn/file/20221229/1672278815187073105.pdf",
+          "https://rsj.beijing.gov.cn/bm/ztzl/ssjzlwpp/",
+          "https://sw.beijing.gov.cn/zmhd/dczjj/202306/t20230601_3119537.html",
+          "https://www.chatm.com/log/search?keyword=990024&queryType=3",
+          "https://www.sohu.com/a/1049953639_253235",
+          "https://www.shuididp.cn/yp-dd55d281b4a02bd469efc20f2b5de601.html",
+          "https://m.jiemian.com/article/13669726.html",
+          "https://gongshang.mingluji.com/beijing/shangquan/%E5%8C%97%E4%BA%AC%E5%90%89%E9%87%8E%E5%AE%B6%E5%BF%AB%E9%A4%90%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E7%A3%81%E5%99%A8%E5%8F%A3%E5%BA%97/337",
+          "https://www.sohu.com/a/1035281853_121106842",
+          "https://dzb.xfrb.com.cn/UploadFiles/file/20240129/202401291101206457.pdf",
+          "https://rsj.beijing.gov.cn/xxgk/zfxxgk/zdlygk/sj/202310/P020231010608434877150.pdf",
+          "https://www.bjft.gov.cn/fengtaibao/resfile/2025-01-22/03/ftb-20250122-003.pdf",
+          "https://finance.sina.com.cn/china/gncj/2020-03-09/doc-iimxxstf7678084.shtml",
+          "https://www.sic.gov.cn/sic/82/568/0229/7304.pdf",
+          "https://rsj.beijing.gov.cn/xxgk/zfxxgk/zdlygk/sj/202310/P020231010608880226383.pdf",
+          "https://app.bjtitle.com/8816/newshow.php?did=867950049830928&mood=&newsid=6554754&typeid=107&uid=0"
+        ],
+        "status": "ok"
+      }
+    ],
+    "summary": "政府原PDF明确记载2022-10-26北京家家福宁家政有限公司公共场所卫生抽查不合格，已视觉复核表格。未列具体不合格项目、处罚或后续整改；不能据此推断育儿服务事故或当前状况。",
+    "coverageLimit": "这是公开索引定向抽样和可读原文核验，不等于投诉平台全库或零投诉证明；未据此声称登录查询12315/裁判文书全库。未披露城市、工种、签约主体的记录不能推断为北京育儿嫂；宣传和招聘不作为消费者口碑。",
+    "cases": [
+      {
+        "platform": "北京市西城区政府公开PDF",
+        "title": "2022年公共场所卫生抽查不合格",
+        "url": "https://www.bjxch.gov.cn/file/20221229/1672278815187073105.pdf",
+        "date": "2022-10-26（PDF公布于2022-12目录）",
+        "city": "北京",
+        "job": "公共场所卫生监督",
+        "type": "政府监管抽查记录",
+        "summary": "2022年10月北京市卫生健康随机抽查结果PDF第1页第26行：北京家家福宁家政有限公司，公共场所，2022-10-26 16:02，不合格。",
+        "response": "该表无企业答复。",
+        "resolution": "只公开当次检查结果；未列具体项目、处罚决定或整改复查。",
+        "limits": "已下载原PDF、文本提取并视觉复核；这是历史公共场所检查，不能推断育儿护理质量或当前违法。",
+        "match": "entity",
+        "relevance": "other-service",
+        "readStatus": "已读政府原PDF并视觉复核第1页第26行",
+        "issues": [
+          "历史卫生检查"
+        ]
+      }
+    ],
+    "excluded": []
+  },
+  {
+    "id": "candidate-local-07",
+    "name": "妇婴乐",
+    "checkedAt": "2026-09-21",
+    "queries": [
+      {
+        "channel": "黑猫投诉公开索引",
+        "query": "site:tousu.sina.com.cn \"妇婴乐\"",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "本轮该平台定向公开索引未取得可归属个案；搜索不命中不等于没有投诉。",
+        "resultUrls": [],
+        "status": "ok"
+      },
+      {
+        "channel": "消费保公开索引",
+        "query": "site:xfb315.com \"妇婴乐\"",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "本轮该平台定向公开索引未取得可归属个案；搜索不命中不等于没有投诉。",
+        "resultUrls": [],
+        "status": "ok"
+      },
+      {
+        "channel": "投诉/媒体/监管/司法公开网页",
+        "query": "\"妇婴乐\" 投诉",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "取得人社名录、历史连锁资料、分支登记及匿名正向问答；乌鲁木齐同名单位不并入。匿名问答中的换嫂经历缺独立核验，本轮公开索引未取得可归属投诉个案。",
+        "resultUrls": [
+          "https://zhidao.baidu.com/question/321802709.html",
+          "https://www.bjhd.gov.cn/ztzx/2020zt/hdqzfgs/dsz_62030/dtxx/zfjggs/xzxk/202110/P020211013548900927093.pdf",
+          "https://szb.nmgnews.com.cn/bfxb/resfile/2023-12-14/07/bfxb2023121407.pdf",
+          "https://www.wlmq.gov.cn/wlmqs/c119191/202401/6eb3cec61de740e1badaa94c9d3a0b3a/files/20240117190759702.pdf",
+          "https://rsj.beijing.gov.cn/bm/ztzl/ssjzlwpp/202511/t20251103_4251001.html",
+          "https://sw.beijing.gov.cn/sy/nsjg/fwjy/xxtg/201912/P020191220502682848030.pdf",
+          "https://www.inxue.com/school-8009/",
+          "https://www.bjhd.gov.cn/ztzx/2020zt/hdqzfgs/dsz_62030/dtxx/zfjggs/xzxk/202110/P020211009337767317193.pdf",
+          "https://www.wlmq.gov.cn/wlmqs/c119191/202003/84f5675868c04207951b224f120fabef/files/20200313164654900002.pdf",
+          "https://www.ibixue.com/school-8009/",
+          "https://www.octsunshine.com/m/newscon-3111",
+          "https://fgw.beijing.gov.cn/fzggzl/zyhz/gzdt/jjbf/xggz/202608/t20260812_4820195.htm",
+          "https://www.sohu.com/a/399842444_163628",
+          "https://www.szdushi.com.cn/news/1654503190139739.shtml",
+          "https://www.sohu.com/a/342872560_99935108",
+          "https://finance.sina.com.cn/jjxw/2025-11-06/doc-infwmzsx1928789.shtml?froms=ggmp",
+          "https://www.bang.cn/article/276332.html",
+          "https://www.bang.cn/top10/56168.html"
+        ],
+        "status": "ok"
+      }
+    ],
+    "summary": "取得人社名录、历史连锁资料、分支登记及匿名正向问答；乌鲁木齐同名单位不并入。匿名问答中的换嫂经历缺独立核验，本轮公开索引未取得可归属投诉个案。",
+    "coverageLimit": "这是公开索引定向抽样和可读原文核验，不等于投诉平台全库或零投诉证明；未据此声称登录查询12315/裁判文书全库。未披露城市、工种、签约主体的记录不能推断为北京育儿嫂；宣传和招聘不作为消费者口碑。",
+    "cases": [],
+    "excluded": [
+      {
+        "url": "https://zhidao.baidu.com/question/321802709.html",
+        "reason": "匿名正向推荐内含临时更换月嫂经历，无法核验交易；不是可归属投诉平台个案。"
+      }
+    ]
+  },
+  {
+    "id": "new-yijiamei",
+    "name": "北京易家美",
+    "checkedAt": "2026-09-21",
+    "queries": [
+      {
+        "channel": "黑猫投诉公开索引",
+        "query": "site:tousu.sina.com.cn \"北京易家美\"",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "本轮该平台定向公开索引未取得可归属个案；搜索不命中不等于没有投诉。",
+        "resultUrls": [],
+        "status": "ok"
+      },
+      {
+        "channel": "消费保公开索引",
+        "query": "site:xfb315.com \"北京易家美\"",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "本轮该平台定向公开索引未取得可归属个案；搜索不命中不等于没有投诉。",
+        "resultUrls": [],
+        "status": "ok"
+      },
+      {
+        "channel": "投诉/媒体/监管/司法公开网页",
+        "query": "\"北京易家美\" 投诉",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "结果为协会介绍和招聘信息，标题科技公司与正文家政公司仍须核对应关系。本轮公开索引未取得可归属个案。",
+        "resultUrls": [
+          "https://www.chsa.com.cn/nd.jsp?id=725",
+          "https://www.chsa.com.cn/col.jsp?id=129&m516pageno=5",
+          "https://www.zhaopin.com/zhaopin/4cea92a6c333422da7368c72319d99b3/",
+          "https://www.zhaopin.com/zhaopin/defd3ca7f3594f3da570d1ab52167687/",
+          "https://m.yupao.com/s/yp26978338/",
+          "https://m.yupao.com/s/yp32026001/",
+          "https://www.zhaopin.com/zhaopin/445b605b951d47cf8796444ec1d5f748/",
+          "https://m.yupao.com/s/yp36592885/",
+          "https://www.yupao.com/s/yp10726843/",
+          "https://www.zhaopin.com/zhaopin/fa5955a96dfa493f99e4e7824b2e6814/",
+          "https://www.zhaopin.com/zhaopin/e12c120f00af475d82de764f77a9e393/",
+          "https://m.yupao.com/s/yp41453158/"
+        ],
+        "status": "ok"
+      }
+    ],
+    "summary": "结果为协会介绍和招聘信息，标题科技公司与正文家政公司仍须核对应关系。本轮公开索引未取得可归属个案。",
+    "coverageLimit": "这是公开索引定向抽样和可读原文核验，不等于投诉平台全库或零投诉证明；未据此声称登录查询12315/裁判文书全库。未披露城市、工种、签约主体的记录不能推断为北京育儿嫂；宣传和招聘不作为消费者口碑。",
+    "cases": [],
+    "excluded": []
+  },
+  {
+    "id": "new-yilian",
+    "name": "依链家政",
+    "checkedAt": "2026-09-21",
+    "queries": [
+      {
+        "channel": "黑猫投诉公开索引",
+        "query": "site:tousu.sina.com.cn \"依链家政\"",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "本轮该平台定向公开索引未取得可归属个案；搜索不命中不等于没有投诉。",
+        "resultUrls": [],
+        "status": "ok"
+      },
+      {
+        "channel": "消费保公开索引",
+        "query": "site:xfb315.com \"依链家政\"",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "本轮该平台定向公开索引未取得可归属个案；搜索不命中不等于没有投诉。",
+        "resultUrls": [],
+        "status": "ok"
+      },
+      {
+        "channel": "投诉/媒体/监管/司法公开网页",
+        "query": "\"依链家政\" 投诉",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "结果主要是官网、养老照护宣传、政策及招聘；其他地区企业的投诉不能归依链。本轮公开索引未取得可归属个案。",
+        "resultUrls": [
+          "https://www.yljiazheng.com/",
+          "https://www.douyin.com/shipin/7505250472157087778",
+          "https://rsj.beijing.gov.cn/bm/ztzl/ssjzlwpp/",
+          "https://www.chsa.com.cn/nd.jsp?_ngc=-1&fromColId=-1&id=632",
+          "https://www.sohu.com/a/997711513_121106854",
+          "https://finance.sina.com.cn/jjxw/2026-08-18/doc-ininuefi7279905.shtml",
+          "https://www.mofcom.gov.cn/zwgk/zcjd/art/2025/art_cdf3a1fb5c99423189899758d61be0b1.html",
+          "https://www.sznews.com/zhuanti/content/2026-04/30/content_32034598.htm",
+          "https://www.xy12315.cn/",
+          "https://www.dmallplus.com/",
+          "https://scyxs.mofcom.gov.cn/zcfg/art/2026/art_e232d75093ef422a8fb482ae1fe8242e.html"
+        ],
+        "status": "ok"
+      }
+    ],
+    "summary": "结果主要是官网、养老照护宣传、政策及招聘；其他地区企业的投诉不能归依链。本轮公开索引未取得可归属个案。",
+    "coverageLimit": "这是公开索引定向抽样和可读原文核验，不等于投诉平台全库或零投诉证明；未据此声称登录查询12315/裁判文书全库。未披露城市、工种、签约主体的记录不能推断为北京育儿嫂；宣传和招聘不作为消费者口碑。",
+    "cases": [],
+    "excluded": []
+  },
+  {
+    "id": "new-weijiahui",
+    "name": "北京为家汇",
+    "checkedAt": "2026-09-21",
+    "queries": [
+      {
+        "channel": "黑猫投诉公开索引",
+        "query": "site:tousu.sina.com.cn \"北京为家汇\"",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "本轮该平台定向公开索引未取得可归属个案；搜索不命中不等于没有投诉。",
+        "resultUrls": [],
+        "status": "ok"
+      },
+      {
+        "channel": "消费保公开索引",
+        "query": "site:xfb315.com \"北京为家汇\"",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "本轮该平台定向公开索引未取得可归属个案；搜索不命中不等于没有投诉。",
+        "resultUrls": [],
+        "status": "ok"
+      },
+      {
+        "channel": "投诉/媒体/监管/司法公开网页",
+        "query": "\"北京为家汇\" 投诉",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "结果主要是协会介绍、商标及无关文档；本轮公开索引未取得可归属个案。",
+        "resultUrls": [
+          "https://www.chsa.com.cn/nd.jsp?id=696",
+          "https://www.chsa.com.cn/col.jsp?id=129&m516pageno=6",
+          "https://www.chatm.com/log/search?keyword=32378079&queryType=1",
+          "https://www.chsa.com.cn/nd.jsp?fromColId=129&id=698",
+          "https://www.scribd.com/document/753011689/2d7c1590b505427288f47d42230ea2c7",
+          "https://www.kuaidi100.com/network/networkdt79292819349626.htm",
+          "https://www.scribd.com/document/946223108/%E6%99%BA%E6%85%A7%E7%AE%A1%E7%90%86%E6%8C%87%E6%8C%A5%E5%B9%B3%E5%8F%B0-%E4%BA%8C%E6%9C%9F-%E9%A1%B9%E7%9B%AE%E5%88%9D%E6%AD%A5%E8%AE%BE%E8%AE%A1%E5%8F%8A%E6%A6%82%E7%AE%97-%E5%88%9D%E8%AE%BE%E9%80%81%E5%AE%A1%E7%A8%BF-%E4%B8%80%E7%BD%91%E9%80%9A-20210415-Temp",
+          "https://www.scribd.com/document/844385786/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5-People-s-Daily-March-26-2025"
+        ],
+        "status": "ok"
+      }
+    ],
+    "summary": "结果主要是协会介绍、商标及无关文档；本轮公开索引未取得可归属个案。",
+    "coverageLimit": "这是公开索引定向抽样和可读原文核验，不等于投诉平台全库或零投诉证明；未据此声称登录查询12315/裁判文书全库。未披露城市、工种、签约主体的记录不能推断为北京育儿嫂；宣传和招聘不作为消费者口碑。",
+    "cases": [],
+    "excluded": []
+  },
+  {
+    "id": "new-daxi",
+    "name": "北京达喜母婴护理",
+    "checkedAt": "2026-09-21",
+    "queries": [
+      {
+        "channel": "黑猫投诉公开索引",
+        "query": "site:tousu.sina.com.cn \"北京达喜母婴\"",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "本轮该平台定向公开索引未取得可归属个案；搜索不命中不等于没有投诉。",
+        "resultUrls": [],
+        "status": "ok"
+      },
+      {
+        "channel": "消费保公开索引",
+        "query": "site:xfb315.com \"北京达喜母婴\"",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "本轮该平台定向公开索引未取得可归属个案；搜索不命中不等于没有投诉。",
+        "resultUrls": [],
+        "status": "ok"
+      },
+      {
+        "channel": "投诉/媒体/监管/司法公开网页",
+        "query": "\"北京达喜母婴\" 投诉",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "取得协会会员条目和少量名称相似的零售/企业结果，未形成可核消费者记录。本轮公开索引未取得可归属个案。",
+        "resultUrls": [
+          "https://www.chsa.com.cn/nr.jsp?_np=0_31_76",
+          "https://www.chsa.com.cn/nd.jsp?fromColId=129&id=691",
+          "https://www.chsa.com.cn/col.jsp?id=132",
+          "https://www.chsa.com.cn/col.jsp?id=129&m516pageno=7",
+          "https://www.chsa.com.cn/col.jsp?id=132&m552pageno=2",
+          "https://www.chsa.com.cn/nd.jsp?fromColId=129&id=692",
+          "https://creditcard.cmbc.com.cn/tyglweb/active/wap/wonderful/active/bfblj51/bfblj51.pdf",
+          "https://m.zhipin.com/companys/72b50d42df59172403J-2dS1E1A~.html",
+          "https://scjgj.sc.gov.cn/scjgj/c104536/2020/12/17/4fd2de715f9e48d7ac183f3e7267e293/files/7a87acb6476047d498c18b79f647b47b.pdf"
+        ],
+        "status": "ok"
+      }
+    ],
+    "summary": "取得协会会员条目和少量名称相似的零售/企业结果，未形成可核消费者记录。本轮公开索引未取得可归属个案。",
+    "coverageLimit": "这是公开索引定向抽样和可读原文核验，不等于投诉平台全库或零投诉证明；未据此声称登录查询12315/裁判文书全库。未披露城市、工种、签约主体的记录不能推断为北京育儿嫂；宣传和招聘不作为消费者口碑。",
+    "cases": [],
+    "excluded": []
+  },
+  {
+    "id": "new-aibaobei",
+    "name": "爱宝蓓 / 北京爱月宝",
+    "checkedAt": "2026-09-21",
+    "queries": [
+      {
+        "channel": "黑猫投诉公开索引",
+        "query": "site:tousu.sina.com.cn 爱宝蓓 北京爱月宝",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "本轮该平台定向公开索引未取得可归属个案；搜索不命中不等于没有投诉。",
+        "resultUrls": [],
+        "status": "ok"
+      },
+      {
+        "channel": "消费保公开索引",
+        "query": "site:xfb315.com 爱宝蓓 北京爱月宝",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "本轮该平台定向公开索引未取得可归属个案；搜索不命中不等于没有投诉。",
+        "resultUrls": [],
+        "status": "ok"
+      },
+      {
+        "channel": "投诉/媒体/监管/司法公开网页",
+        "query": "爱宝蓓 北京爱月宝 投诉",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "北京爱月宝/爱宝蓓命中协会介绍、培训销售和大量选型推广；全国加盟门店不能直接汇总到北京爱宝蓓。本轮公开索引未取得可归属个案。",
+        "resultUrls": [
+          "https://www.chsa.com.cn/nd.jsp?id=675",
+          "https://www.hezegd.com/brand/article/66503.html",
+          "https://www.bjjubao.org.cn/2026-05/19/content_48643.html",
+          "https://banshi.beijing.gov.cn/",
+          "https://www.hezegd.com/brand/article/72078.html",
+          "https://www.10huan.com/fenlei/article/124171.html",
+          "https://m.jiaoyubao.cn/bj/edu/bjayb/",
+          "https://www.jiaodong.net/px/j_1e4fe/intro/",
+          "https://www.ldqxn.com/qiye/article/14764.html",
+          "https://www.jiaodong.net/px/j_1e4fe/pic/",
+          "https://www.bjjubao.org.cn/",
+          "https://scjgj.beijing.gov.cn/zwxx/gs/202509/P020250924588268999418.pdf"
+        ],
+        "status": "ok"
+      }
+    ],
+    "summary": "北京爱月宝/爱宝蓓命中协会介绍、培训销售和大量选型推广；全国加盟门店不能直接汇总到北京爱宝蓓。本轮公开索引未取得可归属个案。",
+    "coverageLimit": "这是公开索引定向抽样和可读原文核验，不等于投诉平台全库或零投诉证明；未据此声称登录查询12315/裁判文书全库。未披露城市、工种、签约主体的记录不能推断为北京育儿嫂；宣传和招聘不作为消费者口碑。",
+    "cases": [],
+    "excluded": []
+  },
+  {
+    "id": "new-aijiali",
+    "name": "爱嘉里家政",
+    "checkedAt": "2026-09-21",
+    "queries": [
+      {
+        "channel": "黑猫投诉公开索引",
+        "query": "site:tousu.sina.com.cn 爱嘉里家政",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "本轮该平台定向公开索引未取得可归属个案；搜索不命中不等于没有投诉。",
+        "resultUrls": [],
+        "status": "ok"
+      },
+      {
+        "channel": "消费保公开索引",
+        "query": "site:xfb315.com 爱嘉里家政",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "合并搜索结果中取得该平台链接；逐条核对品牌/主体，检得服务商品页；搜索返回的爱侬及佳禾投诉不是爱嘉里，均排除。本轮公开索引未取得可归属个案，精确签约法人仍不清晰。",
+        "resultUrls": [
+          "https://www.xfb365.com/tousu/101905489"
+        ],
+        "status": "ok"
+      },
+      {
+        "channel": "投诉/媒体/监管/司法公开网页",
+        "query": "爱嘉里家政 投诉",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "检得服务商品页；搜索返回的爱侬及佳禾投诉不是爱嘉里，均排除。本轮公开索引未取得可归属个案，精确签约法人仍不清晰。",
+        "resultUrls": [
+          "https://g.apps.cn/detail?CNtag=%E4%BF%9D%E5%A7%86%E6%9C%88%E5%AB%82&detailId=2680837",
+          "https://shuidi.cn/company-9b4097621254bddd56551daaad455401.html",
+          "https://zwfw.jinan.gov.cn/col/col125392/art/2026/art_b4127ffd72c94efeba71d8506a99b871.html",
+          "https://ynjzpt.com/",
+          "https://www.315online.com/tousu/other/217984.html",
+          "https://www.ayilaile.com/help/promise",
+          "https://www.xfb365.com/tousu/101905489",
+          "https://zwdt.sh.gov.cn/govPortals/bsfw/item/a2587dc4-c383-4395-8f44-6b672740f3cf",
+          "https://www.ainong.cn/onlineServer.shtml",
+          "https://www.ayilaile.com/help/faq",
+          "https://www.huilinda.com.cn/",
+          "https://scjgj.changzhou.gov.cn/class/JBOBKIDN?a=info&c=index&dataid=52640&m=formguide&t=tsgs",
+          "https://qccdata.qichacha.com/ReportData/PDF/6f38315208899623c65cf94a92e86cd1.pdf"
+        ],
+        "status": "ok"
+      }
+    ],
+    "summary": "检得服务商品页；搜索返回的爱侬及佳禾投诉不是爱嘉里，均排除。本轮公开索引未取得可归属个案，精确签约法人仍不清晰。",
+    "coverageLimit": "这是公开索引定向抽样和可读原文核验，不等于投诉平台全库或零投诉证明；未据此声称登录查询12315/裁判文书全库。未披露城市、工种、签约主体的记录不能推断为北京育儿嫂；宣传和招聘不作为消费者口碑。",
+    "cases": [],
+    "excluded": [
+      {
+        "url": "https://www.315online.com/tousu/other/217984.html",
+        "reason": "爱侬西直门投诉不是爱嘉里。"
+      },
+      {
+        "url": "https://www.xfb365.com/tousu/101905489",
+        "reason": "佳禾家政培训投诉不是爱嘉里。"
+      }
+    ]
+  },
+  {
+    "id": "new-ejiabang",
+    "name": "e家帮",
+    "checkedAt": "2026-09-21",
+    "queries": [
+      {
+        "channel": "黑猫投诉公开索引",
+        "query": "site:tousu.sina.com.cn e家帮",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "本轮该平台定向公开索引未取得可归属个案；搜索不命中不等于没有投诉。",
+        "resultUrls": [],
+        "status": "ok"
+      },
+      {
+        "channel": "消费保公开索引",
+        "query": "site:xfb315.com e家帮",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "本轮该平台定向公开索引未取得可归属个案；搜索不命中不等于没有投诉。",
+        "resultUrls": [],
+        "status": "ok"
+      },
+      {
+        "channel": "投诉/媒体/监管/司法公开网页",
+        "query": "e家帮 投诉",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "命中官网FAQ、用户协议、意见反馈入口和应用页；出现投诉联系方式不等于实际投诉。本轮公开索引未取得可归属个案，北京履约主体仍不明。",
+        "resultUrls": [
+          "https://apps.apple.com/cn/app/e%E5%AE%B6%E5%B8%AE%E5%AE%B6%E6%94%BF%E6%9C%8D%E5%8A%A1/id1095223739",
+          "https://www.ejbang.com/website/question.jsp",
+          "https://ejbang.com/website/suggest.jsp",
+          "https://12389.mps.gov.cn/",
+          "https://ejbang.com/",
+          "https://www.ejbang.com/index.html",
+          "https://www.ejbang.com/about.html",
+          "https://ejbang.com/website/clause.jsp",
+          "https://www.ejbang.com/weixin/agreement.html",
+          "https://ejbang.com/worker_apply.html",
+          "https://www.mumudroid.com/detail/4374.html",
+          "https://pitchhub.36kr.com/project/1678209904636928",
+          "https://cmsweb.aegonthtf.com/upload/jfimg/2024-13/8bcf706a47c34626b0ac2a30d4bab801.pdf"
+        ],
+        "status": "ok"
+      }
+    ],
+    "summary": "命中官网FAQ、用户协议、意见反馈入口和应用页；出现投诉联系方式不等于实际投诉。本轮公开索引未取得可归属个案，北京履约主体仍不明。",
+    "coverageLimit": "这是公开索引定向抽样和可读原文核验，不等于投诉平台全库或零投诉证明；未据此声称登录查询12315/裁判文书全库。未披露城市、工种、签约主体的记录不能推断为北京育儿嫂；宣传和招聘不作为消费者口碑。",
+    "cases": [],
+    "excluded": []
+  },
+  {
+    "id": "new-youbaobei",
+    "name": "北京优宝贝国际家政",
+    "checkedAt": "2026-09-21",
+    "queries": [
+      {
+        "channel": "黑猫投诉公开索引",
+        "query": "site:tousu.sina.com.cn \"北京优宝贝\"",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "本轮该平台定向公开索引未取得可归属个案；搜索不命中不等于没有投诉。",
+        "resultUrls": [],
+        "status": "ok"
+      },
+      {
+        "channel": "消费保公开索引",
+        "query": "site:xfb315.com \"北京优宝贝\"",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "本轮该平台定向公开索引未取得可归属个案；搜索不命中不等于没有投诉。",
+        "resultUrls": [],
+        "status": "ok"
+      },
+      {
+        "channel": "投诉/媒体/监管/司法公开网页",
+        "query": "\"北京优宝贝\" 投诉",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "追加完整法人及黑猫定向仍未返回新的可归属索引，保留既有两条具名培训退款记录但本轮原单回读失败，不能冒称刷新了处理状态。优优宝贝教育的租赁判决属于不同法人，已排除。",
+        "resultUrls": [
+          "https://cn.govopendata.com/caipanwenshu/2014/9/18/c2770dc5-9398-45cd-8753-dfb7a4be4b85/",
+          "https://cn.govopendata.com/caipanwenshu/2013/8/14/f4628101-61cc-413e-9bf2-5fa1d9354636/",
+          "https://interview.mofcom.gov.cn/mofcom_interview/front/advice/list?mofcom_no=336",
+          "https://www.megbook.com.hk/mall/detail.jsp?proID=2557843",
+          "https://wjyt.smartinfo.cn/about/council",
+          "https://www.safe.gov.cn/beijing/file/file/20201027/deb601db40e544ef9115fe242ea244f0.pdf",
+          "https://m.xiuxianshipin.com.cn/jm/400/",
+          "https://www.maigoo.com/brand/29664.html"
+        ],
+        "status": "ok"
+      },
+      {
+        "channel": "别名/精确主体/个案补充公开检索",
+        "query": "\"北京优宝贝国际家政服务有限公司\" 投诉",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "补充检索人工归属结论：追加完整法人及黑猫定向仍未返回新的可归属索引，保留既有两条具名培训退款记录但本轮原单回读失败，不能冒称刷新了处理状态。优优宝贝教育的租赁判决属于不同法人，已排除。",
+        "resultUrls": [
+          "https://map.beijing.gov.cn/place?categoryId=yljg&placeId=68f0502c3161b24f39460b71",
+          "https://video.bjchy.gov.cn/vodfiles/992/2015/09/23/cyb/images/2024-04/24/04/04.pdf",
+          "https://rsj.beijing.gov.cn/xxgk/tzgg/202401/t20240129_3548057.html",
+          "https://www.bjhd.gov.cn/ztzx/2020zt/hdqzfgs/dsz_62030/dtxx/zfjggs/xzxk/202110/P020211009334469344126.pdf",
+          "https://www.chsa.com.cn/nr.jsp?_np=0_31_38",
+          "https://www.anyang100.com/beijing/1946080.html",
+          "https://www.ndrc.gov.cn/xwdt/ztzl/jzfwytzkr/zxxd/202008/P020200820648957071954.pdf",
+          "https://fgw.beijing.gov.cn/gzdt/tztg/202301/P020230110612533374214.pdf",
+          "https://www.bjzgh.org/upload/ueditor/uploadfile/202502/20250226/2025022608471740530833341043969.pdf",
+          "https://www.bjie.ac.cn/d/file/xwzx/sxsd/qthd/2024-04-30/c363b72e6b4046bdf74c9bbe56f64a14.pdf",
+          "https://top.qcc.com/tc/e7d27ee3a514.html",
+          "https://ggzyfw.beijing.gov.cn/xycg03/20251226/5397720.html"
+        ],
+        "status": "ok"
+      },
+      {
+        "channel": "别名/精确主体/个案补充公开检索",
+        "query": "site:tousu.sina.com.cn \"优宝贝\" 家政",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "补充检索人工归属结论：追加完整法人及黑猫定向仍未返回新的可归属索引，保留既有两条具名培训退款记录但本轮原单回读失败，不能冒称刷新了处理状态。优优宝贝教育的租赁判决属于不同法人，已排除。",
+        "resultUrls": [
+          "https://www.bjxch.gov.cn/file/20221229/1672278815187073105.pdf",
+          "https://cd.com.cn/index.php/Home/Index/info/id/543",
+          "https://m.chinapp.net.cn/faxianpinpai/2026/0707/83150.html",
+          "https://ewsdata.rightsindevelopment.org/files/documents/02/ADB-46048-002_t0LtWch.pdf",
+          "https://news.sohu.com/20170614/n497010172.shtml",
+          "https://sd.ifeng.com/cj/caifutouzi/detail_2013_12/23/1627630_1.shtml",
+          "https://www.sohu.com/a/1049932688_122495486",
+          "https://qccdata.qichacha.com/ReportData/PDF/9dd928183c19524ab2a20e8d8e2d6a2f.pdf",
+          "https://www.gonyn.com/report/1306125.html",
+          "https://m.cqn.com.cn/ms/content/2023-03/31/content_8924602.htm",
+          "https://www.qiyeku.cn/tag/company8e264e-4.html",
+          "https://m.chinapp.com/brand/5361",
+          "https://www.1288.tv/companys/product_330965.html",
+          "https://www.cqn.com.cn/ms/content/2025-07/25/content_9115996.htm",
+          "https://www.ldqxn.com/qynews/article-NDYyNw-1816486.html",
+          "https://www.sundiallawfirm.com/static/upload/file/20220105/1641368322743135.pdf"
+        ],
+        "status": "ok"
+      },
+      {
+        "channel": "别名/精确主体/个案补充公开检索",
+        "query": "\"北京优宝贝国际家政\" 黑猫",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "补充检索人工归属结论：追加完整法人及黑猫定向仍未返回新的可归属索引，保留既有两条具名培训退款记录但本轮原单回读失败，不能冒称刷新了处理状态。优优宝贝教育的租赁判决属于不同法人，已排除。",
+        "resultUrls": [
+          "https://tousu.sina.com.cn/complaint/view/17393603670?sld=2a69916178f4f9d487172fbf3c7e79d7",
+          "https://www.bjxch.gov.cn/file/20221229/1672278815187073105.pdf",
+          "https://rsj.beijing.gov.cn/bm/ztzl/ssjzlwpp/",
+          "https://sw.beijing.gov.cn/zmhd/dczjj/202306/t20230601_3119537.html",
+          "https://www.chatm.com/log/search?keyword=990024&queryType=3",
+          "https://www.sohu.com/a/1049953639_253235",
+          "https://www.shuididp.cn/yp-dd55d281b4a02bd469efc20f2b5de601.html",
+          "https://m.jiemian.com/article/13669726.html",
+          "https://gongshang.mingluji.com/beijing/shangquan/%E5%8C%97%E4%BA%AC%E5%90%89%E9%87%8E%E5%AE%B6%E5%BF%AB%E9%A4%90%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E7%A3%81%E5%99%A8%E5%8F%A3%E5%BA%97/337",
+          "https://www.sohu.com/a/1035281853_121106842",
+          "https://dzb.xfrb.com.cn/UploadFiles/file/20240129/202401291101206457.pdf",
+          "https://rsj.beijing.gov.cn/xxgk/zfxxgk/zdlygk/sj/202310/P020231010608434877150.pdf",
+          "https://www.bjft.gov.cn/fengtaibao/resfile/2025-01-22/03/ftb-20250122-003.pdf",
+          "https://finance.sina.com.cn/china/gncj/2020-03-09/doc-iimxxstf7678084.shtml",
+          "https://www.sic.gov.cn/sic/82/568/0229/7304.pdf",
+          "https://rsj.beijing.gov.cn/xxgk/zfxxgk/zdlygk/sj/202310/P020231010608880226383.pdf",
+          "https://app.bjtitle.com/8816/newshow.php?did=867950049830928&mood=&newsid=6554754&typeid=107&uid=0"
+        ],
+        "status": "ok"
+      }
+    ],
+    "summary": "追加完整法人及黑猫定向仍未返回新的可归属索引，保留既有两条具名培训退款记录但本轮原单回读失败，不能冒称刷新了处理状态。优优宝贝教育的租赁判决属于不同法人，已排除。",
+    "coverageLimit": "这是公开索引定向抽样和可读原文核验，不等于投诉平台全库或零投诉证明；未据此声称登录查询12315/裁判文书全库。未披露城市、工种、签约主体的记录不能推断为北京育儿嫂；宣传和招聘不作为消费者口碑。",
+    "cases": [
+      {
+        "platform": "黑猫投诉",
+        "title": "培训收费与退款争议（既有R017）",
+        "url": "https://tousu.sina.cn/complaint/view/17381183349?sld=eb3fdbdb97ac8db01811032b201c9fbd",
+        "date": "2025-03-23",
+        "city": "北京主体，交易地点未明确",
+        "job": "培训/招合伙人，非雇主育儿嫂",
+        "type": "培训收费与退款争议",
+        "summary": "投诉者称家人经网络招募缴纳培训和工位相关费用合计6780元，申请退款未获同意。",
+        "response": "本轮未取得新企业答复。",
+        "resolution": "页面显示待分配商家、商家匹配失败；未见退款证据。",
+        "limits": "单方陈述，没有可核验的裁判或商家回复，不可写成已认定诈骗或育儿服务退费失败。 本轮原页面及替代读取均失败；原有状态尚未刷新。",
+        "match": "entity",
+        "relevance": "other-service",
+        "readStatus": "既有证据，本轮回读失败",
+        "issues": [
+          "培训",
+          "退费"
+        ]
+      },
+      {
+        "platform": "黑猫投诉",
+        "title": "培训宣传与退费争议（既有R018）",
+        "url": "https://tousu.sina.com.cn/complaint/view/17381548714?sld=73664d0336f47572856c26704ac6125a",
+        "date": "2025-04-03",
+        "city": "北京朝阳",
+        "job": "高级护理员培训，非雇主育儿嫂",
+        "type": "培训宣传与退费争议",
+        "summary": "投诉者就2370元培训费用申请退款，称报名后的培训/住宿安排和沟通体验与预期不符。",
+        "response": "本轮未取得新企业答复。",
+        "resolution": "待分配商家；未见办结或退款回执，部分补充内容隐藏。",
+        "limits": "投诉指向本公司全称，但属于学员培训经历；不推断所有阿姨服务质量。 本轮原页面及替代读取均失败；原有状态尚未刷新。",
+        "match": "entity",
+        "relevance": "other-service",
+        "readStatus": "既有证据，本轮回读失败",
+        "issues": [
+          "培训",
+          "退费"
+        ]
+      }
+    ],
+    "excluded": [
+      {
+        "url": "https://cn.govopendata.com/caipanwenshu/2014/9/18/c2770dc5-9398-45cd-8753-dfb7a4be4b85/",
+        "reason": "判决为北京优优宝贝教育咨询有限公司租赁纠纷，不是北京优宝贝国际家政。"
+      }
+    ]
+  },
+  {
+    "id": "new-platform-01",
+    "name": "晞悦嘉贝",
+    "checkedAt": "2026-09-21",
+    "queries": [
+      {
+        "channel": "黑猫投诉公开索引",
+        "query": "site:tousu.sina.com.cn \"晞悦嘉贝\"",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "本轮该平台定向公开索引未取得可归属个案；搜索不命中不等于没有投诉。",
+        "resultUrls": [],
+        "status": "ok"
+      },
+      {
+        "channel": "消费保公开索引",
+        "query": "site:xfb315.com \"晞悦嘉贝\"",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "本轮该平台定向公开索引未取得可归属个案；搜索不命中不等于没有投诉。",
+        "resultUrls": [],
+        "status": "ok"
+      },
+      {
+        "channel": "投诉/媒体/监管/司法公开网页",
+        "query": "\"晞悦嘉贝\" 投诉",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "命中京东服务商品、分公司工商摘录及人社品牌名录，未见可归属消费个案；商品频道信息不是第三方履约质量验证。",
+        "resultUrls": [
+          "https://www.jd.com/hprm/17138cbbc56d1be9d9f9.html?electedExtAttrSet=878%2C&extAttrValue=expand_name%2C%40300103%3A%3A878&sort_type=sort_default",
+          "https://www.shuididp.cn/yp-33e899bee82db27a59c793087f7f8701.html",
+          "https://www.jd.com/hprm/17138cbbc56d1be9d9f9.html?electedExtAttrSet=878%2C&extAttrValue=expand_name%2C%4095925%3A%3A878&sort_type=sort_default",
+          "https://www.jd.com/jiage/1319265b3d55e167fa35.html?brand=%E6%99%9E%E6%82%A6%E5%98%89%E8%B4%9D&electedExtAttrSet=&extAttrValue=expand_name%2C&sort_type=sort_default",
+          "https://cj.sina.com.cn/articles/view/1893892941/70e2834d02001v4bs?froms=ggmp",
+          "https://www.jd.com/jiage/162095844b79edd567c4.html?electedExtAttrSet=878%2C&extAttrValue=expand_name%2C%4098534%3A%3A878&sort_type=sort_default",
+          "https://m.douyin.com/qishui/playlist/7480017508439787559",
+          "https://www.jd.com/jiage/9847192bc4439a02f060.html?electedExtAttrSet=878%2C&extAttrValue=expand_name%2C%4095924%3A%3A878&sort_type=sort_default"
+        ],
+        "status": "ok"
+      }
+    ],
+    "summary": "命中京东服务商品、分公司工商摘录及人社品牌名录，未见可归属消费个案；商品频道信息不是第三方履约质量验证。",
+    "coverageLimit": "这是公开索引定向抽样和可读原文核验，不等于投诉平台全库或零投诉证明；未据此声称登录查询12315/裁判文书全库。未披露城市、工种、签约主体的记录不能推断为北京育儿嫂；宣传和招聘不作为消费者口碑。",
+    "cases": [],
+    "excluded": []
+  },
+  {
+    "id": "new-platform-02",
+    "name": "沪上睿知",
+    "checkedAt": "2026-09-21",
+    "queries": [
+      {
+        "channel": "黑猫投诉公开索引",
+        "query": "site:tousu.sina.com.cn \"沪上睿知\"",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "本轮该平台定向公开索引未取得可归属个案；搜索不命中不等于没有投诉。",
+        "resultUrls": [],
+        "status": "ok"
+      },
+      {
+        "channel": "消费保公开索引",
+        "query": "site:xfb315.com \"沪上睿知\"",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "本轮该平台定向公开索引未取得可归属个案；搜索不命中不等于没有投诉。",
+        "resultUrls": [],
+        "status": "ok"
+      },
+      {
+        "channel": "投诉/媒体/监管/司法公开网页",
+        "query": "\"沪上睿知\" 投诉",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "命中沪上睿知招聘和京东商品页，本轮公开索引未取得可归属个案；上海主体与北京实际履约仍需对合同。",
+        "resultUrls": [
+          "https://www.tuiyirencai.com/job/index.php?c=comapply&id=4077",
+          "https://www.jd.com/jiage/1524870505626e2120e78.html",
+          "https://www.zhipin.com/zhaopin/45cf24528032b3441nZ73NS4FQ~~/",
+          "https://job.138job.com/8087453",
+          "https://jd.veryeast.cn/sh/jiaotongyunshu/",
+          "https://www.jd.com/jiage/6703647bc687b132f15.html",
+          "https://www.jd.com/hprm/17138cbbc56d1be9d9f9.html?electedExtAttrSet=878%2C&extAttrValue=expand_name%2C%40300103%3A%3A878&sort_type=sort_default",
+          "https://job.138job.com/8087453/2814268",
+          "https://www.jd.com/xinghao/6703647bc687b132f15.html",
+          "https://m.yupao.com/s/yp15614891/",
+          "https://m.yupao.com/s/yp14983483/",
+          "https://www.zhipin.com/zhaopin/49f14ffcf1b41d601Xx73t21Ew~~/"
+        ],
+        "status": "ok"
+      }
+    ],
+    "summary": "命中沪上睿知招聘和京东商品页，本轮公开索引未取得可归属个案；上海主体与北京实际履约仍需对合同。",
+    "coverageLimit": "这是公开索引定向抽样和可读原文核验，不等于投诉平台全库或零投诉证明；未据此声称登录查询12315/裁判文书全库。未披露城市、工种、签约主体的记录不能推断为北京育儿嫂；宣传和招聘不作为消费者口碑。",
+    "cases": [],
+    "excluded": []
+  },
+  {
+    "id": "new-platform-03",
+    "name": "京南领航",
+    "checkedAt": "2026-09-21",
+    "queries": [
+      {
+        "channel": "黑猫投诉公开索引",
+        "query": "site:tousu.sina.com.cn \"京南领航\"",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "本轮该平台定向公开索引未取得可归属个案；搜索不命中不等于没有投诉。",
+        "resultUrls": [],
+        "status": "ok"
+      },
+      {
+        "channel": "消费保公开索引",
+        "query": "site:xfb315.com \"京南领航\"",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "本轮该平台定向公开索引未取得可归属个案；搜索不命中不等于没有投诉。",
+        "resultUrls": [],
+        "status": "ok"
+      },
+      {
+        "channel": "投诉/媒体/监管/司法公开网页",
+        "query": "\"京南领航\" 投诉",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "搜索结果集中58服务广告，没有可归属投诉处理记录；本轮公开索引未取得可归属个案。",
+        "resultUrls": [
+          "https://www.58.com/npphy202212047318/",
+          "https://www.58.com/npphy202212044325/",
+          "https://www.58.com/npphyjm202208022174/",
+          "https://www.58.com/npphy202212046775/"
+        ],
+        "status": "ok"
+      }
+    ],
+    "summary": "搜索结果集中58服务广告，没有可归属投诉处理记录；本轮公开索引未取得可归属个案。",
+    "coverageLimit": "这是公开索引定向抽样和可读原文核验，不等于投诉平台全库或零投诉证明；未据此声称登录查询12315/裁判文书全库。未披露城市、工种、签约主体的记录不能推断为北京育儿嫂；宣传和招聘不作为消费者口碑。",
+    "cases": [],
+    "excluded": []
+  },
+  {
+    "id": "new-platform-04",
+    "name": "益友嘉",
+    "checkedAt": "2026-09-21",
+    "queries": [
+      {
+        "channel": "黑猫投诉公开索引",
+        "query": "site:tousu.sina.com.cn \"益友嘉\"",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "本轮该平台定向公开索引未取得可归属个案；搜索不命中不等于没有投诉。",
+        "resultUrls": [],
+        "status": "ok"
+      },
+      {
+        "channel": "消费保公开索引",
+        "query": "site:xfb315.com \"益友嘉\"",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "本轮该平台定向公开索引未取得可归属个案；搜索不命中不等于没有投诉。",
+        "resultUrls": [],
+        "status": "ok"
+      },
+      {
+        "channel": "投诉/媒体/监管/司法公开网页",
+        "query": "\"益友嘉\" 投诉",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "命中旧家政广告与店铺页；负面标题中的“益友荟”是另一名称/投资项目，不能归为益友嘉家政。本轮公开索引未取得可归属个案。",
+        "resultUrls": [
+          "https://bj.jiazhenggang.com/xuqiu/19852650117.html",
+          "https://bj.jiazhenggang.com/xuqiu/19852650102.html",
+          "https://www.axqcn.cn/info/list_20_1_-1_-1_0_0_6050_6005_-1_-1.html",
+          "https://bj.jiazhenggang.com/user/yyjjz2008/",
+          "https://bj.jiazhenggang.com/wap/xuqiu/19852642728.html",
+          "https://www.cna.com.tw/news/aipl/202205200082.aspx",
+          "https://bj.jiazhenggang.com/wap/xuqiu/19852642688.html",
+          "https://tatehaku.jp/wp-content/themes/tatehaku/common/images/pdf/bulletin/2002/09_2002_02.pdf",
+          "https://www.wazi.cc/article/2532.html",
+          "https://m.xiangmuhezuo.com/wenda/221.html",
+          "https://www.cmnn.cc/article/4825.html",
+          "https://yule.360.com/detail/4808500"
+        ],
+        "status": "ok"
+      }
+    ],
+    "summary": "命中旧家政广告与店铺页；负面标题中的“益友荟”是另一名称/投资项目，不能归为益友嘉家政。本轮公开索引未取得可归属个案。",
+    "coverageLimit": "这是公开索引定向抽样和可读原文核验，不等于投诉平台全库或零投诉证明；未据此声称登录查询12315/裁判文书全库。未披露城市、工种、签约主体的记录不能推断为北京育儿嫂；宣传和招聘不作为消费者口碑。",
+    "cases": [],
+    "excluded": [
+      {
+        "url": "https://www.wazi.cc/article/2532.html",
+        "reason": "益友荟投资项目与益友嘉家政名称、业务均不同。"
+      }
+    ]
+  },
+  {
+    "id": "new-platform-05",
+    "name": "阿依妈妈",
+    "checkedAt": "2026-09-21",
+    "queries": [
+      {
+        "channel": "黑猫投诉公开索引",
+        "query": "site:tousu.sina.com.cn \"阿依妈妈\"",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "本轮该平台定向公开索引未取得可归属个案；搜索不命中不等于没有投诉。",
+        "resultUrls": [],
+        "status": "ok"
+      },
+      {
+        "channel": "消费保公开索引",
+        "query": "site:xfb315.com \"阿依妈妈\"",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "本轮该平台定向公开索引未取得可归属个案；搜索不命中不等于没有投诉。",
+        "resultUrls": [],
+        "status": "ok"
+      },
+      {
+        "channel": "投诉/媒体/监管/司法公开网页",
+        "query": "\"阿依妈妈\" 投诉",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "回读2023年法院文书第三方转载：阿依妈妈起诉前员工返还工作财物，属于公司与员工争议，非雇主消费投诉；天津同品牌培训不自动归北京。本轮未取得可归属北京育儿消费个案。",
+        "resultUrls": [
+          "https://www.tmkoo.com/spw-ws%21info.php?idEn=a75192bdfb3e8282",
+          "https://zh.wikisource.org/wiki/%E5%8C%97%E4%BA%AC%E5%B8%82%E4%B8%B0%E5%8F%B0%E5%8C%BA%E4%BA%BA%E6%B0%91%E6%B3%95%E9%99%A2%EF%BC%882023%EF%BC%89%E4%BA%AC0106%E6%B0%91%E5%88%9D4972%E5%8F%B7%E6%B0%91%E4%BA%8B%E5%88%A4%E5%86%B3%E4%B9%A6",
+          "https://zh.wikisource.org/wiki/%E5%8C%97%E4%BA%AC%E9%98%BF%E4%BE%9D%E5%A6%88%E5%A6%88%E6%95%99%E8%82%B2%E5%92%A8%E8%AF%A2%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E4%B8%8E%E8%B5%B5%E5%BB%BA%E6%AC%A3%E8%BF%94%E8%BF%98%E5%8E%9F%E7%89%A9%E7%BA%A0%E7%BA%B7%E4%B8%80%E5%AE%A1%E6%B0%91%E4%BA%8B%E5%88%A4%E5%86%B3%E4%B9%A6",
+          "https://zh.wikisource.org/zh-hans/%E5%8C%97%E4%BA%AC%E9%98%BF%E4%BE%9D%E5%A6%88%E5%A6%88%E6%95%99%E8%82%B2%E5%92%A8%E8%AF%A2%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E4%B8%8E%E8%B5%B5%E5%BB%BA%E6%AC%A3%E8%BF%94%E8%BF%98%E5%8E%9F%E7%89%A9%E7%BA%A0%E7%BA%B7%E4%B8%80%E5%AE%A1%E6%B0%91%E4%BA%8B%E5%88%A4%E5%86%B3%E4%B9%A6",
+          "https://peixun.dzwww.com/tj/edu/j_c459/0_7144f.html",
+          "https://tj.jiaoyubao.cn/edu/aymm/",
+          "https://peixun.dzwww.com/tj/edu/j_c459/",
+          "https://www.jiaoyubao.cn/top/tj-zhengli/",
+          "https://www.58.com/npphy202209070979/",
+          "https://tj.jiaoyubao.cn/edu/aymm/0.html",
+          "https://edu.dzwww.com/px/j_c459/ping/",
+          "https://m.58.com/bj/baomu/58722808572320x.shtml",
+          "https://www.aksrb.cn/att/201907/12/f0e86529-8224-4024-bcc8-cfdedc27b77a.pdf"
+        ],
+        "status": "ok"
+      }
+    ],
+    "summary": "回读2023年法院文书第三方转载：阿依妈妈起诉前员工返还工作财物，属于公司与员工争议，非雇主消费投诉；天津同品牌培训不自动归北京。本轮未取得可归属北京育儿消费个案。",
+    "coverageLimit": "这是公开索引定向抽样和可读原文核验，不等于投诉平台全库或零投诉证明；未据此声称登录查询12315/裁判文书全库。未披露城市、工种、签约主体的记录不能推断为北京育儿嫂；宣传和招聘不作为消费者口碑。",
+    "cases": [],
+    "excluded": [
+      {
+        "url": "https://zh.wikisource.org/wiki/北京市丰台区人民法院（2023）京0106民初4972号民事判决书",
+        "reason": "已读第三方转载文书：公司起诉前员工返还财物，获支持3000元、其余诉求驳回；不是雇主育儿消费投诉，不作机构消费败诉或既定欠薪。"
+      }
+    ]
+  },
+  {
+    "id": "new-platform-06",
+    "name": "众合瑞家",
+    "checkedAt": "2026-09-21",
+    "queries": [
+      {
+        "channel": "黑猫投诉公开索引",
+        "query": "site:tousu.sina.com.cn \"众合瑞家\"",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "本轮该平台定向公开索引未取得可归属个案；搜索不命中不等于没有投诉。",
+        "resultUrls": [],
+        "status": "ok"
+      },
+      {
+        "channel": "消费保公开索引",
+        "query": "site:xfb315.com \"众合瑞家\"",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "本轮该平台定向公开索引未取得可归属个案；搜索不命中不等于没有投诉。",
+        "resultUrls": [],
+        "status": "ok"
+      },
+      {
+        "channel": "投诉/媒体/监管/司法公开网页",
+        "query": "\"众合瑞家\" 投诉",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "回读2017新京报菲佣调查，众合瑞家员工称公司不能承接涉外业务，但可通过私人关系联系。属于历史媒体风险线索，没有该页行政处罚或判决；不将其它中介2万元定金等情节移植给本店。",
+        "resultUrls": [
+          "https://m.58.com/bj/baomu/28894981157162x.shtml",
+          "https://www.chahaoba.com/13131287698",
+          "https://www.cs.com.cn/xwzx/msxf/201708/t20170802_5403672.html",
+          "https://finance.sina.cn/china/gncj/2017-08-04/detail-ifyitamv4892516.d.html",
+          "https://www.chinabaogao.com/detail/291431.html",
+          "https://www.rmzxw.com.cn/c/2017-08-02/1694278_2.shtml?n2m=1",
+          "https://tracklog.58.com/detail/m/shenghuo/79183847829700x.shtml",
+          "https://www.inxue.com/school-9585/",
+          "https://xudoodoo.com/Article-NDYyNw-192135.html",
+          "https://www.hqol.cn/zixun/article-MTU1OQ%3D%3D-1985750.html",
+          "https://www.bjdch.gov.cn/zwgk/tzgg/202208/P020230410830730796781.pdf",
+          "https://info.51.ca/articles/565648",
+          "https://www.sohu.com/a/1036566375_122721128"
+        ],
+        "status": "ok"
+      }
+    ],
+    "summary": "回读2017新京报菲佣调查，众合瑞家员工称公司不能承接涉外业务，但可通过私人关系联系。属于历史媒体风险线索，没有该页行政处罚或判决；不将其它中介2万元定金等情节移植给本店。",
+    "coverageLimit": "这是公开索引定向抽样和可读原文核验，不等于投诉平台全库或零投诉证明；未据此声称登录查询12315/裁判文书全库。未披露城市、工种、签约主体的记录不能推断为北京育儿嫂；宣传和招聘不作为消费者口碑。",
+    "cases": [
+      {
+        "platform": "新京报，经新浪转载",
+        "title": "2017年涉外家政私人渠道报道线索",
+        "url": "https://finance.sina.cn/china/gncj/2017-08-04/detail-ifyitamv4892516.d.html",
+        "date": "2017-08-04",
+        "city": "北京",
+        "job": "涉外家政，不详是否育儿",
+        "type": "媒体调查",
+        "summary": "记者探访华普花园众合瑞家，员工称国内公司不能承接涉外家政，但可通过私人关系帮忙联系菲律宾家政人员。",
+        "response": "文中呈现员工对业务边界和私人联系渠道的说法；没有独立公司后续说明。",
+        "resolution": "该篇无行政处罚、法院认定或后续处理结论。",
+        "limits": "历史员工表述；报道其它中介收费/证件问题不能全部移植给众合瑞家；品牌与当前合同主体仍需核对。",
+        "match": "brand",
+        "relevance": "other-service",
+        "readStatus": "已读原网页",
+        "issues": [
+          "历史服务渠道"
+        ]
+      }
+    ],
+    "excluded": []
+  },
+  {
+    "id": "new-platform-07",
+    "name": "邦巧手",
+    "checkedAt": "2026-09-21",
+    "queries": [
+      {
+        "channel": "黑猫投诉公开索引",
+        "query": "site:tousu.sina.com.cn \"邦巧手\"",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "本轮该平台定向公开索引未取得可归属个案；搜索不命中不等于没有投诉。",
+        "resultUrls": [],
+        "status": "ok"
+      },
+      {
+        "channel": "消费保公开索引",
+        "query": "site:xfb315.com \"邦巧手\"",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "本轮该平台定向公开索引未取得可归属个案；搜索不命中不等于没有投诉。",
+        "resultUrls": [],
+        "status": "ok"
+      },
+      {
+        "channel": "投诉/媒体/监管/司法公开网页",
+        "query": "\"邦巧手\" 投诉",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "命中北京邦巧手科技有限公司第三方登记线索，机器人灵心巧手及台湾企业诉讼并非本机构。本轮公开索引未取得可归属个案，店铺执照与同名主体未核。",
+        "resultUrls": [
+          "https://www.shuididp.cn/yp-87cacb9566178f263a718078f2804601.html",
+          "https://www.jingfu.org.tw/doc/jff_mgz_m28-12.pdf?P_MID=MGZ102004012",
+          "https://laij76.pixnet.net/blog/posts/10352756928",
+          "https://lawplayer.com/company/53711211",
+          "https://szb.hkwb.net/epaper/xml/hkrb/20240111/A05B20240111C.pdf",
+          "https://static.cninfo.com.cn/finalpage/2024-03-27/1219412282.PDF",
+          "https://ivantsoi.myds.me/web/schoolebook/pdf/034042.pdf",
+          "https://www.tospolighting.com.cn/uploads/File/CpImage/202008/20200810142633500.pdf",
+          "https://www.tospolighting.com.cn/uploads/File/CpImage/201609/20160906123022660.pdf",
+          "https://www.chinapp.net.cn/shangwu/article-lrcy-1302225.html",
+          "https://www.huxiu.com/article/4869607.html?type=text",
+          "https://twonline9007.pixnet.net/blog/posts/15347282925",
+          "https://keicolin.pixnet.net/blog/posts/8192090336",
+          "https://www.cyzone.cn/article/839757.html",
+          "https://dldtby.com/zfhcxjsj/",
+          "https://lcn0819.pixnet.net/blog/post/320527332",
+          "https://vivian681221.pixnet.net/blog/posts/46987292"
+        ],
+        "status": "ok"
+      }
+    ],
+    "summary": "命中北京邦巧手科技有限公司第三方登记线索，机器人灵心巧手及台湾企业诉讼并非本机构。本轮公开索引未取得可归属个案，店铺执照与同名主体未核。",
+    "coverageLimit": "这是公开索引定向抽样和可读原文核验，不等于投诉平台全库或零投诉证明；未据此声称登录查询12315/裁判文书全库。未披露城市、工种、签约主体的记录不能推断为北京育儿嫂；宣传和招聘不作为消费者口碑。",
+    "cases": [],
+    "excluded": []
+  },
+  {
+    "id": "new-platform-08",
+    "name": "汇众万家",
+    "checkedAt": "2026-09-21",
+    "queries": [
+      {
+        "channel": "黑猫投诉公开索引",
+        "query": "site:tousu.sina.com.cn \"汇众万家\"",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "本轮该平台定向公开索引未取得可归属个案；搜索不命中不等于没有投诉。",
+        "resultUrls": [],
+        "status": "ok"
+      },
+      {
+        "channel": "消费保公开索引",
+        "query": "site:xfb315.com \"汇众万家\"",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "本轮该平台定向公开索引未取得可归属个案；搜索不命中不等于没有投诉。",
+        "resultUrls": [],
+        "status": "ok"
+      },
+      {
+        "channel": "投诉/媒体/监管/司法公开网页",
+        "query": "\"汇众万家\" 投诉",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "回读2023年法院转载文书：汇众万家为家政合同中介，但诉讼是护老人员向个人雇主追春节工资，机构不是被告。不可当机构败诉或育儿投诉，且与京东店铺关系未核。",
+        "resultUrls": [
+          "https://zh.wikisource.org/zh-hans/%E5%8C%97%E4%BA%AC%E5%B8%82%E4%B8%9C%E5%9F%8E%E5%8C%BA%E4%BA%BA%E6%B0%91%E6%B3%95%E9%99%A2%EF%BC%882023%EF%BC%89%E4%BA%AC0101%E6%B0%91%E5%88%9D2582%E5%8F%B7%E6%B0%91%E4%BA%8B%E5%88%A4%E5%86%B3%E4%B9%A6",
+          "https://zh.wikisource.org/zh-hans/%E5%AD%99%E6%96%87%E4%B8%8E%E5%AD%99%E8%BF%9B%E5%BF%A0%E5%AE%B6%E6%94%BF%E6%9C%8D%E5%8A%A1%E5%90%88%E5%90%8C%E7%BA%A0%E7%BA%B7%E4%B8%80%E5%AE%A1%E6%B0%91%E4%BA%8B%E5%88%A4%E5%86%B3%E4%B9%A6",
+          "https://www.jd.com/jiage/9847192bc4439a02f060.html?electedExtAttrSet=878%2C&extAttrValue=expand_name%2C%4069287%3A%3A878&sort_type=sort_default",
+          "https://www.jd.com/jiage/91923db1a51bfd03b428.html?brand=%E6%B1%87%E4%BC%97%E4%BA%BF%E4%B8%87%E5%AE%B6&electedExtAttrSet=&extAttrValue=expand_name%2C&sort_type=sort_default",
+          "https://www.jd.com/jiage/137659b7385001877b496.html?electedExtAttrSet=878%2C&extAttrValue=expand_name%2C%4069287%3A%3A878&sort_type=sort_default",
+          "https://www.jd.com/jiage/9847192bc4439a02f060.html?electedExtAttrSet=878%2C&extAttrValue=expand_name%2C%40300096%3A%3A878&sort_type=sort_default",
+          "https://www.jd.com/jiage/17133e87425ec5049f37.html",
+          "https://www.jd.com/jiage/1713c462ae5b46cc464c.html",
+          "https://www.jd.com/jiage/159010fc16bbebe6b1eb1.html",
+          "https://www.jd.com/brand/1713cc4d3f38a549d9a5.html",
+          "https://amr.sz.gov.cn/xxgk/qt/ztlm/yxhaqjg/rcjggs/yxjdjc/content/post_9813337.html",
+          "https://static.cninfo.com.cn/finalpage/2023-05-16/1216817194.PDF",
+          "https://amr.sz.gov.cn/xxgk/qt/ztlm/yxhaqjg/rcjggs/ypjdjc/content/post_12241831.html"
+        ],
+        "status": "ok"
+      }
+    ],
+    "summary": "回读2023年法院转载文书：汇众万家为家政合同中介，但诉讼是护老人员向个人雇主追春节工资，机构不是被告。不可当机构败诉或育儿投诉，且与京东店铺关系未核。",
+    "coverageLimit": "这是公开索引定向抽样和可读原文核验，不等于投诉平台全库或零投诉证明；未据此声称登录查询12315/裁判文书全库。未披露城市、工种、签约主体的记录不能推断为北京育儿嫂；宣传和招聘不作为消费者口碑。",
+    "cases": [],
+    "excluded": [
+      {
+        "url": "https://zh.wikisource.org/zh-hans/北京市东城区人民法院（2023）京0101民初2582号民事判决书",
+        "reason": "已读第三方转载：护老人员向个人雇主追384元春节工资，法院驳回其请求；汇众万家只是合同中介、非被告，且与京东店铺关系未核。"
+      }
+    ]
+  },
+  {
+    "id": "new-zhongxiang",
+    "name": "中享家政",
+    "checkedAt": "2026-09-21",
+    "queries": [
+      {
+        "channel": "黑猫投诉公开索引",
+        "query": "site:tousu.sina.com.cn \"中享家政\"",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "本轮该平台定向公开索引未取得可归属个案；搜索不命中不等于没有投诉。",
+        "resultUrls": [],
+        "status": "ok"
+      },
+      {
+        "channel": "消费保公开索引",
+        "query": "site:xfb315.com \"中享家政\"",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "本轮该平台定向公开索引未取得可归属个案；搜索不命中不等于没有投诉。",
+        "resultUrls": [],
+        "status": "ok"
+      },
+      {
+        "channel": "投诉/媒体/监管/司法公开网页",
+        "query": "\"中享家政\" 投诉",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "命中协会企业简介、招聘等；服务承诺中的投诉机制属于企业宣传，不是实际记录。本轮公开索引未取得可归属个案。",
+        "resultUrls": [
+          "https://www.chsa.com.cn/nd.jsp?fromColId=132&id=797",
+          "https://www.chsa.com.cn/col.jsp?id=132",
+          "https://qy.58.com/detail_1897462535372722177/",
+          "https://www.chsa.com.cn/col.jsp?id=128",
+          "https://www.chsa.com.cn/nd.jsp?id=823",
+          "https://www.chsa.com.cn/col.jsp?id=132&m552pageno=2",
+          "https://www.chsa.com.cn/nr.jsp?_np=0_31_38",
+          "https://m.zhipin.com/companys/b62d115bedc94e2e03J9096_GVA~.html",
+          "https://zp.58.com/w/zhiwei/hugong/xinzi/",
+          "https://qy.58.com/detail_1504072079794823168/",
+          "https://qy.58.com/detail_1631074063382278144/",
+          "https://beijing.zjcqzx.cn/app-city-path/20363.html"
+        ],
+        "status": "ok"
+      }
+    ],
+    "summary": "命中协会企业简介、招聘等；服务承诺中的投诉机制属于企业宣传，不是实际记录。本轮公开索引未取得可归属个案。",
+    "coverageLimit": "这是公开索引定向抽样和可读原文核验，不等于投诉平台全库或零投诉证明；未据此声称登录查询12315/裁判文书全库。未披露城市、工种、签约主体的记录不能推断为北京育儿嫂；宣传和招聘不作为消费者口碑。",
+    "cases": [],
+    "excluded": []
+  },
+  {
+    "id": "new-xinghu",
+    "name": "星护星选",
+    "checkedAt": "2026-09-21",
+    "queries": [
+      {
+        "channel": "黑猫投诉公开索引",
+        "query": "site:tousu.sina.com.cn \"星护星选\"",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "本轮该平台定向公开索引未取得可归属个案；搜索不命中不等于没有投诉。",
+        "resultUrls": [],
+        "status": "ok"
+      },
+      {
+        "channel": "消费保公开索引",
+        "query": "site:xfb315.com \"星护星选\"",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "本轮该平台定向公开索引未取得可归属个案；搜索不命中不等于没有投诉。",
+        "resultUrls": [],
+        "status": "ok"
+      },
+      {
+        "channel": "投诉/媒体/监管/司法公开网页",
+        "query": "\"星护星选\" 投诉",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "公开索引被大量“口碑榜”“避坑指南”等推广稿覆盖，不能用推广中的好评/零投诉作为独立口碑。本轮索引未取得可归属消费者个案。",
+        "resultUrls": [
+          "https://www.sohu.com/a/1077515801_122940793",
+          "https://www.cnblogs.com/myqiye/p/21189328",
+          "https://www.chsa.com.cn/nr.jsp?_np=0_548_46",
+          "https://www.cnblogs.com/mypinpai/p/21188943",
+          "https://www.chsa.com.cn/nr.jsp?_np=0_31_38",
+          "https://www.sohu.com/a/1077544844_122940793",
+          "https://www.youthcn.com.cn/qiyezixun/7848486.html",
+          "https://www.cnblogs.com/mygysb/p/21188954",
+          "https://www.sohu.com/a/1078004015_122940793",
+          "https://www.cnblogs.com/mypinpai/p/archive/2026/07/31",
+          "https://www.sohu.com/a/1049941523_122495486",
+          "https://www.sohu.com/a/1069703201_122940793"
+        ],
+        "status": "ok"
+      }
+    ],
+    "summary": "公开索引被大量“口碑榜”“避坑指南”等推广稿覆盖，不能用推广中的好评/零投诉作为独立口碑。本轮索引未取得可归属消费者个案。",
+    "coverageLimit": "这是公开索引定向抽样和可读原文核验，不等于投诉平台全库或零投诉证明；未据此声称登录查询12315/裁判文书全库。未披露城市、工种、签约主体的记录不能推断为北京育儿嫂；宣传和招聘不作为消费者口碑。",
+    "cases": [],
+    "excluded": []
+  },
+  {
+    "id": "new-qingyuan",
+    "name": "清源管家",
+    "checkedAt": "2026-09-21",
+    "queries": [
+      {
+        "channel": "黑猫投诉公开索引",
+        "query": "site:tousu.sina.com.cn \"清源管家\"",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "本轮该平台定向公开索引未取得可归属个案；搜索不命中不等于没有投诉。",
+        "resultUrls": [],
+        "status": "ok"
+      },
+      {
+        "channel": "消费保公开索引",
+        "query": "site:xfb315.com \"清源管家\"",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "本轮该平台定向公开索引未取得可归属个案；搜索不命中不等于没有投诉。",
+        "resultUrls": [],
+        "status": "ok"
+      },
+      {
+        "channel": "投诉/媒体/监管/司法公开网页",
+        "query": "\"清源管家\" 投诉",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "结果为协会名录与招聘，没有可归属的投诉处理记录；本轮公开索引未取得可归属个案。",
+        "resultUrls": [
+          "https://www.chsa.com.cn/nr.jsp?_np=0_31_38",
+          "https://www.chsa.com.cn/nr.jsp?_np=0_548_46",
+          "https://m.zhipin.com/companys/10e2781043f1d63b03N429W9EFU~.html",
+          "https://www.zhaopin.com/zhaopin/aa0aaf8b1a83434f9c16eff0c8a08205/",
+          "https://www.zhaopin.com/zhaopin/fa40011fcca1404fba8ba3b7e716346b/",
+          "https://www.zhaopin.com/zhaopin/94647664fc6e47ea98ebb18a0988bc53/",
+          "https://www.zhaopin.com/zhaopin/e6fb46b5512c41e8950afa05050a9244/",
+          "https://www.zhaopin.com/sou/jl530/kwBER6AFO",
+          "https://www.58.com/ppezp2024032820038/",
+          "https://m.zhipin.com/zhaopin/d76071ea3a99531b1nx429q6/",
+          "https://www.zhaopin.com/zhaopin/8b0826d26b6a492e9b66e4285a283e42/",
+          "https://m.zhaopin.com/zhaopin/5ac907cfd679423781c23c142b934c6a/",
+          "https://sbcg.fzu.edu.cn/sfw_cms/r/s/cms/ede823361d7641dfb5929b26ea6e6a28/0/%E7%A6%8F%E5%B7%9E%E5%A4%A7%E5%AD%A6%E6%B3%89%E6%B8%AF%E6%A0%A1%E5%8C%BA%E7%89%A9%E4%B8%9A%E6%9C%8D%E5%8A%A1%E9%A1%B9%E7%9B%AE%E6%8B%9B%E6%A0%87%E6%96%87%E4%BB%B6%EF%BC%88%E9%A2%84%E5%85%AC%E5%91%8A%E7%A8%BF%EF%BC%89.docx"
+        ],
+        "status": "ok"
+      }
+    ],
+    "summary": "结果为协会名录与招聘，没有可归属的投诉处理记录；本轮公开索引未取得可归属个案。",
+    "coverageLimit": "这是公开索引定向抽样和可读原文核验，不等于投诉平台全库或零投诉证明；未据此声称登录查询12315/裁判文书全库。未披露城市、工种、签约主体的记录不能推断为北京育儿嫂；宣传和招聘不作为消费者口碑。",
+    "cases": [],
+    "excluded": []
+  },
+  {
+    "id": "new-association-jiahe",
+    "name": "佳和誉泰",
+    "checkedAt": "2026-09-21",
+    "queries": [
+      {
+        "channel": "黑猫投诉公开索引",
+        "query": "site:tousu.sina.com.cn \"佳和誉泰\"",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "本轮该平台定向公开索引未取得可归属个案；搜索不命中不等于没有投诉。",
+        "resultUrls": [],
+        "status": "ok"
+      },
+      {
+        "channel": "消费保公开索引",
+        "query": "site:xfb315.com \"佳和誉泰\"",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "本轮该平台定向公开索引未取得可归属个案；搜索不命中不等于没有投诉。",
+        "resultUrls": [],
+        "status": "ok"
+      },
+      {
+        "channel": "投诉/媒体/监管/司法公开网页",
+        "query": "\"佳和誉泰\" 投诉",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "结果为官网、培训页和商标；四川同名企业管理公司不同主体。宣传里的“零投诉”未获独立验证，本轮公开索引未取得可归属个案。",
+        "resultUrls": [
+          "https://www.jhytjz.cn/col.jsp?id=104",
+          "https://www.shuididp.cn/yp-88193df6e178b77120f1f31c28966e01.html",
+          "https://www.byxue.com/school-7992/",
+          "https://tm.aliyun.com/detail/0214_21438294_45",
+          "https://www.ibixue.com/school-7992/",
+          "https://www.58.com/npphy202211245124/",
+          "https://m.bj.bendibao.com/wangdian/jiazheng/list4.htm",
+          "https://www.dongdongchai.com/so/24883_2.html",
+          "https://news.sina.cn/2020-09-25/detail-iivhuipp6468365.d.html",
+          "https://www.58.com/npphy202212046775/"
+        ],
+        "status": "ok"
+      }
+    ],
+    "summary": "结果为官网、培训页和商标；四川同名企业管理公司不同主体。宣传里的“零投诉”未获独立验证，本轮公开索引未取得可归属个案。",
+    "coverageLimit": "这是公开索引定向抽样和可读原文核验，不等于投诉平台全库或零投诉证明；未据此声称登录查询12315/裁判文书全库。未披露城市、工种、签约主体的记录不能推断为北京育儿嫂；宣传和招聘不作为消费者口碑。",
+    "cases": [],
+    "excluded": [
+      {
+        "url": "https://www.shuididp.cn/yp-88193df6e178b77120f1f31c28966e01.html",
+        "reason": "四川佳和誉泰企业管理公司不同于北京佳和誉泰家政。"
+      }
+    ]
+  },
+  {
+    "id": "new-association-jiayi",
+    "name": "佳翊会",
+    "checkedAt": "2026-09-21",
+    "queries": [
+      {
+        "channel": "黑猫投诉公开索引",
+        "query": "site:tousu.sina.com.cn \"佳翊会\"",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "本轮该平台定向公开索引未取得可归属个案；搜索不命中不等于没有投诉。",
+        "resultUrls": [],
+        "status": "ok"
+      },
+      {
+        "channel": "消费保公开索引",
+        "query": "site:xfb315.com \"佳翊会\"",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "本轮该平台定向公开索引未取得可归属个案；搜索不命中不等于没有投诉。",
+        "resultUrls": [],
+        "status": "ok"
+      },
+      {
+        "channel": "投诉/媒体/监管/司法公开网页",
+        "query": "\"佳翊会\" 投诉",
+        "method": "公开网页索引定向检索；查询结果按主体人工核对",
+        "resultSummary": "回读三联2023医院停业报道：提及的佳翊会咨询服务公司为被拖欠月嫂费用的一方，报道并称其垫付月嫂工资；不能反向归为该家政欠薪。与协会教育科技主体关系未核。",
+        "resultUrls": [
+          "https://paper.people.com.cn/rmrbhwb/page/2018-01/24/06/rmrbhwb2018012406.pdf",
+          "https://paper.people.com.cn/rmrbhwb/page/2017-09/02/10/rmrbhwb2017090210.pdf",
+          "https://tm.aliyun.com/detail/a495_36519969_35",
+          "https://m.91goodschool.com/school/10791.html",
+          "https://www.lifeweek.com.cn/h5/article/detail.do?artId=204593",
+          "https://m.city8.com/bj/life/88945t8202yzbd15e3_address",
+          "https://www.91goodschool.com/course/10791-187876.html",
+          "https://bj.jiaoyubao.cn/edu/jymy/",
+          "https://edu.sdnews.com.cn/bj/j_1ee63/index.html",
+          "https://www.jiaoyubao.cn/ka/521433.html",
+          "https://www.91goodschool.com/course/10791-187870.html",
+          "https://www.youbangkeyi.com/newdetail/106044",
+          "https://edu.sdnews.com.cn/bj/j_1ee63/about/index.html",
+          "https://peixun.dzwww.com/bj/edu/j_f706/",
+          "https://paper.people.com.cn/zgcsb/pc/attachement/202502/24/8a1c857b-060f-44e3-bb08-679ecfe001dc.pdf"
+        ],
+        "status": "ok"
+      }
+    ],
+    "summary": "回读三联2023医院停业报道：提及的佳翊会咨询服务公司为被拖欠月嫂费用的一方，报道并称其垫付月嫂工资；不能反向归为该家政欠薪。与协会教育科技主体关系未核。",
+    "coverageLimit": "这是公开索引定向抽样和可读原文核验，不等于投诉平台全库或零投诉证明；未据此声称登录查询12315/裁判文书全库。未披露城市、工种、签约主体的记录不能推断为北京育儿嫂；宣传和招聘不作为消费者口碑。",
+    "cases": [],
+    "excluded": [
+      {
+        "url": "https://www.lifeweek.com.cn/h5/article/detail.do?artId=204593",
+        "reason": "已读三联2023-05-11报道：佳翊会咨询公司为医院欠款债权人且垫付月嫂工资，不能误写成其拖欠工资；与本项教育科技主体关系仍未核。"
+      }
+    ]
+  }
+]

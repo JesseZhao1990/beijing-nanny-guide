@@ -1,0 +1,919 @@
+[
+  {
+    "agencyId": "agency-02",
+    "query": "北京阿姨来了信息科技有限公司",
+    "displayedCount": 8,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "agency-02",
+    "query": "北京嘉乐会家政服务有限公司",
+    "displayedCount": 14,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "agency-03",
+    "query": "北京爱侬家政服务有限公司",
+    "displayedCount": 0,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "agency-03",
+    "query": "北京爱侬养老科技发展股份有限公司",
+    "displayedCount": 2,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "agency-04",
+    "query": "北京中青家政有限公司",
+    "displayedCount": 0,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "agency-05",
+    "query": "北京家事无忧家政服务有限公司",
+    "displayedCount": 33,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "agency-06",
+    "query": "北京维骐迅腾投资管理有限公司",
+    "displayedCount": 0,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "agency-07",
+    "query": "北京我爱我妻科技有限公司",
+    "displayedCount": 0,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "agency-01",
+    "query": "五八到家有限公司",
+    "displayedCount": 703,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "agency-08",
+    "query": "北京亿婴宝教育科技有限公司",
+    "displayedCount": 1,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "agency-09",
+    "query": "北京万婴宝家政服务有限公司",
+    "displayedCount": 1,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "agency-10",
+    "query": "北京喜来盈家政服务有限公司",
+    "displayedCount": 0,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "agency-11",
+    "query": "北京家嘉华洋科技发展有限公司",
+    "displayedCount": 1,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "agency-11",
+    "query": "北京乐太母婴护理有限公司",
+    "displayedCount": 2,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "agency-12",
+    "query": "北京福月佳家政服务有限公司",
+    "displayedCount": 0,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "agency-13",
+    "query": "北京享月亲贝家政服务有限公司",
+    "displayedCount": 3,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "agency-14",
+    "query": "妇贵宝贝（北京）科技有限公司",
+    "displayedCount": 1,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "agency-15",
+    "query": "北京乐益佳家政服务有限公司",
+    "displayedCount": 4,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "agency-16",
+    "query": "北京大班家政服务有限公司",
+    "displayedCount": 16,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "agency-17",
+    "query": "北京象网科技有限公司",
+    "displayedCount": 2,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "agency-18",
+    "query": "北京靓婴堂咨询服务有限公司",
+    "displayedCount": 0,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "agency-18",
+    "query": "北京婴之宝咨询服务有限公司",
+    "displayedCount": 0,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "agency-19",
+    "query": "北京予馨海韵教育咨询有限公司",
+    "displayedCount": 0,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "agency-20",
+    "query": "北京阳光北亚家政服务有限公司",
+    "displayedCount": 0,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "agency-21",
+    "query": "北京唐顿世家科技有限公司",
+    "displayedCount": 11,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "agency-22",
+    "query": "艾禧悦",
+    "displayedCount": 0,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "agency-23",
+    "query": "北京阿华妈咪家政服务有限责任公司",
+    "displayedCount": 0,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "agency-23",
+    "query": "北京阿华妈咪母婴护理有限责任公司",
+    "displayedCount": 0,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "agency-24",
+    "query": "北京瑞多帮家政服务有限公司",
+    "displayedCount": 0,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "agency-25",
+    "query": "北京京鋆管家科技服务有限公司",
+    "displayedCount": 0,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "agency-26",
+    "query": "找个保姆",
+    "displayedCount": 0,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "agency-27",
+    "query": "国选（北京）家庭服务有限公司",
+    "displayedCount": 8,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "agency-28",
+    "query": "北京妈妈乐科技有限公司",
+    "displayedCount": 0,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "agency-29",
+    "query": "北京贝亲贝乐家政有限公司",
+    "displayedCount": 0,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "agency-30",
+    "query": "北京顺康家政服务有限公司",
+    "displayedCount": 1,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "agency-30",
+    "query": "北京顺康家业家政服务有限公司",
+    "displayedCount": 0,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "agency-31",
+    "query": "北京鑫悦家政服务有限公司",
+    "displayedCount": 0,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "agency-32",
+    "query": "北京金有鑫家政有限公司",
+    "displayedCount": 0,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "agency-33",
+    "query": "北京丽洁世纪家政服务有限公司",
+    "displayedCount": 0,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "agency-34",
+    "query": "北京置业家政",
+    "displayedCount": 0,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "agency-35",
+    "query": "北京新鑫家政服务有限公司",
+    "displayedCount": 0,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "agency-36",
+    "query": "北京华夏逢缘家政服务有限公司",
+    "displayedCount": 0,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "agency-37",
+    "query": "北京运成家政服务有限公司",
+    "displayedCount": 0,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "agency-38",
+    "query": "北京优贝优家政服务有限公司",
+    "displayedCount": 0,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "agency-39",
+    "query": "北京齐家家政服务有限公司",
+    "displayedCount": 0,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "agency-40",
+    "query": "北京三晋之家家政服务有限公司",
+    "displayedCount": 0,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "agency-41",
+    "query": "北京康佑佳健康管理有限公司",
+    "displayedCount": 0,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "agency-42",
+    "query": "北京康贝乐家政服务有限公司",
+    "displayedCount": 0,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "agency-43",
+    "query": "北京君诚安家家政服务有限公司",
+    "displayedCount": 0,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "agency-44",
+    "query": "北京俊誉家政服务有限公司",
+    "displayedCount": 1,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "agency-45",
+    "query": "北京昊煜坤城",
+    "displayedCount": 0,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "agency-46",
+    "query": "北京春宇家政服务有限公司",
+    "displayedCount": 0,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "agency-46",
+    "query": "北京春雨家政服务有限公司",
+    "displayedCount": 0,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "agency-47",
+    "query": "深圳轻喜到家科技有限公司",
+    "displayedCount": 449,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "agency-48",
+    "query": "北京爱贝佳",
+    "displayedCount": 0,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "agency-49",
+    "query": "北京华夏中青家政服务有限公司",
+    "displayedCount": 0,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "agency-50",
+    "query": "北京易盟天地信息技术股份有限公司",
+    "displayedCount": 0,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "agency-51",
+    "query": "北京三替养老护理集团有限公司",
+    "displayedCount": 0,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "agency-52",
+    "query": "北京育天使家政服务有限公司",
+    "displayedCount": 10,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "agency-53",
+    "query": "58到家",
+    "displayedCount": 134,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "agency-54",
+    "query": "北京京东家政服务有限公司",
+    "displayedCount": 753,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "agency-54",
+    "query": "北京京东厚行科技有限公司",
+    "displayedCount": 0,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "candidate-local-01",
+    "query": "北京利人家政有限公司",
+    "displayedCount": 0,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "candidate-local-02",
+    "query": "北京陈诚家政服务有限公司",
+    "displayedCount": 0,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "candidate-local-03",
+    "query": "北京春和万家家政服务有限公司",
+    "displayedCount": 0,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "candidate-local-04",
+    "query": "北京神灯阿姨科技有限公司",
+    "displayedCount": 0,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "candidate-local-05",
+    "query": "北京正点家政集团有限公司",
+    "displayedCount": 0,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "candidate-local-06",
+    "query": "北京家家福宁家政有限公司",
+    "displayedCount": 0,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "candidate-local-07",
+    "query": "北京妇婴乐家政服务有限公司",
+    "displayedCount": 0,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "new-yijiamei",
+    "query": "北京易家美",
+    "displayedCount": 0,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "new-yilian",
+    "query": "依链（北京）家政服务管理有限公司",
+    "displayedCount": 0,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "new-weijiahui",
+    "query": "北京为家汇家庭服务有限公司",
+    "displayedCount": 0,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "new-daxi",
+    "query": "北京达喜母婴护理有限公司",
+    "displayedCount": 0,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "new-aibaobei",
+    "query": "爱宝蓓（北京）家政服务有限责任公司",
+    "displayedCount": 0,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "new-aijiali",
+    "query": "爱嘉里家政",
+    "displayedCount": 0,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "new-ejiabang",
+    "query": "广州互缘网络科技有限公司",
+    "displayedCount": 3,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "new-youbaobei",
+    "query": "北京优宝贝国际家政服务有限公司",
+    "displayedCount": 0,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "new-platform-01",
+    "query": "北京晞悦嘉贝家政服务有限公司",
+    "displayedCount": 0,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "new-platform-02",
+    "query": "沪上睿知（上海）科技服务有限公司",
+    "displayedCount": 0,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "new-platform-03",
+    "query": "北京京南领航家政有限公司",
+    "displayedCount": 0,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "new-platform-04",
+    "query": "北京益友嘉",
+    "displayedCount": 0,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "new-platform-05",
+    "query": "北京阿依妈妈教育咨询有限公司",
+    "displayedCount": 0,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "new-platform-06",
+    "query": "北京众合瑞家健康科技有限公司",
+    "displayedCount": 1,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "new-platform-07",
+    "query": "北京邦巧手科技有限公司",
+    "displayedCount": 0,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "new-platform-08",
+    "query": "汇众万家",
+    "displayedCount": 0,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "new-zhongxiang",
+    "query": "北京中享家政服务有限公司",
+    "displayedCount": 0,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "new-xinghu",
+    "query": "北京星护星选科技有限公司",
+    "displayedCount": 1,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "new-qingyuan",
+    "query": "北京清源管家家政有限公司",
+    "displayedCount": 3,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "new-association-jiahe",
+    "query": "北京佳和誉泰家政服务有限公司",
+    "displayedCount": 0,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "new-association-jiayi",
+    "query": "北京佳翊教育科技服务有限公司",
+    "displayedCount": 0,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "new-association-yangguang21",
+    "query": "北京阳光二十一文化发展有限公司",
+    "displayedCount": 0,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "new-association-enci",
+    "query": "北京恩赐月嫂家政服务有限公司",
+    "displayedCount": 0,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "new-association-super",
+    "query": "北京超级保姆家政服务有限公司",
+    "displayedCount": 1,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "new-association-guanjia",
+    "query": "北京管家多多家政有限公司",
+    "displayedCount": 5,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "new-association-fuping",
+    "query": "北京福平家政服务有限公司",
+    "displayedCount": 0,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "new-association-aiyingbao",
+    "query": "北京爱婴宝家政服务有限公司",
+    "displayedCount": 0,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "new-association-zhengde",
+    "query": "北京市昌平区正德社区服务中心",
+    "displayedCount": 0,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "candidate-assoc-589",
+    "query": "北京家和贝婴健康科技有限公司",
+    "displayedCount": 0,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "new-association-fumushijian",
+    "query": "北京父母时间教育科技有限公司",
+    "displayedCount": 0,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "new-association-wenwu",
+    "query": "北京文武家政服务有限公司",
+    "displayedCount": 0,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "new-association-liuba",
+    "query": "北京六八到家家政服务有限公司",
+    "displayedCount": 2,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "new-association-chengyouqing",
+    "query": "北京诚友情家政服务有限公司",
+    "displayedCount": 0,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "new-association-yunduo",
+    "query": "北京云朵家政服务有限公司",
+    "displayedCount": 30,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "new-association-qiaoguanjia",
+    "query": "俏管家（北京）家政服务有限公司",
+    "displayedCount": 2,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "candidate-assoc-835",
+    "query": "北京安得家政有限公司",
+    "displayedCount": 0,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "new-gov-youhaoheping",
+    "query": "北京友好和平护理服务有限公司",
+    "displayedCount": 0,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "new-gov-laobingaimin",
+    "query": "北京老兵爱民家政服务有限公司",
+    "displayedCount": 0,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "new-gov-qijieli",
+    "query": "北京祺捷利技术发展有限公司",
+    "displayedCount": 0,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "new-gov-jinridongfang",
+    "query": "北京今日东方家政服务有限公司",
+    "displayedCount": 0,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "new-gov-wenzhutang",
+    "query": "北京闻竹堂家政服务有限公司",
+    "displayedCount": 0,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "new-gov-hemeijia",
+    "query": "北京和美家社区服务有限公司",
+    "displayedCount": 0,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "new-gov-yinao",
+    "query": "北京茵澳生活服务有限公司",
+    "displayedCount": 0,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "new-government-b-01",
+    "query": "仁友家政",
+    "displayedCount": 0,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "new-government-b-02",
+    "query": "北京德茂家政服务有限公司",
+    "displayedCount": 0,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "new-government-b-03",
+    "query": "北京京平绿谷家政服务有限公司",
+    "displayedCount": 0,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "new-government-b-04",
+    "query": "育乐宝家政",
+    "displayedCount": 0,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "new-government-b-05",
+    "query": "华宇密嫂",
+    "displayedCount": 0,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "new-government-b-06",
+    "query": "乐活圈（北京）信息科技有限公司",
+    "displayedCount": 0,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "new-government-b-07",
+    "query": "北京金萌泰医院管理集团有限公司",
+    "displayedCount": 3,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "candidate-huijiafeng",
+    "query": "北京市惠佳丰劳务服务有限责任公司",
+    "displayedCount": 0,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "new-last-xifutianshi",
+    "query": "北京喜福天使家政服务有限公司",
+    "displayedCount": 0,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "new-last-jiaren",
+    "query": "北京嘉仁家政有限公司",
+    "displayedCount": 0,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "new-last-baobeiduoduo",
+    "query": "北京宝贝多多家政服务有限公司",
+    "displayedCount": 0,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "new-root-lexibao",
+    "query": "北京乐禧宝健康管理有限公司",
+    "displayedCount": 0,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "new-root-jinyue",
+    "query": "金月时代（北京）家政服务有限公司",
+    "displayedCount": 0,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "new-root-jingduo",
+    "query": "北京京朵家政服务有限公司",
+    "displayedCount": 0,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "new-taiweifeng",
+    "query": "北京泰维峰家政服务有限公司",
+    "displayedCount": 0,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "new-fengweizhu",
+    "query": "北京凤尾竹家政服务有限责任公司",
+    "displayedCount": 0,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "new-last-ayinbao",
+    "query": "北京爱因宝家政有限公司",
+    "displayedCount": 0,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "new-youhujia",
+    "query": "北京优护佳健康管理有限公司",
+    "displayedCount": 3,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  },
+  {
+    "agencyId": "new-anxinshenghuo",
+    "query": "北京袋鼠管家家政服务有限公司",
+    "displayedCount": 0,
+    "url": "https://tsgs.12315.cn/#/viewport",
+    "checkedAt": "2026-09-21"
+  }
+]

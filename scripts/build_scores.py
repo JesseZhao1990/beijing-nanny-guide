@@ -58,7 +58,7 @@ for item in sorted(data['items'], key=lambda i:(['confirmed','pending','platform
     s=item['scorecard']
     row={'机构':item['name'],'比较分组':labels[item['businessStatus']],'默认保障资料参考分':s['total'],'主榜名次':s['rank'] or '',
          '并列': '是' if s['tied'] else '否','有加分依据维度数':s['covered'],'总维度数':6,'评分说明':s['summary'],
-         '口碑提示（不计入分数）':item['reputation'],'证据截至':rubric['evidenceAsOf'],'模型版本':rubric['version']}
+         '原调查口碑提示（不计入分数）':item['reputation'],'本轮投诉补查':item.get('complaintAudit',{}).get('summary',''),'官方公示核查':item.get('governmentAudit',{}).get('summary',''),'证据截至':rubric['evidenceAsOf'],'模型版本':rubric['version']}
     for index,d in enumerate(rubric['dimensions']):
         row[d['name']+'得分（满分'+str(d['weight'])+'）']=s['levels'][index]*d['weight']//5
         row[d['name']+'档位（0–5）']=s['levels'][index]
